@@ -1,0 +1,100 @@
+,Venue,Latitude,Longitude,Group,Category
+0,Ickenham Miniature Railway,51.564085949303,-0.44207096099853516,Transport,Light_rail
+1,Ruislip Lido Railway,51.588806484599665,-0.42940030897144116,Transport,Light_rail
+2,Willow Lawn (RLR),51.592772,-0.431963,Transport,Light_rail
+3,Malden DSME,51.381854114463174,-0.3324422540161441,Transport,Light_rail
+4,Hampton and Kempton Waterworks Railway,51.42601911823001,-0.4063975811004638,Transport,Light_rail
+5,Southern to Victoria Station,51.32980160887965,-0.2690480669604179,Transport,Light_rail
+6,Mortlake Level Crossing,51.46780766030393,-0.26671457939032067,Transport,Light_rail
+7,Kew Explorer Stop 1,51.478391,-0.291481,Transport,Light_rail
+9,West Coast Mainline,51.533035,-0.271431,Transport,Light_rail
+11,Sutton Model Engineering Club,51.383564,-0.2096619,Transport,Light_rail
+15,Ealing to London Paddington,51.523912701395076,-0.21131062725771171,Transport,Light_rail
+16,reading-London,51.3632698059082,-0.1931481957435608,Transport,Light_rail
+18,lily Bridge 1 Middle,51.48784255981445,-0.19496700167655945,Transport,Light_rail
+19,lily bridge 7 shed road,51.490048879554685,-0.2014019224688652,Transport,Light_rail
+20,Lily Bridge Depot messroom,51.49092102050781,-0.20193253457546234,Transport,Light_rail
+21,St Johns Wood Tunnel,51.52852139910206,-0.16655237274481208,Transport,Light_rail
+22,11.20 London To Salisbury,51.494523579749156,-0.15558673655754027,Transport,Light_rail
+24,The Toy,51.525415,-0.143811,Transport,Light_rail
+25,1806 Banbury,51.523528,-0.163314,Transport,Light_rail
+26,OMD UK Lift,51.52067798976046,-0.13423062969779884,Transport,Light_rail
+28,Kennington Loop,51.487269,-0.106741,Transport,Light_rail
+29,Peterborough station,51.493709564208984,-0.10002080351114273,Transport,Light_rail
+30,Southwark Gates,51.50412899687778,-0.1079890470209677,Transport,Light_rail
+31,Mail Rail,51.52472577186193,-0.11363983154296875,Transport,Light_rail
+32,Bank London Underground and DLR Station,51.51339045553031,-0.08787007484867147,Transport,Light_rail
+33,Tower Gateway DLR Station,51.51062951661003,-0.0734471889459075,Transport,Light_rail
+34,Southminster Branch Line,51.518014669418335,-0.080805,Transport,Light_rail
+35,Kingsway Tram Tunnel,51.51765908154332,-0.12045490472449666,Transport,Light_rail
+36,Millennium Inclinator,51.51071897849311,-0.09825468063354492,Transport,Light_rail
+40,DLR to Tower Gateway,51.510671221263365,-0.07215579211324899,Transport,Light_rail
+41,"StreetCar, Charterhouse Square",51.520402,-0.098663,Transport,Light_rail
+42,GDI Armoury,51.564998,-0.106898,Transport,Light_rail
+43,Hornsey Sidings,51.586021,-0.111265,Transport,Light_rail
+44,East Coast Peterborough to London,51.60330905548904,-0.12594660535329286,Transport,Light_rail
+45,Stansted Express,51.60091737494751,-0.11226870669599363,Transport,Light_rail
+47,Backford And Stanton Light Railway,51.667118,-0.083939,Transport,Light_rail
+48,Lewisham DLR Station,51.46477933921406,-0.01328580164441867,Transport,Light_rail
+49,Greenwich DLR Station,51.47813887102242,-0.014344453811645508,Transport,Light_rail
+50,Deptford Bridge DLR Station,51.474274805780404,-0.022506415843963623,Transport,Light_rail
+51,Elverson Road DLR Station,51.46875004879219,-0.01638845253062848,Transport,Light_rail
+52,Deptford Railway Station (DEP),51.478817095136684,-0.026307106018066406,Transport,Light_rail
+53,DLR to Bank,51.47457048538824,-0.02249057105022546,Transport,Light_rail
+59,Shadwell DLR Station,51.51171178157907,-0.05564836140080011,Transport,Light_rail
+62,FOR heading For Bank,51.5123203,-0.04061455,Transport,Light_rail
+64,Limehouse DLR Station,51.51253516422883,-0.03984689712524414,Transport,Light_rail
+65,Canary Wharf DLR Station,51.50499709485747,-0.020584845332681814,Transport,Light_rail
+66,Westferry DLR Station,51.50940959094959,-0.026701055631690424,Transport,Light_rail
+68,Pudding Mill Lane DLR Station,51.53396335770217,-0.01422107219696045,Transport,Light_rail
+69,Devons Road DLR Station,51.522419481451095,-0.017364992626212813,Transport,Light_rail
+70,Bow Church DLR Station,51.52770664332327,-0.020816127823153088,Transport,Light_rail
+71,DLR Depot and Head Office,51.507864047409655,-0.015425849559046516,Transport,Light_rail
+73,West India Quay DLR Station,51.50689334691464,-0.020649048466551443,Transport,Light_rail
+74,Poplar DLR Station,51.5076666511107,-0.017220417128976217,Transport,Light_rail
+76,All Saints DLR Station,51.51081913768108,-0.013083815574645996,Transport,Light_rail
+77,Langdon Park DLR Station,51.51517805883993,-0.014095300961016372,Transport,Light_rail
+78,Near Clapton Station,51.57787322998047,-0.06067299842834473,Transport,Light_rail
+81,17.21 to cheshunt,51.648799896240234,-0.05234270170331001,Transport,Light_rail
+86,Mudchute DLR Station,51.491512413700086,-0.014928322700479892,Transport,Light_rail
+87,South Quay DLR Station,51.50003406728851,-0.016404390335083008,Transport,Light_rail
+88,Cutty Sark DLR Station,51.481585313879194,-0.010764822991551303,Transport,Light_rail
+89,Crossharbour DLR Station,51.49611792176493,-0.014449378008590566,Transport,Light_rail
+90,Canning Town London Underground and DLR Station,51.51409891042379,0.008208612961140232,Transport,Light_rail
+91,Island Gardens DLR Station,51.4877894230527,-0.010342829543612538,Transport,Light_rail
+93,East India DLR Station,51.50935648641755,-0.002284915730637686,Transport,Light_rail
+95,Canning Town DLR Low Level,51.51427,0.008052327,Transport,Light_rail
+99,Royal Victoria DLR Station,51.50914538632219,0.01796032113369958,Transport,Light_rail
+100,West Silvertown DLR Station,51.502946133676545,0.02226716637786056,Transport,Light_rail
+102,Blackwall DLR Station,51.50791538771271,-0.007060327051025493,Transport,Light_rail
+109,Heron Quays DLR Station,51.50354192515757,-0.02061718804059726,Transport,Light_rail
+110,Stratford High Street Stn,51.53013,0.0051910803,Transport,Light_rail
+112,Stratford International DLR Station,51.54570709193654,-0.009071757099151367,Transport,Light_rail
+114,Stratford London Underground and DLR Station,51.54178557110835,-0.0033166762881680035,Transport,Light_rail
+115,Star Lane DLR Station,51.52068705470565,0.004286795911952683,Transport,Light_rail
+116,Royal Albert DLR Station,51.50844648435717,0.04598948521982655,Transport,Light_rail
+117,Prince Regent DLR Station,51.50945528448953,0.03349810838699341,Transport,Light_rail
+119,Pontoon Dock DLR Station,51.50231179529795,0.03284886754211479,Transport,Light_rail
+126,Stratford High Street DLR Station,51.53751311996962,-0.00030093997159924394,Transport,Light_rail
+127,Stratford DLR Low Level,51.54189682006836,-0.0034781545400619507,Transport,Light_rail
+129,Abbey Road DLR Station,51.532469381584065,0.0037161741567612204,Transport,Light_rail
+130,Platform 2,51.509373,0.033428706,Transport,Light_rail
+131,Custom House for ExCeL DLR Station,51.509647261398015,0.025765299797058105,Transport,Light_rail
+132,Platform 2,51.538265,-0.0011399388,Transport,Light_rail
+138,07.22 to liverpool street,51.70294952392578,-0.024982700124382973,Transport,Light_rail
+139,Welling Miniature Steam Railway,51.460109,0.081576,Transport,Light_rail
+140,Woolwich Arsenal DLR Station,51.49022,0.06926067,Transport,Light_rail
+141,Cyprus DLR Station,51.50841934440597,0.06403309703336364,Transport,Light_rail
+142,Beckton DLR Station,51.51436463106562,0.061460137367248535,Transport,Light_rail
+144,Beckton Park DLR Station,51.50876491296406,0.055068709790733035,Transport,Light_rail
+148,Gallions Reach DLR Station,51.50903808523339,0.07178712902290099,Transport,Light_rail
+149,King George V DLR Station,51.502004286184594,0.062270164489746094,Transport,Light_rail
+151,London City Airport DLR Station,51.50357571100493,0.04836225789290621,Transport,Light_rail
+152,Platform 2,51.50362781615399,0.048081278800964355,Transport,Light_rail
+153,DLR Depot,51.512289,0.077104,Transport,Light_rail
+160,Busao Londres - Aeroporto,51.52500014050331,0.07692225101913466,Transport,Light_rail
+161,0919 To Liverpool Street,51.558505,0.068221,Transport,Light_rail
+162,0929 To Liverpool Street,51.551737,0.065511,Transport,Light_rail
+163,Ilford yard Crossrail depot,51.5611737386703,0.07852668681530793,Transport,Light_rail
+164,Romford to Stratford,51.564062797766155,0.0964342951489619,Transport,Light_rail
+166,Swanley New Barn Railway,51.40523529052734,0.17686328291893,Transport,Light_rail

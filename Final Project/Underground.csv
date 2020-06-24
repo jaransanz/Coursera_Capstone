@@ -1,0 +1,316 @@
+,Venue,Latitude,Longitude,Group,Category
+0,Heathrow Terminal 5 London Underground Station,51.472284111451515,-0.48919423739353524,Transport,Underground
+1,Heathrow Terminal 4 London Underground Station,51.45870664171014,-0.4455041885375976,Transport,Underground
+2,Heathrow Terminals 2 & 3 London Underground Station,51.47125419965506,-0.4522847252322866,Transport,Underground
+4,Uxbridge London Underground Station,51.5465544338025,-0.4778850351782727,Transport,Underground
+6,on route to london,51.6385383605957,-0.481447696685791,Transport,Underground
+7,Hatton Cross London Underground Station,51.466885267559235,-0.4232045885500935,Transport,Underground
+11,Ickenham London Underground Station,51.56188040685392,-0.4420726130548966,Transport,Underground
+12,Hillingdon London Underground Station,51.55377739007843,-0.4498997173757709,Transport,Underground
+13,Ruislip Gardens London Underground Station,51.56068165545845,-0.41093040099109157,Transport,Underground
+15,West Ruislip London Underground Station,51.56949108584682,-0.4372084398756279,Transport,Underground
+16,Ruislip London Underground Station,51.571459933517865,-0.42138714896371743,Transport,Underground
+17,Ruislip depot Lul,51.563609,-0.423559,Transport,Underground
+18,Northwood Hills London Underground Station,51.60043439533545,-0.4090177593830736,Transport,Underground
+19,Northwood London Underground Station,51.61080330633367,-0.42366834304350304,Transport,Underground
+21,Pinner London Underground Station,51.59273019365523,-0.3807814092452947,Transport,Underground
+23,Ruislip Manor London Underground Station,51.57333319034821,-0.4121806294313193,Transport,Underground
+24,Eastcote London Underground Station,51.57667328314082,-0.39664701101581995,Transport,Underground
+25,Moor Park London Underground Station,51.62984420035199,-0.43230493620854765,Transport,Underground
+26,Rickmansworth London Underground Station,51.64023572173073,-0.4735579379241356,Transport,Underground
+27,Croxley London Underground Station,51.64734056525304,-0.4414529450710101,Transport,Underground
+30,Hounslow Central London Underground Station,51.471308464210374,-0.36592948431990374,Transport,Underground
+31,Osterley London Underground Station,51.48143588304686,-0.35195148004559096,Transport,Underground
+32,Hounslow East London Underground Station,51.47333587887716,-0.3561665377622574,Transport,Underground
+35,Hounslow West London Underground Station,51.473581906999826,-0.38562192276217033,Transport,Underground
+36,Perivale London Underground Station,51.536833035258354,-0.3234100341796875,Transport,Underground
+37,Greenford London Underground Station,51.542398286413665,-0.3461917463078288,Transport,Underground
+38,South Ruislip London Underground Station,51.5569655058688,-0.39913207516451854,Transport,Underground
+39,South Harrow London Underground Station,51.564578022603506,-0.3520832572173829,Transport,Underground
+40,Northolt London Underground Station,51.54842171350173,-0.36918119610679917,Transport,Underground
+41,Rayners Lane London Underground Station,51.57521020882555,-0.37145559795228195,Transport,Underground
+44,South Harrow Sidings (LUL),51.562175,-0.349375,Transport,Underground
+48,North Harrow London Underground Station,51.584958210163556,-0.3622173281107507,Transport,Underground
+49,Harrow-on-the-Hill Railway Station (HOH),51.579316448458734,-0.33690690994262695,Transport,Underground
+51,West Harrow London Underground Station,51.57956263033371,-0.3532709850931752,Transport,Underground
+52,Harrow & Wealdstone London Underground and London Overground Station,51.59199574610614,-0.33433735370635986,Transport,Underground
+54,Harrow-on-the-Hill London Underground Station,51.57930978123068,-0.33699274063110346,Transport,Underground
+57,Richmond London Underground and London Overground Station,51.463235561589975,-0.3012555558841517,Transport,Underground
+58,Kew Gardens London Underground and London Overground Station,51.477139144299194,-0.28503315559421544,Transport,Underground
+59,Boston Manor London Underground Station,51.4955387019134,-0.3250923625648418,Transport,Underground
+61,Northfields London Underground Station,51.499629225479794,-0.3131622134596768,Transport,Underground
+62,Northfields Train Depot,51.49902379726785,-0.3159124844709557,Transport,Underground
+64,South Ealing London Underground Station,51.50100571685724,-0.3072273536985212,Transport,Underground
+65,Hanger Lane London Underground Station,51.53024677195863,-0.2931713051552222,Transport,Underground
+66,Park Royal London Underground Station,51.526634834264684,-0.28399920381726135,Transport,Underground
+67,North Acton London Underground Station,51.523586452154646,-0.2598272971144908,Transport,Underground
+68,Ealing Common London Underground Station,51.509908102625204,-0.28819435728594056,Transport,Underground
+69,Ealing Broadway London Underground Station,51.51496038648059,-0.3006367718546599,Transport,Underground
+70,Ealing Common Depot 20A,51.505971,-0.28541,Transport,Underground
+72,Alperton London Underground Station,51.54075079773001,-0.29993335034904617,Transport,Underground
+73,Acton Town Sidings 23 Road,51.501272,-0.27898,Transport,Underground
+74,Acton Town London Underground Station,51.50257932350841,-0.2798053190963916,Transport,Underground
+75,North Ealing London Underground Station,51.51756092553037,-0.2890158806534666,Transport,Underground
+76,Ealing Common Depot,51.507725,-0.285609,Transport,Underground
+77,West Acton London Underground Station,51.518188039686926,-0.28067954331906664,Transport,Underground
+78,Bollo House TCD,51.501688,-0.27873,Transport,Underground
+79,Ealing Common Depot 16A,51.505699,-0.284699,Transport,Underground
+80,Sudbury Hill London Underground Station,51.556961719383274,-0.33653735589364003,Transport,Underground
+88,Preston Road London Underground Station,51.57230535274754,-0.29586328476581364,Transport,Underground
+89,Sudbury Town London Underground Station,51.55083341671878,-0.31568874608326636,Transport,Underground
+90,Northwick Park London Underground Station,51.578505281025734,-0.31756619829405,Transport,Underground
+91,Queensbury London Underground Station,51.59422830261885,-0.28615620693971466,Transport,Underground
+92,Stanmore London Underground Station,51.61948424896846,-0.3029477636073518,Transport,Underground
+93,Colindale London Underground Station,51.59537984312269,-0.24991755214579575,Transport,Underground
+95,Kingsbury London Underground Station,51.584733248001854,-0.27864664793014526,Transport,Underground
+96,Canons Park London Underground Station,51.607987019876305,-0.2946876956837459,Transport,Underground
+97,Burnt Oak London Underground Station,51.602850732672565,-0.26403676483942495,Transport,Underground
+99,Edgware London Underground Station,51.613588968091456,-0.27504331215081956,Transport,Underground
+100,Stanmore Sidings,51.618656052919775,-0.30184507369995117,Transport,Underground
+101,Edgware depot,51.6117057800293,-0.26995259523391724,Transport,Underground
+102,Canons Park Station,51.594407636761076,-0.28679459029220344,Transport,Underground
+105,Morden Depot,51.39800015407102,-0.19567236322892648,Transport,Underground
+106,East Putney London Underground Station,51.458831637316656,-0.2111995486416949,Transport,Underground
+107,Parsons Green London Underground Station,51.47523234571571,-0.2011919242515905,Transport,Underground
+108,Putney Bridge London Underground Station,51.46809138253678,-0.208875896489474,Transport,Underground
+109,Wimbledon Park London Underground Station,51.43427606439113,-0.19926450588517758,Transport,Underground
+110,Southfields London Underground Station,51.445390555801474,-0.20655565203597215,Transport,Underground
+111,Chiswick Park London Underground Station,51.49458466552437,-0.2677341109603871,Transport,Underground
+113,Turnham Green London Underground Station,51.495165089554575,-0.25458463072214627,Transport,Underground
+115,Gunnersbury London Underground and London Overground Station,51.4915737489604,-0.27541833899234025,Transport,Underground
+117,Stamford Brook London Underground Station,51.49496214602904,-0.24574025970077398,Transport,Underground
+120,Acton Works Lul Sidings,51.498435,-0.27977,Transport,Underground
+122,Hammersmith London Underground Station (Circle and H&C lines),51.49382404573316,-0.2249722059342438,Transport,Underground
+123,Ravenscourt Park London Underground Station,51.494185102887066,-0.23592470993524187,Transport,Underground
+124,Goldhawk Road London Underground Station,51.501860283933404,-0.22659942309725886,Transport,Underground
+126,White City London Underground Station,51.51162963772766,-0.22412680506019214,Transport,Underground
+127,Willesden Green London Underground Station,51.54929721816212,-0.2216069758386511,Transport,Underground
+129,Westbourne Park London Underground Station,51.52096693803978,-0.2010298617115454,Transport,Underground
+130,Holland Park London Underground Station,51.50726115396308,-0.20551068474543058,Transport,Underground
+131,Shepherd's Bush London Underground Station,51.50467958844548,-0.21851275376074328,Transport,Underground
+134,Royal Oak London Underground Station,51.51909845221029,-0.18817835882593664,Transport,Underground
+137,Kilburn Park London Underground Station,51.53500420581583,-0.19369937184145397,Transport,Underground
+138,East Acton London Underground Station,51.51715370478892,-0.2478719812332211,Transport,Underground
+139,Ladbroke Grove London Underground Station,51.517311310618524,-0.2109693084117739,Transport,Underground
+140,Shepherd's Bush Market London Underground Station,51.5060485620018,-0.22628371150847637,Transport,Underground
+141,Platform 3,51.53392028808594,-0.20548301935195923,Transport,Underground
+142,Harlesden London Underground and London Overground Station,51.53628941071539,-0.25769785149026925,Transport,Underground
+143,Wood Lane London Underground Station,51.51005186538122,-0.22383948873375673,Transport,Underground
+144,Latimer Road London Underground Station,51.51353177688895,-0.21774233086203496,Transport,Underground
+145,White City Sidings Lul,51.504678,-0.229298,Transport,Underground
+146,Neasden London Underground Station,51.554190851862515,-0.25010843432594754,Transport,Underground
+147,Dollis Hill London Underground Station,51.552015741922034,-0.2388794832107484,Transport,Underground
+149,Wembley Park London Underground Station,51.563557934749305,-0.2797802076284308,Transport,Underground
+151,Hendon Central London Underground Station,51.5832103496679,-0.22632706360478927,Transport,Underground
+152,Mill Hill East London Underground Station,51.6083161510174,-0.20999926072817238,Transport,Underground
+153,Finchley Central London Underground Station,51.600967496022676,-0.19256102049863363,Transport,Underground
+156,Brent Cross London Underground Station,51.576646967118435,-0.2134760263061487,Transport,Underground
+160,Mitcham Junction Railway Station (MIJ),51.39274236214821,-0.15707868421813886,Transport,Underground
+161,Morden London Underground Station,51.402619321082504,-0.1947553087537121,Transport,Underground
+163,Wimbledon London Underground Station,51.42191189345438,-0.20568102679826542,Transport,Underground
+165,South Wimbledon London Underground Station,51.415443948039524,-0.1923496998440523,Transport,Underground
+166,Tooting Broadway London Underground Station,51.4277254683965,-0.16799813191409488,Transport,Underground
+168,Colliers Wood London Underground Station,51.418178906732926,-0.178037046743419,Transport,Underground
+170,Clapham South London Underground Station,51.4528804321906,-0.14754618987388685,Transport,Underground
+171,Tooting Bec London Underground Station,51.43560430001673,-0.15958364038301698,Transport,Underground
+172,Battersea Power Station London Underground Station,51.479946,-0.14203203,Transport,Underground
+173,Clapham Common London Underground Station,51.46173605847494,-0.138245013497542,Transport,Underground
+175,Clapham North London Underground Station,51.465023291083206,-0.12951568149243112,Transport,Underground
+176,Nelson's row Station,51.462041,-0.13758,Transport,Underground
+177,Balham London Underground Station,51.44336781450486,-0.15277649693027082,Transport,Underground
+178,Earl's Court London Underground Station,51.491658522828274,-0.19388316018565938,Transport,Underground
+179,High Street Kensington London Underground Station,51.50028162732899,-0.19217023386786636,Transport,Underground
+180,Earls Court Substation,51.50332689285278,-0.20305395126342773,Transport,Underground
+183,Barons Court London Underground Station,51.49039868433646,-0.21413207548679591,Transport,Underground
+184,Kensington (Olympia) London Underground Station,51.497277,-0.209618,Transport,Underground
+185,West Kensington London Underground Station,51.490718709354866,-0.2059778347445421,Transport,Underground
+186,Bayswater London Underground Station,51.512337835032994,-0.18797595251938487,Transport,Underground
+187,Gloucester Road London Underground Station,51.494449487103495,-0.18307418916213772,Transport,Underground
+188,Fulham Broadway London Underground Station,51.4805126392571,-0.19474237675855974,Transport,Underground
+189,Bayswater Circle Line To Tower Hill,51.512276,-0.18844329,Transport,Underground
+190,Hammersmith London Underground Station (District and Piccadilly lines),51.49203848006939,-0.22310211813813316,Transport,Underground
+191,West Brompton London Underground and London Overground Station,51.48696952349744,-0.19528105244616742,Transport,Underground
+192,Lancaster Gate London Underground Station,51.511755974737696,-0.17532861055729418,Transport,Underground
+193,Queensway London Underground Station,51.51044986232618,-0.18700861835940563,Transport,Underground
+195,Ashfield House Training Complex,51.491488,-0.203934,Transport,Underground
+198,Sloane Square London Underground Station,51.49213801223374,-0.1556468818268484,Transport,Underground
+200,Notting Hill Gate London Underground Station,51.50848614408596,-0.19596604806565424,Transport,Underground
+203,South Kensington London Underground Station,51.49408171646735,-0.1732658758768033,Transport,Underground
+204,Marylebone London Underground Station,51.522807447872424,-0.1629188284311316,Transport,Underground
+205,Baker Street London Underground Station,51.522960828901226,-0.15720387305906297,Transport,Underground
+206,Green Park London Underground Station,51.5067341345345,-0.14262992032632832,Transport,Underground
+207,Oxford Circus London Underground Station,51.51525803425088,-0.1419028172844449,Transport,Underground
+208,"Paddington London Underground Station (District, Circle and Bakerloo lines)",51.516495253390225,-0.17666473635796817,Transport,Underground
+209,Piccadilly Circus London Underground Station,51.51000559556648,-0.13461526204827717,Transport,Underground
+210,Knightsbridge London Underground Station,51.501898868700856,-0.16045650403588552,Transport,Underground
+211,Hyde Park Corner London Underground Station,51.50310540734772,-0.1526865102789818,Transport,Underground
+212,Regent's Park London Underground Station,51.52359882549038,-0.14685092973075833,Transport,Underground
+213,St. John's Wood London Underground Station,51.534615273889415,-0.17412466450800201,Transport,Underground
+214,Warren Street London Underground Station,51.524669141661185,-0.13789103143248851,Transport,Underground
+217,Joe Strummer Subway,51.51997716962573,-0.1701896629312292,Transport,Underground
+219,Euston London Underground Station (Disused),51.527493,-0.134776,Transport,Underground
+220,Edgware Road London Underground Station (Bakerloo line),51.520254454189676,-0.1701921822341202,Transport,Underground
+221,"Edgware Road London Underground Station (Circle, District and H&C lines)",51.520183720645,-0.1670254119362918,Transport,Underground
+222,Hidden London: Piccadilly Circus,51.50973,-0.134628,Transport,Underground
+223,Belsize Park London Underground Station,51.55032641068613,-0.1646469590482656,Transport,Underground
+226,Tottenham Court Road London Underground Station,51.516312,-0.130468,Transport,Underground
+228,Camden Town London Underground Station,51.539432273069266,-0.14268815517425537,Transport,Underground
+229,Chalk Farm London Underground Station,51.54400423299482,-0.1537504697093508,Transport,Underground
+230,Euston London Underground Station,51.528029130647845,-0.13321994488439676,Transport,Underground
+231,Euston Square London Underground Station,51.525444475361724,-0.1359082723369198,Transport,Underground
+233,Mornington Crescent London Underground Station,51.53432675658869,-0.13900568212547895,Transport,Underground
+234,Goodge Street London Underground Station,51.52068352291966,-0.13431968172926273,Transport,Underground
+235,Belsize Park Ticket Office,51.5501325,-0.165418,Transport,Underground
+238,Swiss Cottage London Underground Station,51.543435365674696,-0.17467162890455185,Transport,Underground
+239,Victoria London Underground Station,51.49549515931713,-0.1442296196876315,Transport,Underground
+240,Paddington London Underground Station (Hammersmith & City and Circle lines),51.51823375078286,-0.17851894546155236,Transport,Underground
+241,Marble Arch London Underground Station,51.51343747089512,-0.15832109513990847,Transport,Underground
+242,Belsize Park GLAP,51.550323,-0.16437,Transport,Underground
+244,Maida Vale London Underground Station,51.529928495501395,-0.18582693874415895,Transport,Underground
+245,Warwick Avenue London Underground Station,51.52334227847361,-0.18373986283518187,Transport,Underground
+247,Bond Street London Underground Station,51.514391,-0.14909,Transport,Underground
+249,Great Portland Street London Underground Station,51.523920076220726,-0.14374617520347988,Transport,Underground
+250,Kilburn London Underground Station,51.54696481671908,-0.20395149536749088,Transport,Underground
+252,West Hampstead London Underground Station,51.546810950045575,-0.19049603370656962,Transport,Underground
+254,Finchley Road London Underground Station,51.547272703740894,-0.1807309670336775,Transport,Underground
+259,Golders Green Depot,51.572682,-0.191177,Transport,Underground
+260,Hampstead London Underground Station,51.55663569730655,-0.17844925520646576,Transport,Underground
+261,Golders Green London Underground Station,51.57234769450134,-0.19407732367169714,Transport,Underground
+262,East Finchley London Underground Station,51.58725791704816,-0.16467471947768056,Transport,Underground
+263,Woodside Park London Underground Station,51.61807220797238,-0.18552256473623552,Transport,Underground
+265,West Finchley London Underground Station,51.609535387850386,-0.18828701173440376,Transport,Underground
+266,Muswell Hill Viaduct,51.588706,-0.141821,Transport,Underground
+267,Highgate London Underground Station,51.57760148095295,-0.14583557901862387,Transport,Underground
+270,Subway whetstone,51.633963,-0.180071,Transport,Underground
+271,Totteridge & Whetstone London Underground Station,51.63044970954302,-0.1791626887483831,Transport,Underground
+273,High Barnet London Underground Station,51.65071732758688,-0.194604318262868,Transport,Underground
+275,Cockfosters London Underground Station,51.65146274828382,-0.14887680714614457,Transport,Underground
+277,Cockfosters London Underground Depot,51.649016,-0.140402,Transport,Underground
+279,Oakwood London Underground Station,51.6474579888537,-0.13136626216836328,Transport,Underground
+283,Brixton London Underground Station,51.4626182802878,-0.1150401177347543,Transport,Underground
+284,Oval London Underground Station,51.48205947834058,-0.11261629529037075,Transport,Underground
+287,Stockwell London Underground Station,51.472291621908376,-0.12282669167317536,Transport,Underground
+290,Pimlico London Underground Station,51.48915471112843,-0.1335365752908993,Transport,Underground
+293,Westminster London Underground Station,51.50092199879671,-0.12480205134329812,Transport,Underground
+298,Southwark London Underground Station,51.50377121560457,-0.10473905280983581,Transport,Underground
+299,Hidden London: Charing Cross,51.508463,-0.124894,Transport,Underground
+301,Nine Elms London Underground Station,51.48026,-0.12932271,Transport,Underground
+304,Leicester Square London Underground Station,51.51136869744197,-0.12833449862614943,Transport,Underground
+306,Temple London Underground Station,51.51108588713383,-0.1136464498337834,Transport,Underground
+307,Embankment London Underground Station,51.50724130540982,-0.12239649950629787,Transport,Underground
+309,Elephant & Castle London Underground Station,51.49471953981024,-0.10048873128132133,Transport,Underground
+311,Covent Garden London Underground Station,51.513012037278166,-0.12394096895314001,Transport,Underground
+312,Waterloo London Underground Station,51.50332146968501,-0.11103804774731067,Transport,Underground
+313,St. James's Park London Underground Station,51.4997101149314,-0.1341866169922835,Transport,Underground
+314,Kennington London Underground Station,51.4882562694918,-0.10579540525806266,Transport,Underground
+315,Charing Cross London Underground Station,51.50768525914683,-0.1282101304050155,Transport,Underground
+316,Lambeth North London Underground Station,51.49852056642949,-0.11035484203675221,Transport,Underground
+317,Vauxhall London Underground Station,51.48590378588932,-0.12373755983661565,Transport,Underground
+319,Farringdon London Underground Station,51.52056591442151,-0.10514962454604154,Transport,Underground
+320,Bank London Underground and DLR Station,51.51339045553031,-0.08787007484867147,Transport,Underground
+321,King's Cross St. Pancras London Underground Station,51.53048588016881,-0.12439591454392912,Transport,Underground
+323,Liverpool Street London Underground Station,51.51795887045512,-0.08220939641322696,Transport,Underground
+324,Old Street London Underground Station,51.52570817449869,-0.08751974753624095,Transport,Underground
+325,Angel London Underground Station,51.53287910934468,-0.10599282419349608,Transport,Underground
+326,Monument London Underground Station,51.51046405963689,-0.08609530718517062,Transport,Underground
+327,Tower Hill London Underground Station,51.50994295197534,-0.07636433507543251,Transport,Underground
+328,St. Paul's London Underground Station,51.51502318754615,-0.09736137848620856,Transport,Underground
+329,Holborn London Underground Station,51.51734367886966,-0.12029895532435339,Transport,Underground
+333,Moorgate London Underground Station,51.51843562557591,-0.08828689751137384,Transport,Underground
+334,Barbican London Underground Station,51.520136996818444,-0.09854558900050464,Transport,Underground
+337,Chancery Lane London Underground Station,51.51826520033072,-0.11157688327071426,Transport,Underground
+339,Holloway Road London Underground Station,51.55289518474113,-0.11259761116422913,Transport,Underground
+343,Borough London Underground Station,51.50109196903238,-0.09338581857451518,Transport,Underground
+344,Whitechapel London Underground and London Overground Station,51.519477137040596,-0.06151677976888857,Transport,Underground
+345,Highbury & Islington London Underground Station,51.54623760965121,-0.10394827995506739,Transport,Underground
+349,Highbury & Islington Railway Station (HHY),51.54622241898433,-0.10394642559491957,Transport,Underground
+355,Londooon,51.534756,-0.125956,Transport,Underground
+356,Moorgate Elizabeth Line Station,51.518306,-0.088954,Transport,Underground
+357,Aldgate London Underground Station,51.51440357580745,-0.07573290404882957,Transport,Underground
+358,Russell Square London Underground Station,51.523317308545934,-0.12439433805664503,Transport,Underground
+360,London Bridge London Underground Station,51.50524909961165,-0.08698140106477512,Transport,Underground
+361,Blackfriars London Underground Station,51.511657402543506,-0.10405223874193216,Transport,Underground
+362,Thoughts Of Angel,51.53268529191088,-0.10582387447357178,Transport,Underground
+364,Mansion House London Underground Station,51.51238465396617,-0.09390632743939784,Transport,Underground
+365,King's Cross Station Control Room (LUL),51.529478,-0.12185,Transport,Underground
+366,Warwick Passage,51.51493835449219,-0.10140720009803772,Transport,Underground
+367,Cannon Street London Underground Station,51.51155306833706,-0.09074129237698478,Transport,Underground
+369,Tufnell Park London Underground Station,51.55670168971505,-0.1381685267876959,Transport,Underground
+370,Finsbury Park London Underground Station,51.56473219291197,-0.10655102677529431,Transport,Underground
+371,Archway London Underground Station,51.565368099023324,-0.1348119110000143,Transport,Underground
+373,Kentish Town London Underground Station,51.55044722488592,-0.14071755839038733,Transport,Underground
+374,Caledonian Road London Underground Station,51.548542167064106,-0.1179890083576978,Transport,Underground
+379,Arsenal London Underground Station,51.558360532985446,-0.10557509102843038,Transport,Underground
+382,Turnpike Lane London Underground Station,51.59040402860002,-0.10283589363098145,Transport,Underground
+383,Bounds Green London Underground Station,51.60705997160657,-0.12428783205633613,Transport,Underground
+384,Manor House London Underground Station,51.5708798856517,-0.09579063376941199,Transport,Underground
+385,Wood Green London Underground Station,51.597368427260875,-0.1099838323559499,Transport,Underground
+386,Seven Sisters London Underground Station,51.58246402852712,-0.0748956172174287,Transport,Underground
+387,Southgate London Underground Station,51.63234832182857,-0.12786412724866647,Transport,Underground
+390,Arnos Grove London Underground Station,51.616396396207065,-0.1331029943810198,Transport,Underground
+391,Ash House (LUL),51.613894,-0.133719,Transport,Underground
+397,Bermondsey London Underground Station,51.49779993054089,-0.06374291140839146,Transport,Underground
+402,Buxton Water,51.49797821044922,-0.04969228059053421,Transport,Underground
+412,Canada Water London Underground and London Overground Station,51.4980295600771,-0.04967621818531548,Transport,Underground
+415,Stepney Green London Underground Station,51.52186048272743,-0.046730504394148595,Transport,Underground
+417,Pudding Mill Lane C-305 Eastern Running Tunnels,51.531201,-0.014074,Transport,Underground
+418,Mile End London Underground Station,51.52530687932467,-0.03345877945328094,Transport,Underground
+419,Hammersmith & City Line,51.52606,-0.0051220134,Transport,Underground
+420,Bethnal Green London Underground Station,51.52736622613637,-0.05544340424233401,Transport,Underground
+421,Eastbound Hammersmith & City Line,51.524467,-0.013425797,Transport,Underground
+422,Canary Wharf Crossrail Site,51.50686,-0.019465797,Transport,Underground
+424,Bromley-By-Bow London Underground Station,51.52469534225004,-0.01218476563366062,Transport,Underground
+425,Aldgate East London Underground Station,51.51532774481223,-0.0713325843159609,Transport,Underground
+426,Bow Road London Underground Station,51.526958347316864,-0.0251574882527264,Transport,Underground
+435,Tottenham Hale London Underground Station,51.58825355631354,-0.060433565438668436,Transport,Underground
+437,Blackhorse Road London Underground and London Overground Station,51.58697473628382,-0.04105293566799096,Transport,Underground
+439,Northumberland Park Rail Depot,51.600876,-0.054918,Transport,Underground
+440,Walthamstow Central London Underground Station,51.583013160807596,-0.020156803715905156,Transport,Underground
+443,North Greenwich London Underground Station,51.5002677231334,0.003503019867447528,Transport,Underground
+444,Canning Town London Underground and DLR Station,51.51409891042379,0.008208612961140232,Transport,Underground
+446,Canary Wharf London Underground Station,51.503588680256115,-0.01934881778004799,Transport,Underground
+447,C305 Eastern Running Tunnels Limmo Peninsula,51.513387905552406,0.007798531100122955,Transport,Underground
+448,Plaistow London Underground Station,51.53128840556116,0.01722124582226428,Transport,Underground
+449,West Ham London Underground and DLR Station,51.52740198913539,0.004487648487917868,Transport,Underground
+453,Upton Park London Underground Station,51.535291960309934,0.034596900421309355,Transport,Underground
+454,East Ham London Underground Station,51.539191327983545,0.0518357387039049,Transport,Underground
+458,Stratford Market Depot (SMD) (Jubilee Line 96 Stock),51.533923314409904,0.0005578994750976562,Transport,Underground
+460,West Ham Railway Station (WEH),51.528666565938025,0.00618706573154292,Transport,Underground
+461,Stratford London Underground and DLR Station,51.54178557110835,-0.0033166762881680035,Transport,Underground
+462,Leyton London Underground Station,51.55674910751997,-0.005228424004870975,Transport,Underground
+463,Leytonstone London Underground Station,51.56838795686483,0.008337049725651078,Transport,Underground
+466,South Woodford London Underground Station,51.591538361845004,0.027405503372690876,Transport,Underground
+468,Wanstead London Underground Station,51.57569583362146,0.028691903315353772,Transport,Underground
+469,Redbridge London Underground Station,51.576358997402984,0.04542490950140824,Transport,Underground
+470,Snaresbrook London Underground Station,51.58050501843702,0.02138134226463929,Transport,Underground
+471,Woodford Station,51.607159,0.034475,Transport,Underground
+472,Roding Valley London Underground Station,51.616986989441,0.043345899401383434,Transport,Underground
+473,Woodford London Underground Station,51.60688589439112,0.03404689854406466,Transport,Underground
+474,Loughton London Underground Station,51.6413372960082,0.055540795355932066,Transport,Underground
+475,Woolwich Elizabeth Line Station,51.49198,0.07053606,Transport,Underground
+476,Barking Railway Sidings,51.537692,0.090078,Transport,Underground
+477,Upney London Underground Station,51.5382974072982,0.10062442080791656,Transport,Underground
+479,Barking London Underground and London Overground Station,51.539758613465715,0.08044817380066895,Transport,Underground
+480,Barking Sidings 22 Road,51.537747,0.090285,Transport,Underground
+481,Gants Hill London Underground Station,51.576602271464616,0.06640683186749681,Transport,Underground
+486,Fairlop London Underground Station,51.59566155017216,0.09093225002288818,Transport,Underground
+488,Barkingside London Underground Station,51.58539181423633,0.08859018750748253,Transport,Underground
+489,Hainault London Underground Station,51.60354376679261,0.09341176450701251,Transport,Underground
+490,Chigwell London Underground Station,51.61779301722327,0.07509712104769696,Transport,Underground
+491,Newbury Park London Underground Station,51.57576116757627,0.08995706847751644,Transport,Underground
+492,Grange Hill London Underground Station,51.61312637156472,0.09255132355307168,Transport,Underground
+493,Hainault London Underground Depot,51.608036,0.093013,Transport,Underground
+494,Buckhurst Hill London Underground Station,51.62608649094647,0.04688575535096633,Transport,Underground
+500,Dagenham Heathway London Underground Station,51.541584551612516,0.1467454093989167,Transport,Underground
+501,Dagenham East London Underground Station,51.54411120476917,0.16544812002748707,Transport,Underground
+502,Train 013,51.541122100069366,0.14007293531968698,Transport,Underground
+503,Becontree London Underground Station,51.54033517262755,0.12706144222382243,Transport,Underground
+504,Renwick Road Subway,51.53226267313725,0.11898966101247786,Transport,Underground
+511,Debden London Underground Station,51.645442441319226,0.08393177768639955,Transport,Underground
+516,Elm Park London Underground Station,51.54976663108968,0.19860323705770763,Transport,Underground
+518,Upminster London Underground Station,51.55892015776503,0.25060415267944336,Transport,Underground
+519,Upminster Bridge London Underground Station,51.55836605746899,0.23516372223120505,Transport,Underground
+520,Platform 2,51.553840502017344,0.2176344394683838,Transport,Underground
+521,Platform 1,51.55339931240616,0.2187174536112597,Transport,Underground
+522,Hornchurch London Underground Station,51.5539500370762,0.21846385485102218,Transport,Underground
+523,Upminster Depot 43W Road,51.560206,0.262836,Transport,Underground

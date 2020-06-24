@@ -1,0 +1,639 @@
+,Venue,Latitude,Longitude,Group,Category
+0,Ashford Walk In Health Centre,51.444404,-0.473677,Health,Hospital
+1,Ashford Hospital,51.44423441488712,-0.47306439385776117,Health,Hospital
+2,The education centre,51.439484,-0.478887,Health,Hospital
+3,Ashford Xray Department,51.443974,-0.4730287,Health,Hospital
+4,Mri Department,51.44412,-0.476276,Health,Hospital
+5,Cardiology Department,51.444009,-0.473676,Health,Hospital
+6,Audiology Ashford Hospital,51.444238,-0.473518,Health,Hospital
+7,Ashford Hospital Ent Department,51.44403,-0.4732721,Health,Hospital
+8,Tennyson Unit Msk,51.44425,-0.4729992,Health,Hospital
+9,Ashford Hospital Rheumatology Department,51.443963,-0.472487,Health,Hospital
+10,Respiratory Department Ashford Hospital,51.444117,-0.473731,Health,Hospital
+11,HILLINGDON HOSPITAL,51.527134,-0.462013,Health,Hospital
+12,Hillingdon Hospital,51.526054123931175,-0.46108245849609375,Health,Hospital
+13,Hillingdon Hospital Private Consulting Suite,51.52641,-0.460982,Health,Hospital
+14,Transplant Outpatients,51.606574,-0.482567,Health,Hospital
+15,Harefield Hospital,51.60679377918668,-0.48265674595531155,Health,Hospital
+16,Sir William Gowers Centre,51.622935,-0.550182,Health,Hospital
+17,National Society for Epilepsy,51.62121397938905,-0.55206298828125,Health,Hospital
+19,Hayes cottage Hospice,51.521621,-0.423422,Health,Hospital
+20,Hospital Santa Genoveva,51.53632886,-0.39014658,Health,Hospital
+21,Mount Vernon X-Ray,51.566287525,-0.416163,Health,Hospital
+22,BMI Bishops Wood Hospital,51.61642959836843,-0.44687172896555916,Health,Hospital
+23,Mount Vernon Hospital,51.61580486079595,-0.44619083404541016,Health,Hospital
+24,Outpatient Department,51.616512,-0.44568926,Health,Hospital
+25,Hand Therapy Clinic,51.61692208016181,-0.4461424867068851,Health,Hospital
+26,Minor Injuries Unit,51.615,-0.44567886,Health,Hospital
+27,Mount Sobell House,51.614002,-0.44811097,Health,Hospital
+28,Trinity Day Care,51.61492,-0.44582272,Health,Hospital
+29,Paul Strickland Scanner Centre,51.614743,-0.446625,Health,Hospital
+30,Mount Vernon Physiotherapy,51.61605,-0.446189,Health,Hospital
+31,Molesey Hospital,51.397859387394696,-0.37251289606959237,Health,Hospital
+32,Shooting Star Childrens Hospice,51.426360740927585,-0.3759552609912589,Health,Hospital
+33,Teddington Memorial Hospital,51.42605539083808,-0.34094038165654195,Health,Hospital
+34,Hounslow Centre for Health,51.4685122791649,-0.37188559425769235,Health,Hospital
+35,ECG Department,51.477064,-0.330486,Health,Hospital
+36,The Therapy Centre,51.47242396814799,-0.3239599090384822,Health,Hospital
+37,UCLH ITU Level 3,51.47407332996528,-0.35816837394097134,Health,Hospital
+38,Lakeside M. H. U,51.4690573969789,-0.3278866250121786,Health,Hospital
+39,teddington hospital,51.444158,-0.330781,Health,Hospital
+40,Heston Health Centre,51.48442268371582,-0.3866887092590332,Health,Hospital
+43,West London Mental Health NHS Trust,51.50888323815559,-0.3511016590757265,Health,Hospital
+44,Ealing Hospital,51.507300079506656,-0.3460693359375,Health,Hospital
+45,St Bernard’s Hospital,51.50594088505801,-0.3493354606975561,Health,Hospital
+46,WEMSS,51.506387,-0.351457,Health,Hospital
+49,Mount Vernon Treatment Centre,51.63056842335584,-0.39036016144360164,Health,Hospital
+50,Watford General Hospital,51.64921966246174,-0.4044361732326312,Health,Hospital
+51,Watford Sexual Health (GUM) Clinic,51.64768376545349,-0.3959739164623674,Health,Hospital
+52,Kingsfield Physiothetherapy,51.646204,-0.378998,Health,Hospital
+53,Outpatients Department,51.647975,-0.403455,Health,Hospital
+54,Helen Donald Unit Maxillo Facial,51.648536682128906,-0.4036533236503601,Health,Hospital
+55,Cardiac Unit,51.649033,-0.4032044,Health,Hospital
+56,Dermatology Department,51.648733,-0.403892,Health,Hospital
+57,Michael Clements Diabetes Centre,51.64953447255937,-0.4045262653903877,Health,Hospital
+58,Starfish Ward,51.649158,-0.404524,Health,Hospital
+59,Childrens Outpatients,51.649363,-0.404409,Health,Hospital
+60,Fracture Clinic,51.648377,-0.403874,Health,Hospital
+61,Langley Wing,51.32619394555394,-0.27477090479215127,Health,Hospital
+62,Epsom General Hospital,51.32519938947549,-0.2724286490018105,Health,Hospital
+63,West Park Hospital,51.340312878624836,-0.29976711721548815,Health,Hospital
+64,Epsom General Hospital Day Surgery Unit,51.325064,-0.272801,Health,Hospital
+65,Block B - Bradbury Wing,51.325323,-0.272453,Health,Hospital
+66,Ashtead Hospital,51.304515132620196,-0.30307772637633396,Health,Hospital
+67,Epsom Alliance Mri Centre,51.325317,-0.27410132,Health,Hospital
+68,West Park,51.33996898017134,-0.30025720596313477,Health,Hospital
+69,Xray Dpt EGH,51.32846798007689,-0.27180408375381176,Health,Hospital
+70,clockhouse hospital,51.327428,-0.273014,Health,Hospital
+71,Macmillan Cancer Information Centre,51.32546,-0.272608,Health,Hospital
+72,West Park Asylum,51.34071350097656,-0.30801358819007874,Health,Hospital
+73,Urology Investigation Unit,51.325488,-0.273085,Health,Hospital
+74,Gloucester Ward,51.325418527632074,-0.27355313301086426,Health,Hospital
+75,Acute Medical Unit EGH,51.33417476377258,-0.2657105739994862,Health,Hospital
+76,New Epsom & Ewell Commumity Hospital,51.341583740139185,-0.3013100981674321,Health,Hospital
+77,amy woodgate centre,51.35888459917844,-0.3115565905096967,Health,Hospital
+82,Surbiton Hospital,51.39086,-0.29927618,Health,Hospital
+83,Kingston Hospital,51.414758977004226,-0.2817821502685547,Health,Hospital
+84,Acute Assessment Unit,51.41530029841393,-0.2833458137412614,Health,Hospital
+85,The Ceders Physio Unit,51.37940216064453,-0.28949493169784546,Health,Hospital
+86,Kingston Hospital Main Theatre,51.415634621833426,-0.2819273299256862,Health,Hospital
+87,london prosthetics center,51.403618,-0.292159,Health,Hospital
+88,Kingston Hospital Surgical Center,51.41503614384073,-0.2832122431470494,Health,Hospital
+89,Kingston Surgical Centre,51.41479000381968,-0.2812774647583719,Health,Hospital
+90,Day Surgery Unit,51.41407718422427,-0.281285189153503,Health,Hospital
+91,Endoscopy Unit Kingston Hospital,51.415035,-0.28208727,Health,Hospital
+92,Kingston Hospital Roehampton Wing,51.414665,-0.282496,Health,Hospital
+93,Sir William Rous,51.41313136781333,-0.28235411176103703,Health,Hospital
+94,Ambulatory Emergency Care,51.415259,-0.282935,Health,Hospital
+95,Kingston Hospital MRI Unit,51.4149,-0.281856,Health,Hospital
+96,BMI Coombe Wing,51.41427719785401,-0.28240442276000977,Health,Hospital
+97,Oral & Maxillofacial Surgery Department,51.4155049165129,-0.28247062481800284,Health,Hospital
+98,Tolworth Hospital,51.37923276732645,-0.28867006301879883,Health,Hospital
+112,Richmond Royal,51.463751,-0.301371,Health,Hospital
+113,windham croft centre,51.468462,-0.28985,Health,Hospital
+114,Richmond Royal Hospital,51.466747,-0.299806,Health,Hospital
+117,The Barn of Numbers,51.47772211032148,-0.31405133938734664,Health,Hospital
+118,BMI Syon Clinic,51.483654578554116,-0.3242146968841553,Health,Hospital
+120,West Middlesex University Hospital,51.47405186239341,-0.32530837876872915,Health,Hospital
+124,Ambulatory Emergency Care Unit,51.473574,-0.325229,Health,Hospital
+125,Queen Mary Maternity Unit,51.474583,-0.3254,Health,Hospital
+126,Clayponds Hospital,51.49497899,-0.29879788,Health,Hospital
+127,Cardiology Department,51.473545,-0.324348,Health,Hospital
+128,Transform Cosmetic Surgery,51.485805009238426,-0.31588962607653814,Health,Hospital
+130,Anti coagulant unit,51.47373404485835,-0.3245167741464392,Health,Hospital
+132,Sunshine Ward,51.473320048050255,-0.32276003086652094,Health,Hospital
+133,Breast Unit,51.473789,-0.324902,Health,Hospital
+134,Abbey Riverside Hospital,51.48616397004355,-0.31596855847186894,Health,Hospital
+136,Dermatology Clinic,51.473223,-0.323913,Health,Hospital
+137,Syon 1,51.473743,-0.32484668,Health,Hospital
+140,cygnet hospital ealing,51.51742536169858,-0.29184175574704796,Health,Hospital
+141,Secure Forensic Unit,51.530484,-0.268974,Health,Hospital
+142,Central Middlesex Hospital,51.53074643430678,-0.26834964752197266,Health,Hospital
+143,Lancelot Medical Centre,51.553587,-0.299477,Health,Hospital
+145,ACAD Building,51.531956,-0.269366,Health,Hospital
+146,Wembley Centre for Health & Care,51.549886676460964,-0.3052212777722571,Health,Hospital
+147,Middlesex Manor,51.548505,-0.282699,Health,Hospital
+148,X-Ray Department,51.530726,-0.269791,Health,Hospital
+149,Orthopaedic+rheumatology centre,51.53101114649229,-0.2704807093610065,Health,Hospital
+150,BMI The Clementine Churchill Hospital,51.565040173295394,-0.33177780196895174,Health,Hospital
+151,Northwick Park Hospital,51.57550384072311,-0.3220121460701196,Health,Hospital
+152,mri suite b,51.576578316226495,-0.31984833404035096,Health,Hospital
+153,Intensive Therapy Unit,51.575148,-0.320131,Health,Hospital
+155,Arthritis Centre,51.5762697765981,-0.321931522083864,Health,Hospital
+157,Northwick Park Hospital X-Ray Department,51.574955,-0.322296,Health,Hospital
+159,Northwick Park Hospital Urgent Care,51.57491,-0.31930727,Health,Hospital
+160,Trust Plus,51.57499,-0.32128,Health,Hospital
+161,Blood Flow Lab,51.575805,-0.321874,Health,Hospital
+162,Northwick Park Hospital-Hyper Acute Stroke Unit,51.575843,-0.321098,Health,Hospital
+163,Moorfields at Northwick Park,51.57495107083031,-0.3210980111294462,Health,Hospital
+164,St Mark's Hospital,51.576034274331306,-0.32041400009492577,Health,Hospital
+165,Blood Test Clinic,51.574927,-0.322171,Health,Hospital
+166,Northwick Park hospital ultrasound department,51.575326,-0.321676,Health,Hospital
+167,Physiotherapy Department,51.575588,-0.322249,Health,Hospital
+168,St. Marks Ward,51.57468,-0.32132,Health,Hospital
+169,Northwick Park Hospital Paediatrics Outpatients,51.575151,-0.321159,Health,Hospital
+170,Edgware Community Hospital,51.60604195659105,-0.27207154386316257,Health,Hospital
+172,Edgware Kidney Care Centre,51.606098,-0.271609,Health,Hospital
+173,TDF (The Disability Foundation),51.63157338751649,-0.3168280426049842,Health,Hospital
+174,The Royal National Orthopaedic Hospital,51.63209156661013,-0.3161040927259453,Health,Hospital
+175,Spire Bushey Hospital,51.63735439503031,-0.3317347080039781,Health,Hospital
+176,High Dependecy Unit,51.631674,-0.309826,Health,Hospital
+177,HCA Elstree Outpatient and Diagnostic Centre,51.642964,-0.314728,Health,Hospital
+178,London Irish Ward,51.631398,-0.311255,Health,Hospital
+179,Edgware Community Hospital,51.642859,-0.343482,Health,Hospital
+180,the meadows,51.66933822631836,-0.28044021129608154,Health,Hospital
+182,St Ebbas,51.35123828800491,-0.27281295033712283,Health,Hospital
+187,Spire St. Anthony's Hospital,51.379877095557454,-0.2206680178642273,Health,Hospital
+188,London Clinic Of Oriental Mendicine,51.40327936809151,-0.2564849706844033,Health,Hospital
+189,St Raphael's Hospice,51.37881438719596,-0.22093014194657884,Health,Hospital
+190,create health,51.40990223482141,-0.2282905479675003,Health,Hospital
+191,Theatre A2,51.38916211790397,-0.18912256284706008,Health,Hospital
+192,New Victoria Hospital,51.4158522591653,-0.25392208420732515,Health,Hospital
+205,Sir William Rowan Unit,51.41544617685256,-0.28122750361916715,Health,Hospital
+208,Cancer Centre London,51.433852,-0.223943,Health,Hospital
+210,Day Surgery Unit,51.41040173534064,-0.2618233690959816,Health,Hospital
+212,Queen Mary's Hospital,51.45524038069954,-0.24214164724660478,Health,Hospital
+213,Parkside Hospital,51.435836924200274,-0.22166707015155537,Health,Hospital
+214,B4 Theatre,51.4473352,-0.1933631,Health,Hospital
+215,Oakhill Krankenhaus,51.458798,-0.207121,Health,Hospital
+216,Hosp2,51.458653,-0.199909,Health,Hospital
+217,Nuffield Health,51.47873897574298,-0.22184764116361202,Health,Hospital
+218,Queen Mary's Hospital Pharmacy,51.45582,-0.24221219,Health,Hospital
+219,Queen Mary's Hospital Physio Exercise,51.455437,-0.24226484,Health,Hospital
+220,Accuvision,51.472696007894115,-0.20069360733032227,Health,Hospital
+221,Tfl Bus 72 To Queen Mary's Hospital,51.455402,-0.24314326,Health,Hospital
+223,X-Ray Imaging Dept.,51.48264175459197,-0.22026445031120406,Health,Hospital
+224,Royal Hospital For Neuro Disability,51.45269651454696,-0.2123880386352539,Health,Hospital
+225,The Priory,51.46249844415814,-0.25115129483689663,Health,Hospital
+227,The Hospital Group - Hammersmith Clinic,51.493616,-0.226937,Health,Hospital
+229,Hammersmith Hospital,51.5171005125562,-0.23581485737446659,Health,Hospital
+232,Queen Charlotte's and Chelsea  Hospital,51.51616261523368,-0.2371554886756621,Health,Hospital
+233,St Charles' Hospital,51.5221535370474,-0.2164660428153404,Health,Hospital
+234,Bupo Cromwell hospital,51.50731,-0.221207,Health,Hospital
+237,West London Renal & Transplant Centre,51.5169393652604,-0.23649929763620148,Health,Hospital
+238,Willesden Centre for Health Care,51.54286133974521,-0.2357559142690397,Health,Hospital
+240,Brondesbury medical center,51.543601,-0.20003,Health,Hospital
+241,St. Charles Centre for Health and Wellbeing,51.52212652124832,-0.21598390286155902,Health,Hospital
+242,BoSS's Desk,51.56634421704332,-0.26607607408435824,Health,Hospital
+243,Chalkhill Primary Care Centre,51.563664374494714,-0.27654659759779404,Health,Hospital
+248,BMI The Garden Hospital,51.593699744798585,-0.2242029302211617,Health,Hospital
+249,"BMI The Garden Hospital, Hendon",51.593797707852794,-0.2249344090515957,Health,Hospital
+250,Hendon Medical Center,51.588765,-0.243268,Health,Hospital
+251,San francisco municipal hospital,51.574005126953125,-0.20064640045166016,Health,Hospital
+252,The Wellington diagnostics & Outpatients Centre,51.58019123519525,-0.20994075806238918,Health,Hospital
+253,London Iryo Centre,51.581743753021705,-0.22608912717994045,Health,Hospital
+254,Chase Lodge Hospital,51.607041,-0.232679,Health,Hospital
+255,Ellern Mede Ridgeway,51.62425737286827,-0.23683418451265942,Health,Hospital
+258,Barnet Hospital,51.65115652900854,-0.21410573682179795,Health,Hospital
+259,barnet birth centre,51.651576390105596,-0.21493553403891402,Health,Hospital
+260,Opthalmology Barnet Hospital,51.650717,-0.214183,Health,Hospital
+261,Springwell Centre,51.6478,-0.217732,Health,Hospital
+262,Fracture clinic Barnet Hospital,51.650285,-0.215155,Health,Hospital
+263,Royal Marsden Blood Tests,51.345287,-0.187404,Health,Hospital
+264,Royal Marsden Hospital,51.34353238722473,-0.19103742966361242,Health,Hospital
+265,X-ray department Sutton Hospital,51.346848,-0.193664,Health,Hospital
+266,royal marsden ct department,51.343912,-0.191008,Health,Hospital
+267,RMH Radiotherapy Department,51.345128,-0.187486,Health,Hospital
+268,Radiotherapy Royal Marsden,51.345309,-0.18736,Health,Hospital
+269,Royal Marsden Cherry Tree Restaurant,51.34366226196289,-0.19178450107574463,Health,Hospital
+270,Sutton Hospital,51.34671074998645,-0.1937691709773902,Health,Hospital
+271,royal marsden pain management clinic,51.344154,-0.187067,Health,Hospital
+272,Robin Hood Lane Health Centre,51.3627635219182,-0.1968989772994874,Health,Hospital
+275,Sutton General Hospital,51.34717297726381,-0.19255967995791531,Health,Hospital
+277,St Helier Hospital Birth Centre,51.377296447753906,-0.18133890628814697,Health,Hospital
+278,Richard Wells Rehabilitation Centre,51.344408,-0.200524,Health,Hospital
+279,Cancer Information And Support Centre At St Helier,51.374563,-0.186268,Health,Hospital
+283,Macmillan Cancer Support,51.37537,-0.186054,Health,Hospital
+285,Royal Marsden Clinical Assesment Unit CAU,51.345465,-0.200074,Health,Hospital
+288,St. Helier Hospital,51.380079,-0.183194,Health,Hospital
+289,"Ultrasound Dept, St Helier Hospital",51.38136811034722,-0.1869753335488957,Health,Hospital
+291,phsio dept,51.38047241755233,-0.18321565080524357,Health,Hospital
+294,Queen Mary's Hospital for Children,51.37933468019029,-0.1837635040283203,Health,Hospital
+295,Womens Health Unit,51.38002,-0.18490983559058402,Health,Hospital
+296,St Heliers Medical Ambulatory Centre,51.380523,-0.185408,Health,Hospital
+297,Ward B3,51.37994,-0.18394691,Health,Hospital
+298,Ferguson House,51.380738,-0.183326,Health,Hospital
+299,"Phlebotomy, St Helier Hospital",51.380254,-0.1835,Health,Hospital
+300,X Ray,51.380451,-0.183442,Health,Hospital
+302,Ward M2,51.379425,-0.1839194,Health,Hospital
+303,Neonatal Unit,51.38109960151961,-0.1850794468364987,Health,Hospital
+304,St George's Hospital Occupational Health,51.426558,-0.177731,Health,Hospital
+305,Springfield University Hospital,51.43663965372439,-0.1710391044616699,Health,Hospital
+306,St George's Hospital,51.42664125549244,-0.17449378967285156,Health,Hospital
+309,Amyand Ward,51.42659693685476,-0.17577052116394043,Health,Hospital
+310,rheumatology outpatient,51.42725837091807,-0.17073758375144626,Health,Hospital
+311,Pinckney Ward,51.4275424597995,-0.17224035328065893,Health,Hospital
+312,Emergency Surgical Ward,51.426025,-0.174149,Health,Hospital
+313,Maxillo-Facial Surgery Outpatients,51.427837,-0.174232,Health,Hospital
+314,St James Wing,51.42830588584996,-0.1730704832881439,Health,Hospital
+315,Hunter Wing,51.42729421010442,-0.17473118666235246,Health,Hospital
+316,Thomas Addison Unit,51.42816735323149,-0.17318413721738937,Health,Hospital
+317,Atkinson Morley Wing,51.425228,-0.175026,Health,Hospital
+318,Gordon Smith Ward,51.426395,-0.17438985,Health,Hospital
+319,The Rose Centre,51.425034,-0.175266,Health,Hospital
+320,Allingham Ward,51.429972,-0.1767,Health,Hospital
+321,McEntee Ward,51.42611942572624,-0.17474717293795813,Health,Hospital
+324,St George's Hospital Pharmacy,51.427198,-0.173489,Health,Hospital
+325,Rapid Access Clinic,51.426078,-0.174285,Health,Hospital
+326,Gunning Ward,51.426685,-0.17563608,Health,Hospital
+327,McKissock Ward,51.425555436495266,-0.17540037631988525,Health,Hospital
+328,MRI Unit,51.427519,-0.17288,Health,Hospital
+329,Frederick Hewitt Ward,51.427264,-0.172436,Health,Hospital
+330,"Courtyard Clinic, St.Grorge's Hospital",51.42652,-0.177614,Health,Hospital
+331,Lanesborough Wing,51.42719342899129,-0.17266898841978684,Health,Hospital
+332,Nicholls Ward,51.42773,-0.173474,Health,Hospital
+333,Maxillofacial Theatre,51.427409711012466,-0.17927118017295257,Health,Hospital
+334,St John's Hill Surgery,51.459887,-0.179358,Health,Hospital
+336,University College Hospital London,51.47683502487898,-0.17371594679576444,Health,Hospital
+340,Bupa Cromwell Hospital,51.4952732890954,-0.19169049226063772,Health,Hospital
+342,Outpatients East,51.490296,-0.17368,Health,Hospital
+343,Outpatients Department,51.48452797511852,-0.18183434851290264,Health,Hospital
+344,Chelsea Outpatient Centre,51.48672942421372,-0.17204907335067157,Health,Hospital
+346,"Blood Tests, Chelsea and Westminster",51.484389,-0.181793,Health,Hospital
+347,Operating Theatres (RBHT),51.4892806957185,-0.17114229561918237,Health,Hospital
+348,Stroke Unit,51.486929,-0.22011,Health,Hospital
+350,Hydrotherapy,51.48735959912587,-0.22165825644203027,Health,Hospital
+351,Clinic 8 Oncology Department,51.48702,-0.2201081,Health,Hospital
+352,My Healthcare Clinic,51.481403,-0.198477,Health,Hospital
+353,Loc: Leaders In Oncology Care,51.489726,-0.170545,Health,Hospital
+354,Pre-Operative Assesment,51.484074,-0.181829,Health,Hospital
+356,7 North G.I. Ward,51.48749549108005,-0.22033723868631913,Health,Hospital
+357,Sleep Clinic,51.487415,-0.220202,Health,Hospital
+358,Outpatients West,51.490015,-0.17411,Health,Hospital
+359,Surgical Admissions Lounge,51.483787,-0.181386,Health,Hospital
+360,Chelsea Wing,51.489346,-0.171676,Health,Hospital
+361,"Kensington Wing, Chelsea& Westminster Hospital",51.485196,-0.181471,Health,Hospital
+362,Maggies,51.48733909661673,-0.22144047611114523,Health,Hospital
+363,Kobler,51.48474814465977,-0.18280760204003574,Health,Hospital
+364,Orthopaedic and Fracture Clinic,51.48805815035639,-0.22127865905334257,Health,Hospital
+365,Sydney Wing,51.489058,-0.170472,Health,Hospital
+366,The London Cosmetic Clinic,51.497541,-0.166247,Health,Hospital
+367,Paediatric Outpatients,51.490341,-0.173698,Health,Hospital
+368,Royal Hospital Chelsea,51.48791804199486,-0.15681004413047214,Health,Hospital
+369,Royal Brompton Hospital,51.48915172189793,-0.17015513606314195,Health,Hospital
+370,Chelsea and Westminster Hospital,51.48483069275318,-0.1822750889856993,Health,Hospital
+371,Charing Cross Hospital,51.48699673444411,-0.2202155171932891,Health,Hospital
+373,Clinical Health Psychology and Neuropsychology Departmentq,51.486854036715556,-0.22037241217080636,Health,Hospital
+375,Nkosi Johnson Centre,51.48642,-0.214531,Health,Hospital
+376,The Royal Marsden Hospital,51.49056863892379,-0.17357427254782193,Health,Hospital
+377,The Platinum Medical Centre,51.52886144607226,-0.16877908587985196,Health,Hospital
+378,The Lindo Wing,51.517475,-0.174279,Health,Hospital
+379,University College Hospital,51.525004422546154,-0.1363386165036446,Health,Hospital
+380,St. Mary's Hospital,51.51701684021448,-0.17466118211771173,Health,Hospital
+381,The Western Eye Hospital,51.520907,-0.163041,Health,Hospital
+382,Dr Francesco Lo Monaco Cardiologist,51.52131,-0.14788,Health,Hospital
+383,Antenatal Clinic,51.553611,-0.165713,Health,Hospital
+384,Schoen Clinic,51.516224,-0.1499442,Health,Hospital
+385,Royal National ENT and Eastman Dental Hospitals,51.522645,-0.134532,Health,Hospital
+386,Wellington Hospital,51.53164867315626,-0.17128643085241957,Health,Hospital
+387,Royal Free Hospital Restaurant,51.553231,-0.164072,Health,Hospital
+388,Cadogan Clinic,51.49447654336201,-0.15831928620118751,Health,Hospital
+389,Antenatal Clinic - UCL,51.52458377284613,-0.13563343131341143,Health,Hospital
+390,Queen Elizabeth The Queen Mother Wing,51.517911,-0.174295,Health,Hospital
+391,Nippon Club North Clinic,51.53266922892955,-0.17452005496493989,Health,Hospital
+392,Hospital for Tropical Diseases,51.522804074190674,-0.13589623242824264,Health,Hospital
+393,Royal Free London - Pharmacy,51.55346841060276,-0.1662153050804905,Health,Hospital
+394,9 Harley Street,51.5174017,-0.1459658,Health,Hospital
+395,Tavistock and Portman NHS Trust,51.546646195317514,-0.17531257792872837,Health,Hospital
+396,King Edward VII Hospital,51.52080713501148,-0.15046992499442008,Health,Hospital
+397,EGA Wing,51.524604,-0.135886,Health,Hospital
+398,Royal Free London Children Emergency,51.553656,-0.166176,Health,Hospital
+399,Phlebotomy,51.519598,-0.149813,Health,Hospital
+400,Florence Nightingale London Clinic,51.523242758565424,-0.1488381294216892,Health,Hospital
+401,Royal Free Hospital A&E,51.553617,-0.166135,Health,Hospital
+402,Inpatient Pharmacy Uclh,51.524969,-0.136153,Health,Hospital
+403,"Gastroenterology, Medical and Medicine Ward T09",51.525008,-0.136147,Health,Hospital
+404,ISEH,51.52122113427457,-0.13663600047989924,Health,Hospital
+405,The Frankland Allergy Clinic,51.51705640601733,-0.17514493282540194,Health,Hospital
+406,Royal Free Hospital,51.553713786156635,-0.1660911811696297,Health,Hospital
+407,UCH Elizabeth Garrett Anderson,51.52453550400253,-0.135260570211394,Health,Hospital
+408,UCH Macmillan Cancer Centre,51.52314172301171,-0.1351204314303523,Health,Hospital
+409,UCL Cancer Institute,51.52381607098505,-0.1367681855413204,Health,Hospital
+410,111 Harley St.,51.52140548577222,-0.14833412563656392,Health,Hospital
+411,Treatment Room,51.517794,-0.173845,Health,Hospital
+412,The London Clinic,51.5229254462692,-0.15056238374418926,Health,Hospital
+413,Valentine Ellis Ward,51.5179135135406,-0.1748978410879593,Health,Hospital
+414,RNOH Bolsover Street,51.522890554987846,-0.1432104806505006,Health,Hospital
+415,Neurological Rehabilitation Unit,51.531737525838686,-0.17150923204240287,Health,Hospital
+416,The Hospital of St John & St Elizabeth,51.53294945072234,-0.17464498540156323,Health,Hospital
+420,Royal Free Hospital - oncology clinic,51.555693959941415,-0.16999377005922414,Health,Hospital
+421,Royal Free Hospital - Hand Therapy Unit,51.55135749043478,-0.16744085028843653,Health,Hospital
+422,RF Gate3,51.552749,-0.167262,Health,Hospital
+428,Occupational Health Royal Free London Nhs,51.553281,-0.162823,Health,Hospital
+429,Dept of Medical Microbiology,51.55329260790817,-0.16466118633597135,Health,Hospital
+432,Tavistock Centre,51.54662834586634,-0.17534467166496737,Health,Hospital
+433,Bobath Center,51.58934773753369,-0.16518531018626761,Health,Hospital
+434,Saint Luke's Woodside Hospital,51.586905,-0.149497,Health,Hospital
+435,Simmons House Adolescent Unit,51.586889,-0.149535,Health,Hospital
+436,Hospital St John&highgate Room:210,51.57648205412529,-0.15688454709134908,Health,Hospital
+437,Oak Lane Children Health Centre,51.596442964658415,-0.17417660567916737,Health,Hospital
+438,Highgate Hospital,51.57642528814903,-0.1567997071693805,Health,Hospital
+440,Gordon Hospital,51.58675432743984,-0.13614827977119173,Health,Hospital
+441,Finchley Memorial Hospital,51.605597537033155,-0.17660485173317214,Health,Hospital
+447,Potters Bar Community Hospital,51.68753757674631,-0.17751202070585212,Health,Hospital
+448,Moorfields Eye Clinic,51.68372400958507,-0.1805497099440215,Health,Hospital
+449,Purley War Memorial Hospital,51.33989600273554,-0.11439881174690719,Health,Hospital
+450,Purley Hospital,51.34036314672668,-0.11026161317348304,Health,Hospital
+453,Croydon University Hospital,51.38944606418133,-0.11048569951554318,Health,Hospital
+454,Moorfields At Croydon,51.389197,-0.109858,Health,Hospital
+455,Physiotherapy Department,51.389892,-0.109443,Health,Hospital
+456,Dermatology centre,51.390462,-0.10973,Health,Hospital
+457,X-ray Department,51.38920518656575,-0.11133366362021144,Health,Hospital
+458,Croydon AE,51.391847,-0.114259,Health,Hospital
+459,Phlebotomy Dept,51.38905649878142,-0.11147700921858308,Health,Hospital
+460,West Valley Hospital,51.37996219999999,-0.1005749,Health,Hospital
+482,Todd Ward,51.46717296326045,-0.09466683297724439,Health,Hospital
+483,Lambeth Hospital,51.465677778530335,-0.12243773398197692,Health,Hospital
+484,Maudsley Hospital,51.469160429066164,-0.09149232207092034,Health,Hospital
+485,Lonsdale Ward,51.46774207043563,-0.09361982345581055,Health,Hospital
+486,Ian's laboratory,51.46731121448971,-0.09520555082633683,Health,Hospital
+487,Trundle Ward,51.46720886230469,-0.09525509923696518,Health,Hospital
+488,King's Day Care,51.472084045410156,-0.0983552634716034,Health,Hospital
+489,Fracture and Orthopaedic Clinic,51.468631744384766,-0.09597969800233841,Health,Hospital
+490,Annie Zunz Ward,51.46774848855476,-0.09380442133060415,Health,Hospital
+491,Dawson Ward,51.467281887170216,-0.09492435794229531,Health,Hospital
+492,Derek mitchell unit,51.467544,-0.094541,Health,Hospital
+493,Neuro Admissions Lounge,51.46797025241819,-0.0924075619118001,Health,Hospital
+494,Guthrie Clinic,51.46811133694065,-0.09218215942382812,Health,Hospital
+495,Dulwich Community Hospital,51.45850511887406,-0.08185895766330585,Health,Hospital
+496,Cheyne Wing,51.46779052639169,-0.0935983657836914,Health,Hospital
+497,Ruskin Wing,51.467993036413,-0.08935419447528348,Health,Hospital
+498,Howard Ward,51.46693,-0.09496696,Health,Hospital
+499,Nightingale Birth Place,51.468161,-0.093034,Health,Hospital
+500,The Variety Club Children's Hospital,51.46806129656426,-0.09391458414782897,Health,Hospital
+501,Coptcoat Ward,51.46783,-0.09229649,Health,Hospital
+502,General Ultrasound,51.468529239464814,-0.09246668580930958,Health,Hospital
+503,Guthrie Wing,51.467857000442734,-0.0927967377852827,Health,Hospital
+504,Day Surgery Unit,51.46881086297029,-0.09310928320853042,Health,Hospital
+505,Neonatal Intensive Care Unit (NICU),51.474224,-0.090076,Health,Hospital
+506,Neurosciences - High Dependency Unit,51.46784,-0.091972,Health,Hospital
+507,Katherine Monk Ward,51.468552,-0.093,Health,Hospital
+508,Waddington Ward,51.467359,-0.095233,Health,Hospital
+509,Parkside Medical Centre,51.47577001900714,-0.09263277053833008,Health,Hospital
+510,King's College Hospital Business Park,51.46865463256836,-0.09675820171833038,Health,Hospital
+511,King's College Hospital,51.46814989580254,-0.09301624939952001,Health,Hospital
+512,Golden Jubilee Wing,51.468521541640825,-0.09312092266251427,Health,Hospital
+513,Bessemer Wing,51.467936,-0.095485,Health,Hospital
+514,Xray,51.47109364904629,-0.09213514752169906,Health,Hospital
+515,Thomas Cook Childrens Critical Care Centre,51.46814377162608,-0.09356244507991483,Health,Hospital
+516,Cardiac Cath Lab,51.468091,-0.093537,Health,Hospital
+517,Rays of Sunshine Ward,51.467325,-0.094562,Health,Hospital
+518,South Westminster Centre for Health,51.49443287832276,-0.13409672279908066,Health,Hospital
+520,Tomotheraphy at St Thomas Hospital,51.499795,-0.118779,Health,Hospital
+521,Nuclear Medicine Department,51.499979,-0.118063,Health,Hospital
+522,Gassiot House,51.498833,-0.11832666,Health,Hospital
+523,Antenatal Ward,51.49917,-0.11911791,Health,Hospital
+525,The Lister Hospital,51.48635073190487,-0.15035232312606248,Health,Hospital
+527,South Wing,51.49784860743533,-0.11967285638450464,Health,Hospital
+528,Evelina London Children's Hospital Neonatal Unit,51.49962,-0.118835,Health,Hospital
+529,Waterloo Health Centre,51.50013250675241,-0.11362002840552018,Health,Hospital
+530,Somerset Ward,51.499723,-0.119547,Health,Hospital
+531,Intensive Care Unit (ICU),51.498577,-0.11875514,Health,Hospital
+532,St. Philips Medical Centre,51.51381972126996,-0.1148969861587,Health,Hospital
+535,St Thomas' Hand Therapy,51.500675,-0.116616,Health,Hospital
+536,Lambeth Wing,51.499886441782614,-0.11796994340047504,Health,Hospital
+537,Sleep Disorder Clinic,51.50327092493996,-0.11543084997025559,Health,Hospital
+539,East Wing,51.49815,-0.11962384,Health,Hospital
+540,Day Surgery,51.498665,-0.118216015,Health,Hospital
+542,Endoscopy Unit,51.499882,-0.119829,Health,Hospital
+543,North Wing,51.498848,-0.11828877,Health,Hospital
+544,Alan Apley Ward,51.49914657263173,-0.11880072038453005,Health,Hospital
+547,Pet Centre,51.499276,-0.117771,Health,Hospital
+548,Harris Birthright Centre,51.51414125386103,-0.15654038006977383,Health,Hospital
+551,St Thomas' Hospital,51.49971047720161,-0.11890384052741654,Health,Hospital
+552,lambeth community care centre,51.493019,-0.108256,Health,Hospital
+553,Gynaecology,51.498669490119845,-0.11892722026422867,Health,Hospital
+554,"Pharmacy PN, St Thomas'",51.49902569584047,-0.11683424715884191,Health,Hospital
+555,Cygnet Churchill,51.497099,-0.109729,Health,Hospital
+556,St Thomas' Pharmacy Tea Room,51.49971317495055,-0.11704944398865326,Health,Hospital
+557,LCCC,51.48921806188909,-0.11269200440423378,Health,Hospital
+558,EMU St Thomas',51.49901,-0.118159,Health,Hospital
+559,Harrison Wing (G.U. Medicine),51.49937469487937,-0.11687798146512728,Health,Hospital
+560,St. Thomas' Louis Coote Lupus Unit,51.50062673066332,-0.11810356850641798,Health,Hospital
+561,Evelina London Children's Hospital,51.499772798382324,-0.11881409222099718,Health,Hospital
+563,KGV Building,51.51710254046803,-0.09929228086113831,Health,Hospital
+564,St Bartholomew's Hospital,51.517863114858024,-0.09960651397705078,Health,Hospital
+568,Robin Brook Centre,51.51693466209383,-0.10066713450183767,Health,Hospital
+569,London Bridge Hospital Diagnostic and Treatment Centre,51.515524024314566,-0.08404545608039872,Health,Hospital
+570,Beaumont Animal Hospital,51.537366240457295,-0.1345394762557884,Health,Hospital
+571,Royal London Hospital For Integrated Medicine,51.521613171594794,-0.12125264280969637,Health,Hospital
+574,"Level R, Guy's Cancer Centre",51.502342,-0.088043846,Health,Hospital
+575,Retinal Therapy Unit,51.527496,-0.089438595,Health,Hospital
+576,Graham Hatton Unit,51.518093,-0.060615577,Health,Hospital
+577,Leonard Wolfson Experimental Neurology Centre,51.52217479430475,-0.1221868061424897,Health,Hospital
+580,Imaging Department,51.5181,-0.05917255,Health,Hospital
+581,City Of London Medical Centre,51.51144352424058,-0.07653985702723849,Health,Hospital
+582,Medical Imaging,51.52739,-0.089696,Health,Hospital
+585,Clinic 12,51.527576,-0.089898,Health,Hospital
+586,David Ferrier Ward,51.521933352675184,-0.12183129787445068,Health,Hospital
+588,The Bridge Fertility Hospital,51.505083,-0.090266,Health,Hospital
+589,South Hackney CMHT,51.531919084046905,-0.06447433428204219,Health,Hospital
+593,Royal London Hospital,51.51819808660023,-0.05918151371201946,Health,Hospital
+595,London Bridge Hospital,51.50585455769581,-0.0862311461101383,Health,Hospital
+596,St Leonards Hospital,51.533641558117424,-0.07805511353198445,Health,Hospital
+598,Moorfields Eye Hospital,51.52780806764324,-0.08999260062354716,Health,Hospital
+599,BMI City Medical,51.51520589407308,-0.08188247680664062,Health,Hospital
+601,Harvey Ward,51.518243,-0.099974,Health,Hospital
+602,National Hospital for Neurology and Neurosurgery,51.522363276990376,-0.12171452690951336,Health,Hospital
+603,SBH,51.518396,-0.100607,Health,Hospital
+604,Pharmacy TPN,51.522484222713516,-0.12095936195755008,Health,Hospital
+607,The London Chest Hospital,51.52885149534646,-0.11986589009308521,Health,Hospital
+608,Puffin SDAU,51.522761,-0.121519,Health,Hospital
+609,Great Ormond Street Hospital For Children,51.52200047198426,-0.12052583565917294,Health,Hospital
+610,Eastman Dental Hospital,51.52579467670017,-0.11734281358858145,Health,Hospital
+611,The Whittington Hospital,51.56638482190306,-0.138475485409035,Health,Hospital
+612,Mercers Ward,51.566154,-0.138526,Health,Hospital
+613,Whittington Education Centre,51.56689504606649,-0.14071460227791957,Health,Hospital
+621,Clinic 3C,51.566345,-0.13903,Health,Hospital
+625,Birth Centre,51.56582611418789,-0.14070817650054196,Health,Hospital
+627,Clinic 1B,51.566809,-0.137958,Health,Hospital
+628,Coyle Ward,51.566633,-0.139628,Health,Hospital
+630,Highgate Mental Heath Centre,51.576207239307344,-0.11439019888485592,Health,Hospital
+632,Cellier Ward,51.565815,-0.14054473,Health,Hospital
+633,Imaging,51.5662755472813,-0.13889256137592215,Health,Hospital
+634,Semple Ward,51.56616,-0.14086324,Health,Hospital
+635,Clinic 4A,51.566463,-0.137606,Health,Hospital
+637,St Pancras Hospital,51.5360228044959,-0.13234063934219015,Health,Hospital
+638,Coronary Care Unit,51.566773,-0.13963,Health,Hospital
+640,Fracture Clinic,51.5665141,-0.1394029,Health,Hospital
+643,Clinic 4b,51.566974,-0.137966,Health,Hospital
+645,Hampstead Heath Experimental Hospital,51.5579647,-0.15281954,Health,Hospital
+647,St Ann's Hospital,51.581117230373195,-0.09013452727485746,Health,Hospital
+648,Mediwell Health Centre,51.598784,-0.067024,Health,Hospital
+650,x-ray dept,51.579658,-0.089541,Health,Hospital
+651,Metropolitan Hospital,51.612452455375156,-0.08794656014949347,Health,Hospital
+653,H Block,51.5767221,-0.0930274,Health,Hospital
+654,St Ann's Wheelchair Service,51.58206,-0.08419,Health,Hospital
+655,B1,51.579551877604146,-0.0918271908767565,Health,Hospital
+656,St Ann's Hospital Nutrition and Dietetics Department,51.579324,-0.08779,Health,Hospital
+657,The Priory Hospital,51.632039407632384,-0.12035481727376621,Health,Hospital
+658,BMI The Cavell Hospital,51.65892220286603,-0.1028616463629718,Health,Hospital
+659,Alliance Medical MRI,51.666759359693586,-0.10318980569124858,Health,Hospital
+660,Royal Free London NHS Trust - Chase Farm Hospital,51.664517238264686,-0.09611186886770447,Health,Hospital
+661,Chase Farm Hospital,51.666699654799615,-0.10291099548339844,Health,Hospital
+662,St Michaels Hospital,51.662535703897746,-0.08401643652997227,Health,Hospital
+663,BMI The Kings Oak Hospital,51.66809317585134,-0.1051698786281034,Health,Hospital
+665,Isabel Hospice,51.707871,-0.11314,Health,Hospital
+666,Caterham Dene Hospital,51.283962848587,-0.0857246866068952,Health,Hospital
+667,North Downs Hospital,51.274192176091404,-0.08074425426837178,Health,Hospital
+668,Northdowns Hospital,51.274273,-0.080808,Health,Hospital
+669,Medical Center,51.35977181136953,-0.06423780357051903,Health,Hospital
+670,Bethlem Royal Hospital,51.38123185815092,-0.029316356626474388,Health,Hospital
+671,BMI Shirley Oaks Hospital,51.38221732831833,-0.0565012840694728,Health,Hospital
+672,Beckenham Beacon,51.40491043265994,-0.03369403825157887,Health,Hospital
+673,Oxleas Mental Health Team,51.41083,-0.055176,Health,Hospital
+674,bowley close rehabilitation centre,51.42134094238281,-0.0784512609243393,Health,Hospital
+675,Sydenham Green health Centre,51.427472,-0.03933,Health,Hospital
+677,Chestnut Ward,51.45348,-0.018635988,Health,Hospital
+678,Urgent Care Unit,51.4540388564308,-0.016224566072582273,Health,Hospital
+679,Alexis Clinic,51.44637648301276,-0.021959148545077578,Health,Hospital
+681,Cherry Ward,51.453724,-0.01797013,Health,Hospital
+682,University Hospital Lewisham,51.453525834433925,-0.017441452860126747,Health,Hospital
+683,New Cross Health Centre,51.47719781054362,-0.039577372638207625,Health,Hospital
+685,Orthopedics Department,51.503685,-0.085967,Health,Hospital
+687,Guy's Hospital,51.50352551239466,-0.0867319107055664,Health,Hospital
+689,Guys 30th Floor,51.503273,-0.087558,Health,Hospital
+690,Tower Wing,51.50364506960552,-0.08671522993166897,Health,Hospital
+691,Bermondsey Wing,51.503326416015625,-0.08887899667024612,Health,Hospital
+692,Southwark Wing,51.50420904909958,-0.08750277675761296,Health,Hospital
+693,Guy's Hospital Cancer Centre,51.50323506033091,-0.08772861993803,Health,Hospital
+694,Guys Kidney unit,51.503535,-0.087915,Health,Hospital
+698,Nuffield House Guys Hospital,51.502505,-0.08829,Health,Hospital
+704,Haematology Day Unit,51.503789142571996,-0.08745992472928657,Health,Hospital
+705,80 Leadenhall Street Sexual Health Clinic,51.513326,-0.078633,Health,Hospital
+708,Richmond Pharmacology,51.5032,-0.09142544,Health,Hospital
+709,St. John's Institute Of Dermatology,51.503372,-0.08728042,Health,Hospital
+711,Samaritan Ward,51.502484,-0.087435,Health,Hospital
+720,Richard Bright Ward,51.502048,-0.087299,Health,Hospital
+725,Hedley Atkins Ward,51.50241294684724,-0.08735376116204144,Health,Hospital
+726,Blundell ward,51.50311,-0.086002,Health,Hospital
+727,South Thames Cleft Service,51.503346841546076,-0.08745992472928657,Health,Hospital
+728,ON THE GRID,51.488302,-0.041831,Health,Hospital
+731,Mile End Hospital,51.52433545059295,-0.042608976523677546,Health,Hospital
+732,Day Unit Rlh,51.518087,-0.058165,Health,Hospital
+733,Homerton University Hospital,51.5501340887911,-0.045918103615833,Health,Hospital
+734,St Joseph's Hospice,51.536908816364914,-0.05674945627893024,Health,Hospital
+735,London Chest Hospital,51.531869754575176,-0.04940645866971184,Health,Hospital
+736,Homerton Hospital Main Outpatients,51.55026603048247,-0.0457486003596412,Health,Hospital
+739,Homerton Hospital Antenatal Clinic,51.55053825477196,-0.04570484161376953,Health,Hospital
+740,The London Dental institute,51.517170358016216,-0.06195640648210048,Health,Hospital
+741,Mildmay Hospital,51.525785655027384,-0.07798525077855534,Health,Hospital
+742,"X-Ray Dept, Royal London",51.518543,-0.058614,Health,Hospital
+743,Homerton Fertility Clinic,51.549942,-0.045892,Health,Hospital
+744,Ward 12C,51.517711,-0.058884,Health,Hospital
+745,Neurology Department,51.518244,-0.059006,Health,Hospital
+746,St Clements Hospital,51.524262628278116,-0.028842912817437238,Health,Hospital
+747,Homerton Day Surgery,51.550043,-0.044372,Health,Hospital
+749,All Saints Practice,51.50926027401027,-0.015380588544565699,Health,Hospital
+750,Neonatal Unit,51.551366,-0.045797,Health,Hospital
+751,Theatre Suite,51.517994,-0.059852824,Health,Hospital
+752,Locomotor at St Leonard's,51.533179088626085,-0.07808054196806291,Health,Hospital
+753,"A&E Dept, Whitechapel Hospital",51.51701440585738,-0.055860136572157104,Health,Hospital
+754,"""the unit""",51.517495384441474,-0.058533262512074656,Health,Hospital
+755,Acad Theatres & Recovery Suite,51.518246,-0.058625042,Health,Hospital
+756,ACCU Seminar Rm,51.517564957772535,-0.05875038563266621,Health,Hospital
+757,Whizz Kids Mile End,51.524795,-0.04107,Health,Hospital
+758,Yogesh Bajaj ENT Consultant - London Independent Hospital,51.52030321498713,-0.04629760980606079,Health,Hospital
+759,Renal HDU,51.517334,-0.058422536,Health,Hospital
+763,BMI The London Independent Hospital,51.52053479139095,-0.046396127747227435,Health,Hospital
+764,Foot Health & Footwear Clinic,51.52796201969814,-0.037057289470121525,Health,Hospital
+765,"Respiratory Function Unit, London Chest Hospital",51.526095062425654,-0.030495270597455264,Health,Hospital
+766,SAU Mile End,51.525642,-0.046652,Health,Hospital
+767,Tariro House,51.552179401548656,-0.08516550064086914,Health,Hospital
+774,Louis Freedman Centre For Wellbeing,51.53990773089756,-0.10238833369112524,Health,Hospital
+783,North Middlesex University Hospital,51.613006787849216,-0.07477998733520508,Health,Hospital
+786,The Priory,51.373801472921144,0.01412038401353011,Health,Hospital
+788,BMI The Sloane Hospital,51.408144107084134,-0.004768967628479004,Health,Hospital
+789,South Lewisham Health Centre,51.429904,-0.013601,Health,Hospital
+794,BMI The Blackheath Hospital,51.46555947792495,0.008526106156520155,Health,Hospital
+797,Health & Aesthetic Clinic,51.47250950598399,0.03839585120437881,Health,Hospital
+801,Dowe House,51.46375414655616,0.0028100002503418093,Health,Hospital
+802,Baltic Medical Centre,51.50035059814349,-0.013285667273764842,Health,Hospital
+803,Canary Wharf NHS Walk In Centre,51.50221248739822,-0.020817518351125122,Health,Hospital
+807,Newham General  Hospital,51.52313854563254,0.03430141473703306,Health,Hospital
+808,Newham Centre for Mental Health,51.520326876755014,0.039959640124005644,Health,Hospital
+809,NHS Nightingale Hospital,51.508244559305126,0.02841046079993248,Health,Hospital
+810,Forest Ward,51.523387,0.035038,Health,Hospital
+811,Heath Central,51.522948,0.035444,Health,Hospital
+812,Knowledge Hub,51.52253,0.037025213,Health,Hospital
+813,Radiology Department,51.52274,0.03469538,Health,Hospital
+814,Operating Theatres (Nuh),51.523182,0.035394765,Health,Hospital
+815,Itu/Hdu,51.52346219215375,0.035134760484137065,Health,Hospital
+816,St Andrews Wing,51.52286,0.037533827,Health,Hospital
+817,Coffee Rm,51.52350387029186,0.03514602379035945,Health,Hospital
+818,Alison Brown Osteopathy Centre,51.53263917635424,0.05152511892142541,Health,Hospital
+819,Richard House Childrens Hospice,51.51007533073425,0.042566657066345215,Health,Hospital
+820,Health Clinic,51.536387183048454,0.05047268966686948,Health,Hospital
+823,Curie Ward,51.577588,0.004469,Health,Hospital
+825,Poplar ward,51.576214,0.002822,Health,Hospital
+827,Ct/Ir,51.578636,0.0029852986,Health,Hospital
+828,Sycamore Ward,51.576141,0.002968,Health,Hospital
+829,Whipps Cross Ambulatory Care,51.578509,0.002785,Health,Hospital
+830,Victory Ward,51.577981,0.003772,Health,Hospital
+831,Sage Ward,51.575943,0.0021571666,Health,Hospital
+832,Ultrasound,51.579213,0.00228,Health,Hospital
+833,Maternity Block,51.576286,0.0030010566,Health,Hospital
+835,Byron Cardiology Unit,51.577159,0.004885,Health,Hospital
+836,Radiology Dept.,51.577644,0.0028223544,Health,Hospital
+837,Medical Education Centre,51.576756,0.003826,Health,Hospital
+838,Whipps Cross - Plain Tree Centre,51.576972,0.001971,Health,Hospital
+839,Whipps Cross Outpatients Dept,51.576752,0.002703,Health,Hospital
+840,Whipps Cross University Hospital,51.578061079698024,0.002804169813921207,Health,Hospital
+841,London Hyperbaric Medicine,51.5775462650652,0.0034546852111816406,Health,Hospital
+843,Wanstead Hospital,51.58401838541159,0.02763998474383725,Health,Hospital
+844,Spire Roding Hospital,51.58701894367303,0.0427473708987236,Health,Hospital
+846,South Woodford Health Center,51.600347,0.030365,Health,Hospital
+847,X9 Ambulance Service,51.59080778565949,0.04212991910961136,Health,Hospital
+848,Heronwood & Galleon Unit,51.583324,0.027299523,Health,Hospital
+860,Haven House Children's Hospice,51.60616627771239,0.015480141365134517,Health,Hospital
+863,Mellmead House,51.583438,0.0324204,Health,Hospital
+866,Yogesh Bajaj ENT Consultant - Spire Roding Hospital,51.58734974755681,0.043108463287353516,Health,Hospital
+867,Holly House Hospital,51.624322820531,0.03205829495794307,Health,Hospital
+868,Ashcroft Carehome,51.637190639165254,-0.013644463473498515,Health,Hospital
+869,Cheshunt Community Hospital,51.699472178163255,-0.0332098128060465,Health,Hospital
+870,Bunn Ward,51.36639416494762,0.053243989395940106,Health,Hospital
+871,Princess Royal University Hospital,51.3660999393207,0.058405692560894486,Health,Hospital
+872,Stroke Unit,51.36614,0.060429834,Health,Hospital
+873,Chartwell unit,51.367038,0.058919,Health,Hospital
+874,The Alan Cumming Day Surgery Unit,51.36647399417137,0.05772732279215116,Health,Hospital
+875,Surgical 4,51.366173,0.05963389,Health,Hospital
+876,Rheumatology Dept,51.36563,0.08992,Health,Hospital
+877,Oak View Hospital,51.38788795510354,0.1270249239784155,Health,Hospital
+878,Queen Elizabeth Hospital,51.478860897657334,0.05071712801203341,Health,Hospital
+880,Cygnet Hospital Beckton,51.51379644815517,0.06464496145338047,Health,Hospital
+883,QEH Maternity,51.47946632370589,0.0506878722746932,Health,Hospital
+884,"Trafalgar Clinic For Sexual Health,",51.54175276042953,0.05144863838638652,Health,Hospital
+886,Barking Hospital,51.53901475629076,0.09875167624796105,Health,Hospital
+894,Wordsworth Health Centre,51.54148,0.04973855,Health,Hospital
+900,King George Hospital,51.58032318867018,0.11183738708496094,Health,Hospital
+902,North East London Treatment Centre,51.57838572172021,0.11445667449115449,Health,Hospital
+905,Nurse,51.62634872679372,0.08187265108073934,Health,Hospital
+906,Yogesh Bajaj ENT Consultant - Holly House Hospital,51.63231330998707,0.036917924880981445,Health,Hospital
+907,X-Ray Dept,51.36023,0.10544,Health,Hospital
+909,Phlebotomy Dept,51.36251,0.10252,Health,Hospital
+910,BMI Chelsfield Park Hospital,51.358434900604784,0.13193715998040373,Health,Hospital
+911,Orpington Hospital,51.36262887558091,0.09447449444238122,Health,Hospital
+914,"Ophthalmology Department, Queen Mary's Hospital",51.419632,0.10202821,Health,Hospital
+915,Queen Mary's Hospital,51.41956136232628,0.10154861220226892,Health,Hospital
+916,Newlands Day Surgey/Care Unit,51.41789,0.10336194,Health,Hospital
+917,Goldie Leigh Hospital,51.4787934460784,0.11734950204740388,Health,Hospital
+918,Erith Hospital,51.477029264034556,0.1674885713255185,Health,Hospital
+920,Goodmayes Hospital,51.57651114901863,0.11492121156335802,Health,Hospital
+922,North East London Treatment Centre,51.58003168970299,0.11790478065901991,Health,Hospital
+929,Bracton Centre Oxleas NHS Trust,51.433976,0.178202,Health,Hospital
+931,Livingstone Hospital,51.442152663546466,0.22698087339938058,Health,Hospital
+933,Amywand Ward,51.54756099999999,0.21699,Health,Hospital
+934,St Georges Hospital,51.54523019212255,0.21541611139801417,Health,Hospital
+935,Rush Green Medical Centre,51.561499476044155,0.17293686352218315,Health,Hospital
+936,CAMHS,51.58410676,0.1883058,Health,Hospital
+937,Victoria Hospital,51.583363275398085,0.18848419189453125,Health,Hospital
+938,Queen's Hospital,51.568022253534416,0.1802357991197366,Health,Hospital
+939,Blood Tests/ Phlebotomy,51.568137,0.180111,Health,Hospital
+940,Cardio Respiratory Unit,51.568616,0.179169,Health,Hospital
+941,Radiology,51.568284,0.180933,Health,Hospital
+942,Mandarin Ward B,51.568778,0.178653,Health,Hospital
+943,Day Surgery,51.568673,0.178938,Health,Hospital
+944,Ocean A Ward,51.568956896514315,0.17890334129333496,Health,Hospital
+952,Petersfield centre,51.606025659274565,0.23492364750530983,Health,Hospital
+955,St Francis Hospice,51.616244,0.184288,Health,Hospital
+958,Spire Hartswood Hospital,51.600407,0.293131,Health,Hospital

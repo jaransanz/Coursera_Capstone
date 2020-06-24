@@ -1,0 +1,681 @@
+,Venue,Latitude,Longitude,Group,Category
+0,Tesco Extra,51.4452072,-0.4728148,Dailyneeds,Supermarket
+1,Waitrose & Partners,51.49021459999999,-0.4733827,Dailyneeds,Supermarket
+2,Tesco Esso Express,51.52248522242174,-0.48111006288081626,Dailyneeds,Supermarket
+3,Sainsbury's,51.548657486178456,-0.4746943018777783,Dailyneeds,Supermarket
+4,Lidl,51.5351273844068,-0.482389070859824,Dailyneeds,Supermarket
+5,Aldi,51.514949020287304,-0.4745717889774839,Dailyneeds,Supermarket
+6,Morrisons,51.5120034458378,-0.47270095940696094,Dailyneeds,Supermarket
+7,Sainsbury's Local,51.504745843392094,-0.4589230817290968,Dailyneeds,Supermarket
+8,Lidl,51.5459042496696,-0.476741079934429,Dailyneeds,Supermarket
+11,Tesco Extra,51.4173546,-0.424893,Dailyneeds,Supermarket
+12,Waitrose & Partners,51.42807761,-0.46948615,Dailyneeds,Supermarket
+13,Tesco,51.4597273,-0.4148962,Dailyneeds,Supermarket
+14,Asda,51.4465138,-0.4117342,Dailyneeds,Supermarket
+15,Aldi,51.443888990642975,-0.4116933123672197,Dailyneeds,Supermarket
+16,Tesco,51.443481,-0.4130872,Dailyneeds,Supermarket
+17,Lidl,51.44843473522586,-0.40924592558647416,Dailyneeds,Supermarket
+18,Polianna,51.45298,-0.431301,Dailyneeds,Supermarket
+19,Iceland,51.48181394719168,-0.40739690521096306,Dailyneeds,Supermarket
+21,Asda,51.5011676,-0.4251995,Dailyneeds,Supermarket
+24,Lidl,51.5086581110589,-0.419618427254408,Dailyneeds,Supermarket
+25,Lidl,51.5188283379626,-0.410283382960774,Dailyneeds,Supermarket
+26,Sainsbury's,51.515342,-0.4035,Dailyneeds,Supermarket
+28,Tesco Extra,51.49904224690196,-0.4076474905014038,Dailyneeds,Supermarket
+29,Tesco Extra,51.5246659,-0.3856697,Dailyneeds,Supermarket
+31,Lidl,51.5346072335526,-0.388890540356683,Dailyneeds,Supermarket
+33,Waitrose & Partners,51.57134366861113,-0.42295721453774604,Dailyneeds,Supermarket
+36,Nisa Local,51.60265554654734,-0.41022883273387833,Dailyneeds,Supermarket
+37,Aldi,51.578953,-0.399332,Dailyneeds,Supermarket
+38,Tesco,51.596881,-0.3959728,Dailyneeds,Supermarket
+40,Sainsbury's,51.59336363343396,-0.38065161007223125,Dailyneeds,Supermarket
+41,Lidl,51.5957175835907,-0.38543757035781,Dailyneeds,Supermarket
+42,Waitrose & Partners,51.611172897552784,-0.424295217283543,Dailyneeds,Supermarket
+43,Tesco,51.6333424,-0.4704343,Dailyneeds,Supermarket
+45,Waitrose & Partners,51.641044,-0.469038,Dailyneeds,Supermarket
+46,Tesco,51.3121481,-0.3357482,Dailyneeds,Supermarket
+47,Sainsbury's,51.29576365632602,-0.32765326381106963,Dailyneeds,Supermarket
+48,Lidl,51.2958647925206,-0.331146268293112,Dailyneeds,Supermarket
+49,Waitrose & Partners,51.294625557429825,-0.329275155837081,Dailyneeds,Supermarket
+50,Sainsbury's Local,51.29653333832051,-0.3559858294477425,Dailyneeds,Supermarket
+51,Thames Food & Wine,51.391373599319955,-0.3330167933962149,Dailyneeds,Supermarket
+52,Tesco,51.4078432,-0.3682725,Dailyneeds,Supermarket
+53,Waitrose & Partners,51.36796492323856,-0.36713995725006043,Dailyneeds,Supermarket
+54,Waitrose & Partners,51.3773937,-0.3458921,Dailyneeds,Supermarket
+55,Sainsbury's,51.426428442019116,-0.3776228427886963,Dailyneeds,Supermarket
+58,Sainsbury's,51.43432851203355,-0.3755361618956399,Dailyneeds,Supermarket
+59,Lidl,51.45226587,-0.3582147,Dailyneeds,Supermarket
+60,Waitrose & Partners,51.44839334875483,-0.32898131286276566,Dailyneeds,Supermarket
+62,Asda,51.4708177,-0.3616049,Dailyneeds,Supermarket
+63,Sainsbury's Local,51.4514926580104,-0.3576825733194666,Dailyneeds,Supermarket
+64,Sainsbury's Local,51.47495453,-0.33842708,Dailyneeds,Supermarket
+65,Asda,51.4591073,-0.3316914,Dailyneeds,Supermarket
+66,Sainsbury's Local,51.444682720456946,-0.3412245379103007,Dailyneeds,Supermarket
+67,Sainsbury's Local,51.48036716,-0.37329,Dailyneeds,Supermarket
+68,Tesco Extra,51.458622,-0.3375606,Dailyneeds,Supermarket
+69,Aldi,51.46753872853642,-0.3718158563473343,Dailyneeds,Supermarket
+70,Riverside Supermarket,51.43918726119238,-0.3323906166993337,Dailyneeds,Supermarket
+71,Coop,51.43629,-0.351932,Dailyneeds,Supermarket
+74,Lidl,51.5108282255883,-0.373323636018627,Dailyneeds,Supermarket
+77,Morrisons,51.472502873749974,-0.38548018455926775,Dailyneeds,Supermarket
+78,Lidl,51.5273479222046,-0.351162825998294,Dailyneeds,Supermarket
+79,Waitrose & Partners,51.513028966783274,-0.32136790968138484,Dailyneeds,Supermarket
+80,Tesco,51.5337647,-0.3186653,Dailyneeds,Supermarket
+81,Lidl,51.5086421125258,-0.336470163144065,Dailyneeds,Supermarket
+82,Sainsbury's,51.50924174951003,-0.32539083405401126,Dailyneeds,Supermarket
+84,Lidl,51.50995049,-0.32434764,Dailyneeds,Supermarket
+86,Lidl,51.54192681,-0.34029504,Dailyneeds,Supermarket
+88,Istanbul Gate,51.51034720000001,-0.3222026,Dailyneeds,Supermarket
+89,Al-Raghif Supermarket,51.52743541533502,-0.35200264770698175,Dailyneeds,Supermarket
+90,Maja Polish Shop,51.542321,-0.346132,Dailyneeds,Supermarket
+91,Lidl,51.50656779507602,-0.32179621100991646,Dailyneeds,Supermarket
+92,Lidl,51.558322,-0.383713,Dailyneeds,Supermarket
+93,Waitrose & Partners,51.56763459380306,-0.35203656330702415,Dailyneeds,Supermarket
+94,Sainsbury's,51.55705002873037,-0.39619184247700057,Dailyneeds,Supermarket
+96,Sainsbury's,51.562353740696146,-0.35683502879512385,Dailyneeds,Supermarket
+98,Asda,51.558836120223006,-0.39982450441242773,Dailyneeds,Supermarket
+99,Aldi,51.5597039935691,-0.40140992728196395,Dailyneeds,Supermarket
+100,Asda,51.557689,-0.360897,Dailyneeds,Supermarket
+101,Sriram,51.57585,-0.37003353,Dailyneeds,Supermarket
+102,Rayners Lane Supermarket,51.576054,-0.36947462,Dailyneeds,Supermarket
+103,Istanbul Express,51.58501,-0.362007,Dailyneeds,Supermarket
+105,Waitrose & Partners,51.60532897876809,-0.33966425064738814,Dailyneeds,Supermarket
+107,Asda,51.5948409,-0.3354547,Dailyneeds,Supermarket
+108,Tesco,51.58630108426844,-0.33364368419440904,Dailyneeds,Supermarket
+109,Morrisons,51.58063782408121,-0.34274948409707195,Dailyneeds,Supermarket
+110,Lidl,51.5802162178653,-0.336742967394943,Dailyneeds,Supermarket
+111,Tesco Express,51.5817604,-0.3332737,Dailyneeds,Supermarket
+113,Morrisons,51.60831428841643,-0.3651913243309597,Dailyneeds,Supermarket
+114,Tesco,51.595561086244764,-0.33281758989056115,Dailyneeds,Supermarket
+115,Northwest International Supermarket,51.582115,-0.333101,Dailyneeds,Supermarket
+118,Nisa Local,51.62703196268875,-0.38756501226828277,Dailyneeds,Supermarket
+119,Lidl,51.649022494172,-0.386877376928294,Dailyneeds,Supermarket
+122,Aldi,51.649229,-0.389195,Dailyneeds,Supermarket
+124,Waitrose & Partners,51.33180605521637,-0.2697090000000344,Dailyneeds,Supermarket
+125,Lidl,51.360363660373665,-0.3098749824992354,Dailyneeds,Supermarket
+127,Sainsbury's Local,51.3674115,-0.30704615,Dailyneeds,Supermarket
+128,Sainsbury's Local,51.38301509914097,-0.28876205230178975,Dailyneeds,Supermarket
+129,H Mart,51.4024044352604,-0.2681289488372127,Dailyneeds,Supermarket
+130,Asda,51.4112773,-0.2901778,Dailyneeds,Supermarket
+131,Sainsbury's,51.41573620440073,-0.3029399521495746,Dailyneeds,Supermarket
+132,Waitrose & Partners,51.411323,-0.30576,Dailyneeds,Supermarket
+133,Aldi,51.40381100089284,-0.27272893548958643,Dailyneeds,Supermarket
+134,Sainsbury's,51.39168938954037,-0.3074245133934306,Dailyneeds,Supermarket
+135,Waitrose & Partners,51.39385835441002,-0.30517860859833945,Dailyneeds,Supermarket
+136,Waitrose & Partners,51.41951794,-0.30162281,Dailyneeds,Supermarket
+137,Lidl,51.410233997600095,-0.30122059248223293,Dailyneeds,Supermarket
+138,Aldi,51.41013758171051,-0.3013647826048081,Dailyneeds,Supermarket
+140,Best Foods,51.38103306360717,-0.2969532938645548,Dailyneeds,Supermarket
+141,Sainsbury's Local,51.43131438,-0.3073295,Dailyneeds,Supermarket
+151,Sainsbury's Local,51.45509356,-0.29690745,Dailyneeds,Supermarket
+152,Sainsbury's,51.4665828529178,-0.28638317786892964,Dailyneeds,Supermarket
+154,Waitrose & Partners,51.461356,-0.301994,Dailyneeds,Supermarket
+155,Waitrose & Partners,51.464646637160875,-0.2687398933799159,Dailyneeds,Supermarket
+156,Waitrose Sky Osterley,51.48954706257392,-0.32744407653808594,Dailyneeds,Supermarket
+157,Tesco Extra,51.4852174,-0.330818,Dailyneeds,Supermarket
+159,Morrisons,51.51374402645086,-0.30418684305732446,Dailyneeds,Supermarket
+163,Morrisons,51.48377140558267,-0.3052658182798919,Dailyneeds,Supermarket
+164,Whitestile Local Supermarket,51.49372,-0.30689937,Dailyneeds,Supermarket
+168,Little Waitrose,51.51568,-0.29139,Dailyneeds,Supermarket
+169,Morrisons,51.50771219810623,-0.27271654405733886,Dailyneeds,Supermarket
+174,Sainsbury's,51.53873953023739,-0.30327177753704193,Dailyneeds,Supermarket
+175,Asda,51.5285728,-0.2696693,Dailyneeds,Supermarket
+176,easyfoodstore.com,51.53561844963087,-0.28772592544555664,Dailyneeds,Supermarket
+177,Lidl,51.5081099840726,-0.27038736524374,Dailyneeds,Supermarket
+179,Loon Fung,51.53755930699555,-0.3019835080111515,Dailyneeds,Supermarket
+181,Ganapathy Cash &Carry,51.550747,-0.29909784,Dailyneeds,Supermarket
+184,Sainsbury's,51.58152188291952,-0.31521593159732797,Dailyneeds,Supermarket
+195,Morrisons,51.59193242507305,-0.28460919857025146,Dailyneeds,Supermarket
+196,Asda,51.5942498,-0.2617698,Dailyneeds,Supermarket
+197,Sainsbury's,51.61171209628185,-0.27568892638288434,Dailyneeds,Supermarket
+198,Morrisons,51.59354941371572,-0.26016034989535924,Dailyneeds,Supermarket
+199,Sainsbury's,51.61733883704866,-0.31080949848243833,Dailyneeds,Supermarket
+200,Lidl,51.60967632,-0.27884527,Dailyneeds,Supermarket
+201,Aldi,51.58507390378768,-0.2799468340753998,Dailyneeds,Supermarket
+202,Mir Food Centre,51.585803,-0.275951,Dailyneeds,Supermarket
+203,Sainsbury's Local,51.595435055828844,-0.2506607938372474,Dailyneeds,Supermarket
+204,Lidl,51.6180431949597,-0.3084754943847656,Dailyneeds,Supermarket
+206,Loon Fung Colindale,51.59294081968189,-0.25852591796761004,Dailyneeds,Supermarket
+207,Aldi,51.594437,-0.26198342,Dailyneeds,Supermarket
+211,Aldi,51.657494,-0.2796139,Dailyneeds,Supermarket
+212,Lidl,51.65577128,-0.27797546,Dailyneeds,Supermarket
+213,Tesco Extra,51.6557614,-0.2684901,Dailyneeds,Supermarket
+214,Sainsbury's Local,51.348619065594434,-0.24883441330281864,Dailyneeds,Supermarket
+215,Waitrose & Partners,51.37817195811669,-0.2433705179006438,Dailyneeds,Supermarket
+217,Aldi,51.367189,-0.263744,Dailyneeds,Supermarket
+218,Sainsbury's Local,51.376841156154455,-0.23869775150373584,Dailyneeds,Supermarket
+219,Sainsbury's,51.341599458073716,-0.2577195576547653,Dailyneeds,Supermarket
+220,Sainsbury's Local,51.36265311064192,-0.2450099775920389,Dailyneeds,Supermarket
+222,Lidl,51.38411012606281,-0.18959265688062701,Dailyneeds,Supermarket
+223,Tesco Extra,51.3749685,-0.2060669,Dailyneeds,Supermarket
+224,Waitrose & Partners,51.4092232,-0.2334166,Dailyneeds,Supermarket
+225,Waitrose & Partners,51.402755,-0.2563771,Dailyneeds,Supermarket
+226,Asda,51.38553,-0.211307,Dailyneeds,Supermarket
+227,Lidl,51.4003149999462,-0.253844000000002,Dailyneeds,Supermarket
+228,Sainsbury's Local,51.402713714575626,-0.21001951391661944,Dailyneeds,Supermarket
+229,Tesco Extra,51.4020363,-0.23964,Dailyneeds,Supermarket
+230,Sainsbury's,51.3720303,-0.2245194,Dailyneeds,Supermarket
+231,Sainsbury's Local,51.395184016322126,-0.19416852199241275,Dailyneeds,Supermarket
+233,Korea Foods,51.40089124557765,-0.24371174388400987,Dailyneeds,Supermarket
+238,Asda,51.4395295,-0.2465466,Dailyneeds,Supermarket
+244,Little Waitrose,51.449439541113826,-0.2380902236759539,Dailyneeds,Supermarket
+245,Sainsbury's Local,51.464040885859845,-0.23303568363189697,Dailyneeds,Supermarket
+246,John Walker,51.444896,-0.205795,Dailyneeds,Supermarket
+249,Waitrose & Partners,51.45444602288551,-0.1936882418258392,Dailyneeds,Supermarket
+250,Sainsbury's,51.45442437553618,-0.191674053927946,Dailyneeds,Supermarket
+251,Sainsbury's Local,51.460132463209476,-0.1887248471927326,Dailyneeds,Supermarket
+253,Sainsbury's Local,51.47276947,-0.20873569,Dailyneeds,Supermarket
+254,Waitrose & Partners,51.46312081,-0.21687164,Dailyneeds,Supermarket
+255,Sainsbury's,51.46216588785033,-0.2155338999590728,Dailyneeds,Supermarket
+256,Bayley & Sage,51.474952,-0.206262,Dailyneeds,Supermarket
+257,Waitrose & Partners,51.492757095450344,-0.26314000000002125,Dailyneeds,Supermarket
+258,Sainsbury's,51.493518354927815,-0.2652964245195477,Dailyneeds,Supermarket
+259,Sainsbury's,51.49328420784139,-0.22885265443285396,Dailyneeds,Supermarket
+261,Tesco,51.49768639017431,-0.22397518157958984,Dailyneeds,Supermarket
+264,Sainsbury's,51.526176882320165,-0.2177618921320068,Dailyneeds,Supermarket
+265,Waitrose & Partners,51.506385,-0.219069,Dailyneeds,Supermarket
+268,Lidl,51.50387767177675,-0.21885819573164894,Dailyneeds,Supermarket
+269,Sainsbury's,51.546804996003154,-0.2255668277618028,Dailyneeds,Supermarket
+270,Sainsbury's Local,51.51552291528403,-0.1885588895430379,Dailyneeds,Supermarket
+271,Al-Dimashqi,51.50609638719492,-0.22929246462568573,Dailyneeds,Supermarket
+272,Hilal Food Centre,51.544989,-0.201298,Dailyneeds,Supermarket
+273,Ichiba,51.50971392764186,-0.22318576180141414,Dailyneeds,Supermarket
+274,Tesco Extra,51.5541005,-0.2559083,Dailyneeds,Supermarket
+276,Sainsbury's,51.58180236056554,-0.24394301581223132,Dailyneeds,Supermarket
+277,Wing Yip,51.56718259832714,-0.2285937234166432,Dailyneeds,Supermarket
+278,Asda,51.5646182,-0.2748538,Dailyneeds,Supermarket
+281,Lidl,51.56433814,-0.26374788,Dailyneeds,Supermarket
+282,Lidl,51.56119889,-0.28099902,Dailyneeds,Supermarket
+284,Sainsbury's Local,51.597062,-0.244952,Dailyneeds,Supermarket
+287,Tesco,51.6035618,-0.1920949,Dailyneeds,Supermarket
+288,Waitrose & Partners,51.60724786535526,-0.20894325939127611,Dailyneeds,Supermarket
+289,Tesco,51.5743423,-0.2151584,Dailyneeds,Supermarket
+290,Little Waitrose,51.6000297,-0.1948863,Dailyneeds,Supermarket
+291,Waitrose & Partners,51.583747249908676,-0.19994066931826637,Dailyneeds,Supermarket
+292,Sainsbury's Local,51.600648658796935,-0.19505626810551346,Dailyneeds,Supermarket
+293,Waitrose & Partners,51.5772890162598,-0.22264324447951367,Dailyneeds,Supermarket
+294,Tesco,51.57532704243474,-0.21676693500999505,Dailyneeds,Supermarket
+298,B Kosher Extra,51.57337,-0.20053235,Dailyneeds,Supermarket
+300,Waitrose & Partners,51.631195,-0.264019,Dailyneeds,Supermarket
+301,Morrisons,51.6442289130016,-0.25599082584512084,Dailyneeds,Supermarket
+304,Waitrose & Partners,51.65588336632445,-0.20372468058224058,Dailyneeds,Supermarket
+307,Waitrose & Partners,51.32304688205015,-0.19870319021401883,Dailyneeds,Supermarket
+308,Waitrose & Partners,51.321949845964554,-0.13721658307156304,Dailyneeds,Supermarket
+309,Aldi,51.32079009569293,-0.13807012339999847,Dailyneeds,Supermarket
+310,Morrisons,51.36108940175113,-0.19294759110733126,Dailyneeds,Supermarket
+311,Asda,51.3669201,-0.194822,Dailyneeds,Supermarket
+314,Waitrose,51.36143483685152,-0.20029624173355387,Dailyneeds,Supermarket
+315,Sainsbury's Local,51.355085812454774,-0.16196762392520103,Dailyneeds,Supermarket
+316,Sainsbury's,51.36850373918296,-0.19667024996015803,Dailyneeds,Supermarket
+317,Tesco Esso Express,51.36109305884011,-0.2176894247531891,Dailyneeds,Supermarket
+318,Sainsbury's Local,51.37922574143831,-0.1556523568603274,Dailyneeds,Supermarket
+320,Asda,51.407475,-0.168736,Dailyneeds,Supermarket
+321,Lidl,51.41969874,-0.16376718,Dailyneeds,Supermarket
+322,Lidl,51.4015120027278,-0.193356716565376,Dailyneeds,Supermarket
+324,Sainsbury's,51.40321923104088,-0.19329202375788057,Dailyneeds,Supermarket
+325,Morrisons,51.40633685126318,-0.16263522604278627,Dailyneeds,Supermarket
+326,Lidl,51.4121845921962,-0.158970819425984,Dailyneeds,Supermarket
+328,Lidl,51.405874566030604,-0.16587044591306807,Dailyneeds,Supermarket
+329,Waitrose & Partners,51.42504892028644,-0.20169050584024717,Dailyneeds,Supermarket
+331,Sainsbury's,51.42752769202903,-0.16841174968070544,Dailyneeds,Supermarket
+335,Sainsbury's,51.421139145950114,-0.20914844499316798,Dailyneeds,Supermarket
+338,Aldi,51.42886094108134,-0.1670405765890131,Dailyneeds,Supermarket
+339,Lidl,51.4306112151826,-0.185252686217965,Dailyneeds,Supermarket
+340,Morrisons,51.419994320010034,-0.2045331793202995,Dailyneeds,Supermarket
+342,Lidl,51.4290452263596,-0.167103786973054,Dailyneeds,Supermarket
+343,Sainsbury's,51.415167394109055,-0.18166947687030754,Dailyneeds,Supermarket
+344,Iceland,51.42447809471196,-0.16342191152262034,Dailyneeds,Supermarket
+345,Aldi,51.416328,-0.179234,Dailyneeds,Supermarket
+346,BYO,51.428895,-0.165976,Dailyneeds,Supermarket
+347,Iceland,51.42979390434032,-0.16139881428853875,Dailyneeds,Supermarket
+348,Waitrose & Partners,51.46263313312424,-0.16778697177562663,Dailyneeds,Supermarket
+349,Sainsbury's,51.462494894071,-0.13587789468954534,Dailyneeds,Supermarket
+351,Lidl,51.4646785778025,-0.167363313901053,Dailyneeds,Supermarket
+352,Sainsbury's Local,51.45425239,-0.13981904,Dailyneeds,Supermarket
+354,Tesco,51.45327191289519,-0.14671284162209094,Dailyneeds,Supermarket
+355,Asda,51.465371,-0.164962,Dailyneeds,Supermarket
+356,Lidl,51.4363785952026,-0.158318512537042,Dailyneeds,Supermarket
+357,Waitrose & Partners,51.44563511247586,-0.15161793470360863,Dailyneeds,Supermarket
+358,Aldi,51.443581,-0.152356,Dailyneeds,Supermarket
+359,Sainsbury's,51.443757695962844,-0.15087394325478787,Dailyneeds,Supermarket
+360,Sainsbury's,51.467446896425635,-0.18709600909845747,Dailyneeds,Supermarket
+363,Tesco,51.49287869698524,-0.20122112274335358,Dailyneeds,Supermarket
+364,Green Valley,51.497169,-0.205219,Dailyneeds,Supermarket
+366,Sainsbury's Local,51.4841285,-0.1845979,Dailyneeds,Supermarket
+368,Little Waitrose,51.51077374,-0.18406264,Dailyneeds,Supermarket
+371,Waitrose & Partners,51.48832531511091,-0.16706012462134368,Dailyneeds,Supermarket
+374,Waitrose & Partners,51.51077666,-0.1840432,Dailyneeds,Supermarket
+375,Sainsbury's,51.49548326240101,-0.18821054834103457,Dailyneeds,Supermarket
+377,Al-Ghazaleen,51.48983,-0.2064912,Dailyneeds,Supermarket
+378,happy mart,51.511208,-0.187065,Dailyneeds,Supermarket
+379,Waitrose & Partners,51.4802976,-0.199125,Dailyneeds,Supermarket
+380,Waitrose & Partners,51.49905451561298,-0.19805940080129858,Dailyneeds,Supermarket
+383,Waitrose & Partners,51.4945658,-0.1833558,Dailyneeds,Supermarket
+384,Sainsbury's,51.48082163401624,-0.19439464228360404,Dailyneeds,Supermarket
+385,เจ๊หมวย,51.492768,-0.192898,Dailyneeds,Supermarket
+386,Chelsea Food Fayre,51.4864606182951,-0.1714038848876953,Dailyneeds,Supermarket
+387,التفاح الاخضر,51.521436,-0.172073,Dailyneeds,Supermarket
+388,Waitrose & Partners,51.51753830928555,-0.16577661717929004,Dailyneeds,Supermarket
+389,Sainsbury's Local,51.51963708689745,-0.1807756975236341,Dailyneeds,Supermarket
+390,Sainsbury's Local,51.52118513227355,-0.15691762676459664,Dailyneeds,Supermarket
+391,Aldi,51.537526,-0.14168,Dailyneeds,Supermarket
+393,oseyo Camden,51.538703,-0.142173,Dailyneeds,Supermarket
+394,Longdan Supermarket,51.53859,-0.14351696,Dailyneeds,Supermarket
+395,Lidl,51.52418,-0.137345,Dailyneeds,Supermarket
+397,Aldi,51.54043426859579,-0.19619183689600514,Dailyneeds,Supermarket
+398,Morrisons,51.54158417632699,-0.14934516423418126,Dailyneeds,Supermarket
+399,Sainsbury's,51.53872198421583,-0.19401830381925222,Dailyneeds,Supermarket
+400,Sainsbury's,51.50809747126469,-0.14339348810890554,Dailyneeds,Supermarket
+401,Waitrose & Partners,51.4979888,-0.1425596,Dailyneeds,Supermarket
+403,Sainsbury's,51.540462488265135,-0.1408706179400987,Dailyneeds,Supermarket
+405,Lidl,51.536337334401864,-0.1402285382895035,Dailyneeds,Supermarket
+406,Waitrose & Partners,51.546203040110406,-0.17958835182344046,Dailyneeds,Supermarket
+407,Waitrose & Partners,51.49899158834866,-0.1567289166775936,Dailyneeds,Supermarket
+408,Sainsbury's Local,51.51627924157226,-0.13585017983733572,Dailyneeds,Supermarket
+409,اغذية ماربل ارتش,51.515533,-0.16371,Dailyneeds,Supermarket
+410,Simplyfresh,51.524787,-0.1392,Dailyneeds,Supermarket
+411,Mellisa Supeemarket,51.523632,-0.174909,Dailyneeds,Supermarket
+413,As Nature,51.514494,-0.161885,Dailyneeds,Supermarket
+414,Sainsbury's,51.51932180573754,-0.18011278841655576,Dailyneeds,Supermarket
+415,Waitrose & Partners JL Foodhall,51.515092658820485,-0.14509284707060033,Dailyneeds,Supermarket
+416,Waitrose & Partners,51.51944580102297,-0.15189612270182806,Dailyneeds,Supermarket
+417,Waitrose & Partners,51.5163456,-0.1873467,Dailyneeds,Supermarket
+418,Pennine Foods,51.567055,-0.210851,Dailyneeds,Supermarket
+424,Waitrose,51.55960139,-0.18139723,Dailyneeds,Supermarket
+428,Sainsbury's,51.5707438206995,-0.19454403088467354,Dailyneeds,Supermarket
+430,Sainsbury's,51.54815530772371,-0.18201498930415116,Dailyneeds,Supermarket
+431,Lidl,51.56231790094502,-0.2208574076318931,Dailyneeds,Supermarket
+434,Hower Oriental Food Store,51.570946,-0.195662,Dailyneeds,Supermarket
+435,Sainsbury's Local,51.590844996612766,-0.16428483986377085,Dailyneeds,Supermarket
+436,Sainsbury's,51.61787746665007,-0.1761358633842569,Dailyneeds,Supermarket
+437,Aldi,51.61293754582833,-0.17729030061242268,Dailyneeds,Supermarket
+439,Waitrose & Partners,51.6113840885588,-0.1800974874822714,Dailyneeds,Supermarket
+440,Sainsbury's,51.589882298712745,-0.14556069146278938,Dailyneeds,Supermarket
+444,Tesco Extra,51.6072242909686,-0.15460241137623143,Dailyneeds,Supermarket
+445,Jalaram Fruits and Veg.,51.613389,-0.176288,Dailyneeds,Supermarket
+446,Tesco,51.59320184209634,-0.13741386299095243,Dailyneeds,Supermarket
+447,Waitrose & Partners,51.631462569243006,-0.17555531779100875,Dailyneeds,Supermarket
+456,Sainsbury's,51.64930016908009,-0.1714216447572703,Dailyneeds,Supermarket
+459,Sainsbury's Local,51.64811911430775,-0.14788546321201634,Dailyneeds,Supermarket
+460,Aldi,51.64478,-0.163952,Dailyneeds,Supermarket
+461,Sainsbury's,51.6979049938655,-0.19249657713277246,Dailyneeds,Supermarket
+462,Waitrose & Partners at South Mimms Services South Mims,51.68748613,-0.22175653,Dailyneeds,Supermarket
+463,Waitrose & Partners,51.68730104836959,-0.221908348714689,Dailyneeds,Supermarket
+464,Tesco,51.6939977,-0.1812063,Dailyneeds,Supermarket
+465,Tesco,51.2905706,-0.1011561,Dailyneeds,Supermarket
+466,Tesco Extra,51.33691403113129,-0.11706556826834191,Dailyneeds,Supermarket
+467,Waitrose & Partners,51.331954862050345,-0.07485570846961309,Dailyneeds,Supermarket
+468,Sainsbury's Local,51.33959,-0.114485,Dailyneeds,Supermarket
+471,Sainsbury's,51.358096942196035,-0.14806546270468735,Dailyneeds,Supermarket
+472,Sainsbury's,51.37580224930808,-0.11779475210865087,Dailyneeds,Supermarket
+475,Asda,51.3766568,-0.1303837,Dailyneeds,Supermarket
+477,Wing Yip Centre,51.36262766755699,-0.11906805019842738,Dailyneeds,Supermarket
+478,Morrisons,51.36483765562365,-0.12017783340343906,Dailyneeds,Supermarket
+479,Lidl,51.3593841415906,-0.150833018004791,Dailyneeds,Supermarket
+480,Brakes Professional Food Market,51.376089,-0.131638,Dailyneeds,Supermarket
+481,TFX International Food Centre,51.361176798689876,-0.15050411224365234,Dailyneeds,Supermarket
+482,Lidl,51.3801234812941,-0.104804135504624,Dailyneeds,Supermarket
+484,Sainsbury's Local,51.395848,-0.06904437,Dailyneeds,Supermarket
+485,Tesco Esso Express,51.3815856181782,-0.06286696356710308,Dailyneeds,Supermarket
+486,Sainsbury's Local,51.37850550103585,-0.10340676193035359,Dailyneeds,Supermarket
+487,Sainsbury's,51.3771378,-0.0998739,Dailyneeds,Supermarket
+488,Tesco,51.3988954,-0.0991919,Dailyneeds,Supermarket
+489,Lidl,51.39681288,-0.11634552,Dailyneeds,Supermarket
+491,Tesco Esso Express,51.3971573,-0.1160277,Dailyneeds,Supermarket
+492,Sainsbury's Local,51.39168101,-0.11890315,Dailyneeds,Supermarket
+493,Waitrose & Partners,51.3744022,-0.0957706,Dailyneeds,Supermarket
+494,Sainsbury's,51.39861302587935,-0.08693309918820002,Dailyneeds,Supermarket
+495,Lidl,51.3735654660132,-0.103787546248919,Dailyneeds,Supermarket
+497,Aldi,51.39782844908977,-0.07656638008566333,Dailyneeds,Supermarket
+498,Tesco Extra,51.4248285,-0.1312145,Dailyneeds,Supermarket
+500,Lidl,51.42213583,-0.10633166,Dailyneeds,Supermarket
+504,Sainsbury's,51.419589362476785,-0.12925149161210125,Dailyneeds,Supermarket
+508,Sainsbury's Local,51.43407170169426,-0.10408493695447163,Dailyneeds,Supermarket
+510,Lidl,51.4115199832493,-0.139934833417961,Dailyneeds,Supermarket
+511,Lidl,51.4145466336331,-0.123521627071194,Dailyneeds,Supermarket
+513,Lidl,51.4312854479017,-0.130822003683033,Dailyneeds,Supermarket
+517,Aldi,51.426371,-0.131395,Dailyneeds,Supermarket
+519,Sainsbury's,51.45474147380087,-0.1139074110450844,Dailyneeds,Supermarket
+521,Lidl,51.4736636039901,-0.120809822748746,Dailyneeds,Supermarket
+522,Sainsbury's,51.4803821,-0.1283605,Dailyneeds,Supermarket
+523,Morrisons,51.47319398315245,-0.09204519670612904,Dailyneeds,Supermarket
+525,Lidl,51.47272187,-0.09329465,Dailyneeds,Supermarket
+526,Lidl,51.4726499779385,-0.0711521745224728,Dailyneeds,Supermarket
+528,Sainsbury's Local,51.47044972821132,-0.12506515155535025,Dailyneeds,Supermarket
+529,Tesco,51.4597748,-0.1189865,Dailyneeds,Supermarket
+530,Sainsbury's Local,51.46436445694725,-0.11394906396120064,Dailyneeds,Supermarket
+531,Sainsbury's,51.46198662773704,-0.08487286444185616,Dailyneeds,Supermarket
+532,Lidl,51.459475190811354,-0.12389587061705297,Dailyneeds,Supermarket
+534,Little Waitrose & Partners,51.49249191376049,-0.1395066863270813,Dailyneeds,Supermarket
+535,Sainsbury's,51.49290802727334,-0.14101248878577,Dailyneeds,Supermarket
+536,Sainsbury's Local,51.49910720312089,-0.11313774456179759,Dailyneeds,Supermarket
+541,Sainsbury's,51.49449326758712,-0.09802807320018703,Dailyneeds,Supermarket
+542,Oseyo Shop,51.512177,-0.128484,Dailyneeds,Supermarket
+543,Morrisons,51.48750453632146,-0.09545535737293864,Dailyneeds,Supermarket
+544,Little Waitrose & Partners,51.50733438217989,-0.10574364011063153,Dailyneeds,Supermarket
+545,oseyo eats Waterloo,51.502284770677704,-0.11026708017815517,Dailyneeds,Supermarket
+546,Superway Supermarket,51.497703911636,-0.10397749335359796,Dailyneeds,Supermarket
+547,Tesco,51.486381,-0.113961,Dailyneeds,Supermarket
+548,Shop And Go Oriental Supermarket,51.484475,-0.1245,Dailyneeds,Supermarket
+553,Waitrose & Partners,51.482449341985216,-0.13494093555186737,Dailyneeds,Supermarket
+555,Waitrose & Partners,51.52417135515089,-0.10281320000001415,Dailyneeds,Supermarket
+556,Waitrose & Partners,51.53389316487267,-0.10725447879826788,Dailyneeds,Supermarket
+557,Oseyo,51.53382280847399,-0.10680999313761128,Dailyneeds,Supermarket
+558,Waitrose & Partners,51.52220708,-0.09199505,Dailyneeds,Supermarket
+560,Sainsbury's Local,51.51247670860394,-0.10390408006902385,Dailyneeds,Supermarket
+561,Sainsbury's Local,51.54252101025535,-0.12601770164129888,Dailyneeds,Supermarket
+562,Tesco Express,51.51845369999999,-0.1126674,Dailyneeds,Supermarket
+564,Shop And Go Oriental Supermarket,51.52979,-0.08695554,Dailyneeds,Supermarket
+565,Sainsbury's Local,51.52374659271713,-0.1231916470733374,Dailyneeds,Supermarket
+566,"Waitrose & Partners Cookery School Cookery School, Kings Cross",51.53604293,-0.12345013,Dailyneeds,Supermarket
+568,Waitrose & Partners,51.5561281,-0.1161237,Dailyneeds,Supermarket
+575,Sainsbury's,51.53419096412073,-0.10769955222165173,Dailyneeds,Supermarket
+576,Ocean Supermarket,51.540646,-0.116741,Dailyneeds,Supermarket
+577,Zeynep Süpermarket,51.53361320469564,-0.07373625227502495,Dailyneeds,Supermarket
+578,hoxton brothers supermarket,51.533902,-0.080042,Dailyneeds,Supermarket
+579,Continental Food Bazaar,51.539146,-0.09770114,Dailyneeds,Supermarket
+581,Mini Food Store,51.526763,-0.113795,Dailyneeds,Supermarket
+582,Whitmore Food Centre,51.5361,-0.081758,Dailyneeds,Supermarket
+584,Waitrose & Partners,51.525,-0.124116,Dailyneeds,Supermarket
+585,Waitrose & Partners,51.536176,-0.123422,Dailyneeds,Supermarket
+586,sainsburry's,51.521006,-0.06207,Dailyneeds,Supermarket
+587,Aldi,51.523714,-0.076257,Dailyneeds,Supermarket
+588,Co-Op Food Fortess Rd,51.552437,-0.141209,Dailyneeds,Supermarket
+590,Morrisons,51.55759405229233,-0.11673014294411835,Dailyneeds,Supermarket
+592,Lidl,51.547511575939616,-0.14151791559231236,Dailyneeds,Supermarket
+598,Waitrose & Partners,51.57953001264962,-0.12409327201066844,Dailyneeds,Supermarket
+600,Lidl,51.5649922821384,-0.104305807276857,Dailyneeds,Supermarket
+604,Supreme Supermarket,51.562351856180925,-0.11021196842193604,Dailyneeds,Supermarket
+605,Sainsbury's,51.592480107750326,-0.10530300691306893,Dailyneeds,Supermarket
+606,Lidl,51.593768006782,-0.106483395791425,Dailyneeds,Supermarket
+607,Morrisons,51.596406274079285,-0.11037995353295135,Dailyneeds,Supermarket
+608,Asda,51.593695,-0.069362,Dailyneeds,Supermarket
+609,Sainsbury's Local,51.61990248748612,-0.10642640731876929,Dailyneeds,Supermarket
+610,Sainsbury's,51.587938546653874,-0.11693457982305144,Dailyneeds,Supermarket
+611,Dayi Supermarket,51.585343,-0.079382,Dailyneeds,Supermarket
+612,Morrisons,51.61759020766987,-0.11052846908569336,Dailyneeds,Supermarket
+614,Mum's Whole Food,51.57904,-0.09930946,Dailyneeds,Supermarket
+615,Tesco,51.5851034,-0.071622,Dailyneeds,Supermarket
+616,Mount Pleasant Supermarket,51.59306798934434,-0.08253448698730934,Dailyneeds,Supermarket
+618,Sainsbury's,51.577264374156734,-0.09554951202700446,Dailyneeds,Supermarket
+619,Aldi,51.59586010530787,-0.06867980236433355,Dailyneeds,Supermarket
+620,My twins super Market,51.60977533995701,-0.1162448378172933,Dailyneeds,Supermarket
+621,Pop In Supermarket,51.582592,-0.07359546,Dailyneeds,Supermarket
+622,"Magazinul Romanesc ""La Nasu' """,51.587068,-0.097552,Dailyneeds,Supermarket
+623,Ufuk Shopping,51.588420525891266,-0.1098987947445208,Dailyneeds,Supermarket
+624,Asda,51.6343618,-0.1316794,Dailyneeds,Supermarket
+627,Sainsbury's,51.64580484432658,-0.11113332700100731,Dailyneeds,Supermarket
+629,Sainsbury's,51.62942411154806,-0.09844857356975156,Dailyneeds,Supermarket
+637,Tesco,51.651107,-0.076795,Dailyneeds,Supermarket
+638,Lidl,51.6505537746643,-0.0811531099237607,Dailyneeds,Supermarket
+639,Waitrose & Partners Winchmore Hill,51.6352,-0.093877,Dailyneeds,Supermarket
+640,Sainsbury's Local,51.663594169184144,-0.07970267761515215,Dailyneeds,Supermarket
+641,Waitrose & Partners,51.65160230841171,-0.08411422773417598,Dailyneeds,Supermarket
+642,Waitrose & Partners,51.282324764341205,-0.07809642110032655,Dailyneeds,Supermarket
+643,Waitrose & Partners,51.30426332,-0.07731659,Dailyneeds,Supermarket
+645,Morrisons,51.28346799401693,-0.07831871140180735,Dailyneeds,Supermarket
+646,Sainsbury's,51.307562267319355,-0.04300091178852661,Dailyneeds,Supermarket
+647,Sainsbury's,51.342339077363334,-0.06286876507148875,Dailyneeds,Supermarket
+649,Lidl,51.3467037866085,-0.0201773856474748,Dailyneeds,Supermarket
+650,Aldi,51.34518083276847,-0.05916749586594867,Dailyneeds,Supermarket
+657,Tesco,51.396571534375646,-0.0501498905941844,Dailyneeds,Supermarket
+658,Sainsbury's,51.4126487677032,-0.051587813450888476,Dailyneeds,Supermarket
+659,Sainsbury's,51.40590508119254,-0.03057339651864277,Dailyneeds,Supermarket
+660,Sainsbury's,51.377000483542076,-0.021683242492460675,Dailyneeds,Supermarket
+661,Lidl,51.4066833186864,-0.0279863019590972,Dailyneeds,Supermarket
+663,Sainsbury's,51.37687303847608,-0.014902978653301702,Dailyneeds,Supermarket
+665,Sainsbury's Local,51.39093924440261,-0.028024156966210967,Dailyneeds,Supermarket
+666,Lidl,51.37530441,-0.01273525,Dailyneeds,Supermarket
+667,Lidl,51.41355049519039,-0.05151913429035024,Dailyneeds,Supermarket
+668,Aldi,51.408603514817685,-0.059212837044110365,Dailyneeds,Supermarket
+670,Penge Food Centre,51.41349539681961,-0.05116187440022837,Dailyneeds,Supermarket
+671,Sainsbury's,51.417778299063,-0.0828789746771208,Dailyneeds,Supermarket
+674,Sainsbury's,51.43985344723541,-0.05567490950718179,Dailyneeds,Supermarket
+675,Sainsbury's Local,51.42718367368584,-0.055517987236823885,Dailyneeds,Supermarket
+677,Lidl,51.4253986947615,-0.0481149719343447,Dailyneeds,Supermarket
+681,Brockley Supermarket,51.44874138168225,-0.039839900631761196,Dailyneeds,Supermarket
+682,Sainsbury's Local,51.444595922679476,-0.025682667568518447,Dailyneeds,Supermarket
+683,Asda,51.465088,-0.0166273,Dailyneeds,Supermarket
+684,Sainsbury's,51.477244429788016,-0.042388371752053455,Dailyneeds,Supermarket
+685,Tesco,51.4663288,-0.0121304,Dailyneeds,Supermarket
+686,Waitrose & Partners,51.482138977789184,-0.015557720237666217,Dailyneeds,Supermarket
+687,Lidl,51.4603529457429,-0.00496581640741481,Dailyneeds,Supermarket
+688,Morrisons,51.472822383535494,-0.06796315186361489,Dailyneeds,Supermarket
+690,Sainsbury's,51.462059691251554,-0.012317553018739158,Dailyneeds,Supermarket
+691,Lidl,51.4800532262734,-0.059909991175299,Dailyneeds,Supermarket
+692,Waitrose & Partners Greenwich,51.48222732,-0.01563627,Dailyneeds,Supermarket
+693,Lidl,51.4446298141177,-0.0188424497739846,Dailyneeds,Supermarket
+694,Asda,51.4673747,-0.0677165,Dailyneeds,Supermarket
+696,Sainsbury's Local,51.4741326107395,-0.060945784061441355,Dailyneeds,Supermarket
+697,Sainsbury's Local,51.45294086,-0.00103939,Dailyneeds,Supermarket
+698,Asda,51.4753284,-0.0261733,Dailyneeds,Supermarket
+699,Bridge Supermarket,51.47809131484967,-0.05361324070656645,Dailyneeds,Supermarket
+700,Aldi,51.47899659360659,-0.05578558206749805,Dailyneeds,Supermarket
+701,Tesco,51.4460729150281,-0.02246137932138481,Dailyneeds,Supermarket
+702,Magazin Romanesc,51.46079691868724,-0.00500347789056832,Dailyneeds,Supermarket
+703,Aldi,51.43114,-0.034604,Dailyneeds,Supermarket
+704,Aldi,51.44867471080653,-0.01778093785767165,Dailyneeds,Supermarket
+705,Sathyam Supermarket,51.462057,-0.008182,Dailyneeds,Supermarket
+706,Krakow,51.46181,-0.0075809285,Dailyneeds,Supermarket
+707,Gateway Supermarket,51.475222058285006,-0.03956794738769531,Dailyneeds,Supermarket
+708,Tesco,51.4888677948168,-0.07605376149135701,Dailyneeds,Supermarket
+709,Tesco Extra,51.4942642,-0.0463127,Dailyneeds,Supermarket
+710,Lidl,51.49199409756072,-0.08301218729195985,Dailyneeds,Supermarket
+711,Asda,51.4844027,-0.0697671,Dailyneeds,Supermarket
+721,Lidl,51.48986198134884,-0.044076764839194,Dailyneeds,Supermarket
+725,Lidl,51.47327765153106,-0.07108659480416467,Dailyneeds,Supermarket
+726,Yoyo Oriental Supermarket,51.514289,-0.06986,Dailyneeds,Supermarket
+730,Waitrose & Partners,51.50707303416161,-0.0666046142578125,Dailyneeds,Supermarket
+733,Asda,51.5219195,-0.0500003,Dailyneeds,Supermarket
+734,Sainsbury's,51.521153673148426,-0.05863679125362786,Dailyneeds,Supermarket
+735,Co-op Food,51.54803296839178,-0.04560392294590802,Dailyneeds,Supermarket
+737,Cost U Less,51.521483,-0.045128,Dailyneeds,Supermarket
+738,Waitrose & Partners,51.504600139782625,-0.01609959073994105,Dailyneeds,Supermarket
+740,Tesco,51.526617259936565,-0.009787420354878673,Dailyneeds,Supermarket
+743,Hackney Whole Food,51.550916,-0.052312,Dailyneeds,Supermarket
+745,Chatsworth Supermarket,51.552818,-0.044332,Dailyneeds,Supermarket
+746,Akdeniz,51.54430669494108,-0.04660606384277344,Dailyneeds,Supermarket
+747,Atlas Supermarket,51.52054688401746,-0.056133270263671875,Dailyneeds,Supermarket
+748,Lidl,51.5144353951792,-0.028461681205480628,Dailyneeds,Supermarket
+749,Lidl,51.5401451474208,-0.0536319983599238,Dailyneeds,Supermarket
+750,Eat17,51.55121327728657,-0.04339509976336974,Dailyneeds,Supermarket
+752,Iceland,51.53554960625835,-0.021559187549889388,Dailyneeds,Supermarket
+754,Star Foodcentre,51.55082821220185,-0.052144307975342724,Dailyneeds,Supermarket
+755,Stepney Fruit  & Veg,51.5214814928652,-0.045125484466552734,Dailyneeds,Supermarket
+756,Madina Halal Store,51.51750259650432,-0.05388021469116211,Dailyneeds,Supermarket
+757,London Video Supermarket Starnight,51.543453216552734,-0.06289239972829819,Dailyneeds,Supermarket
+758,Al-halal grocers ltd,51.52278991302902,-0.05478143692016601,Dailyneeds,Supermarket
+759,Re:Store,51.55455428960944,-0.06673336029052734,Dailyneeds,Supermarket
+760,Morrisons,51.56697129241971,-0.0736528147723917,Dailyneeds,Supermarket
+761,Co-op Food,51.54963451766735,-0.058518575797199546,Dailyneeds,Supermarket
+762,Sainsbury's,51.54773660349962,-0.07422655231529296,Dailyneeds,Supermarket
+765,PFS (Pekünlü Food Store),51.551007049628645,-0.0731676524578282,Dailyneeds,Supermarket
+769,The Food Warehouse by Iceland,51.586632,-0.061461,Dailyneeds,Supermarket
+771,The Quarter Store,51.547239,-0.053709,Dailyneeds,Supermarket
+772,Hootch Supermarket,51.550507,-0.075007975,Dailyneeds,Supermarket
+776,Tesco,51.5468265,-0.0529543,Dailyneeds,Supermarket
+782,Lidl,51.586832,-0.06103962,Dailyneeds,Supermarket
+783,Asda,51.573058,-0.0709566,Dailyneeds,Supermarket
+784,Sainsbury's,51.573269949016954,-0.07339013277438466,Dailyneeds,Supermarket
+789,Lidl,51.5825756146677,-0.0317626924476342,Dailyneeds,Supermarket
+793,Sainsbury's Local,51.6002183358398,-0.0681596706840204,Dailyneeds,Supermarket
+794,Sainsbury's,51.60422551347991,-0.020672453668719726,Dailyneeds,Supermarket
+795,Tesco Extra,51.6101503,-0.0480352,Dailyneeds,Supermarket
+796,Sainsbury's,51.60608132900166,-0.0664808456719923,Dailyneeds,Supermarket
+797,Morrisons,51.60755159171143,-0.02140815427260096,Dailyneeds,Supermarket
+798,Tesco,51.57445244567906,-0.01211017370223999,Dailyneeds,Supermarket
+799,Tesco Extra,51.6101493,-0.0480368,Dailyneeds,Supermarket
+801,Morrisons,51.56843423044179,-0.030915141105651855,Dailyneeds,Supermarket
+802,Aldi,51.56907280891254,-0.030362178146747305,Dailyneeds,Supermarket
+804,Loon Fung Cash & Carry,51.60839625332947,-0.060553550720214844,Dailyneeds,Supermarket
+806,Asda,51.5828693,-0.0245452,Dailyneeds,Supermarket
+807,Iceland,51.574972435520316,-0.013516452784716944,Dailyneeds,Supermarket
+808,Lidl,51.614654620133265,-0.06559010217490195,Dailyneeds,Supermarket
+809,Lidl,51.5842876950353,-0.0221744148802921,Dailyneeds,Supermarket
+810,Sainsbury's,51.582575750252545,-0.02718100276127622,Dailyneeds,Supermarket
+812,Lidl,51.62456377,-0.05955379,Dailyneeds,Supermarket
+813,Morrisons,51.64842972522904,-0.05965587833835899,Dailyneeds,Supermarket
+819,Asda,51.6223904,-0.0599472,Dailyneeds,Supermarket
+827,Enfield Food Centre,51.62382,-0.048083,Dailyneeds,Supermarket
+829,Fresh Food Centre,51.6578,-0.047333613,Dailyneeds,Supermarket
+830,Lidl,51.6716266726478,-0.0403935029720402,Dailyneeds,Supermarket
+832,Tesco Extra,51.6477218,-0.0469962,Dailyneeds,Supermarket
+833,Lidl,51.6834098937736,-0.0323192120481088,Dailyneeds,Supermarket
+834,Asda,51.64186604538825,-0.04615205175039828,Dailyneeds,Supermarket
+835,First 2 Save Supermarket,51.66906743505923,-0.034572587111624156,Dailyneeds,Supermarket
+839,Sainsbury's,51.65194923443351,-0.05748386290539642,Dailyneeds,Supermarket
+840,Aldi,51.654152219664475,-0.05700805573047703,Dailyneeds,Supermarket
+841,Elvan,51.669848,-0.040955,Dailyneeds,Supermarket
+842,Kale Food Centre,51.671425,-0.034024,Dailyneeds,Supermarket
+843,Enfield Lock Express,51.671178,-0.029129,Dailyneeds,Supermarket
+844,Tesco,51.66871455562439,-0.05796953461896465,Dailyneeds,Supermarket
+845,Hertford Supermarket,51.658195,-0.047274,Dailyneeds,Supermarket
+847,Waitrose & Partners,51.3090541,0.036832,Dailyneeds,Supermarket
+852,Waitrose & Partners,51.3987304,0.0194832,Dailyneeds,Supermarket
+853,Lidl,51.40403726,0.01457882,Dailyneeds,Supermarket
+854,Sainsbury's Local,51.40130511381155,0.016774224057809484,Dailyneeds,Supermarket
+855,Sainsbury's,51.40663155675046,0.01447620415004458,Dailyneeds,Supermarket
+856,Tesco,51.40006778344262,0.031680911779403687,Dailyneeds,Supermarket
+857,Lidl,51.4267373103502,-0.0264481065680863,Dailyneeds,Supermarket
+868,Waitrose & Partners,51.4114892,-0.0269029,Dailyneeds,Supermarket
+869,Sainsbury's,51.430057635642406,-0.03339390670499043,Dailyneeds,Supermarket
+872,Sainsbury's,51.45609,0.010063,Dailyneeds,Supermarket
+875,Sainsbury's,51.44998258504615,0.057360680824301014,Dailyneeds,Supermarket
+877,Lidl,51.450864860710226,0.05595071875861638,Dailyneeds,Supermarket
+880,Aldi,51.463713,0.028628,Dailyneeds,Supermarket
+887,The Standard Super Market,51.4766,0.019163042,Dailyneeds,Supermarket
+888,Asda,51.4942854,-0.0123948,Dailyneeds,Supermarket
+890,Sainsbury's,51.48865664421558,0.02623842240466967,Dailyneeds,Supermarket
+891,Morrisons,51.514939,0.010454,Dailyneeds,Supermarket
+892,Lidl,51.4894123695058,0.0239715529338241,Dailyneeds,Supermarket
+893,Aldi,51.49077781252892,0.02211652154484148,Dailyneeds,Supermarket
+894,食全超市&小厨 FODAL Oriental Supermarket&Kitchen (FODAL Oriental Supermarket & Kitchen),51.49236442966794,-0.024815797805786133,Dailyneeds,Supermarket
+895,Sainsbury's Local,51.486635966940185,0.032451580373944466,Dailyneeds,Supermarket
+896,Tian Tian Oriental Supermarket,51.497646,-0.019050054,Dailyneeds,Supermarket
+903,Asda,51.4889153,0.0225644,Dailyneeds,Supermarket
+906,The Food Warehouse,51.48938,0.034131,Dailyneeds,Supermarket
+910,Tawana,51.532535125167115,0.014934539794921873,Dailyneeds,Supermarket
+911,Morrisons,51.54357337271875,0.005262805522402688,Dailyneeds,Supermarket
+912,Sainsbury's,51.5418714,-0.001349,Dailyneeds,Supermarket
+913,Sainsbury's,51.5339874735113,0.05278246737943082,Dailyneeds,Supermarket
+914,Lidl,51.5417291491578,-0.00110171802567121,Dailyneeds,Supermarket
+915,Lidl,51.5385206457202,0.0515021575277797,Dailyneeds,Supermarket
+918,Lidl,51.5159821485833,0.0547944427853471,Dailyneeds,Supermarket
+919,Food Inn,51.516948,0.010374,Dailyneeds,Supermarket
+920,Taza,51.542342,0.006512,Dailyneeds,Supermarket
+922,Gaska Polish Sklep,51.559730582204935,-0.008733272552490233,Dailyneeds,Supermarket
+924,Asda,51.5559015,-0.0093687,Dailyneeds,Supermarket
+925,Sainsbury's Local,51.56916592505596,-0.008053922384969603,Dailyneeds,Supermarket
+936,Tesco,51.5717438,0.0139118,Dailyneeds,Supermarket
+938,International Supermarket,51.567125,0.010625,Dailyneeds,Supermarket
+942,Sainsbury's,51.59356759398852,0.02417955540813921,Dailyneeds,Supermarket
+943,Tesco,51.6080589,-0.0018322,Dailyneeds,Supermarket
+945,Waitrose & Partners,51.59547735719904,0.02346139864221186,Dailyneeds,Supermarket
+947,Tesco,51.5923453,0.0402329,Dailyneeds,Supermarket
+948,Sainsbury's,51.6165662517775,-0.01928263917644779,Dailyneeds,Supermarket
+953,Sainsbury's,51.64338329338791,0.052519060445646026,Dailyneeds,Supermarket
+954,Morrisons,51.64908869043265,0.05582749843597412,Dailyneeds,Supermarket
+955,Lidl,51.6830252386513,0.00154868716208821,Dailyneeds,Supermarket
+956,Tesco,51.6847673,0.0027427,Dailyneeds,Supermarket
+959,Sainsbury's,51.686968,-0.032371,Dailyneeds,Supermarket
+961,Sainsbury's,51.366065674093036,0.05548583991374034,Dailyneeds,Supermarket
+962,Lidl,51.368103,0.056052,Dailyneeds,Supermarket
+963,Sainsbury's Local,51.38969018,0.07553784,Dailyneeds,Supermarket
+964,Tesco Extra,51.3735568,0.0966224,Dailyneeds,Supermarket
+965,Sainsbury's,51.37583605546692,0.10066523467312294,Dailyneeds,Supermarket
+966,Morrisons,51.38833011955258,0.07359022981524166,Dailyneeds,Supermarket
+968,Little Waitrose,51.38777775,0.07474887,Dailyneeds,Supermarket
+969,Sainsbury's,51.41878727206587,0.0665128372431445,Dailyneeds,Supermarket
+973,Tfc,51.46339,0.10856878,Dailyneeds,Supermarket
+975,Tesco,51.46192488687946,0.11009852384324859,Dailyneeds,Supermarket
+976,Morrisons,51.462165418151756,0.10979768625321865,Dailyneeds,Supermarket
+978,Tesco Superstore,51.4620335,0.1098334,Dailyneeds,Supermarket
+979,Lidl,51.464311996695336,0.10764130237872219,Dailyneeds,Supermarket
+980,Swingate Food Centre,51.474968,0.09346057,Dailyneeds,Supermarket
+981,Sainsbury's,51.491079,0.063636,Dailyneeds,Supermarket
+982,Tesco Extra,51.4892663,0.0663031,Dailyneeds,Supermarket
+984,Asda,51.514727,0.0579989,Dailyneeds,Supermarket
+986,Lidl,51.49257985839733,0.06600379943847656,Dailyneeds,Supermarket
+993,Lidl,51.5357614073454,0.0818426649564688,Dailyneeds,Supermarket
+994,Tesco Extra,51.5171609,0.0762168,Dailyneeds,Supermarket
+998,Morrisons,51.50727564474562,0.10539211735723347,Dailyneeds,Supermarket
+999,Aldi,51.50606455677362,0.1059377459085195,Dailyneeds,Supermarket
+1000,Asda,51.5376028,0.0773746,Dailyneeds,Supermarket
+1002,Sainsbury's,51.52130499988051,0.06608009247484503,Dailyneeds,Supermarket
+1003,Tesco,51.5363694,0.0710829,Dailyneeds,Supermarket
+1004,Angel Supermarket,51.550272,0.075239,Dailyneeds,Supermarket
+1005,Sainsbury's,51.556526837068766,0.0699483288100522,Dailyneeds,Supermarket
+1010,Tesco Esso Express,51.5599665,0.0933546,Dailyneeds,Supermarket
+1011,Lidl,51.5590634801005,0.0732982219387724,Dailyneeds,Supermarket
+1012,Lidl,51.5607538690733,0.0800710866263825,Dailyneeds,Supermarket
+1014,Tesco,51.564034649175966,0.07120213305705582,Dailyneeds,Supermarket
+1015,Sainsbury's,51.58844612250419,0.08181585630872235,Dailyneeds,Supermarket
+1017,Lidl,51.6033437034411,0.0844735839286161,Dailyneeds,Supermarket
+1018,Tesco,51.586031329814396,0.08192293266238604,Dailyneeds,Supermarket
+1019,Sainsbury's,51.58145083373725,0.08726029141902902,Dailyneeds,Supermarket
+1020,Aldi,51.57526183127448,0.08365574286123716,Dailyneeds,Supermarket
+1021,Horns Supermarket,51.576823,0.083491,Dailyneeds,Supermarket
+1022,Waitrose & Partners,51.625452033868385,0.04498801473255298,Dailyneeds,Supermarket
+1023,Sainsbury's,51.6463093326431,0.08201303053934517,Dailyneeds,Supermarket
+1026,Waitrose & Partners,51.355127,0.090159,Dailyneeds,Supermarket
+1029,Asda,51.396609,0.17656,Dailyneeds,Supermarket
+1030,Aldi,51.39651566290079,0.17216854024370606,Dailyneeds,Supermarket
+1031,Lidl,51.4180296640655,0.119917401082,Dailyneeds,Supermarket
+1032,Morrisons,51.42519932547483,0.10250518456594288,Dailyneeds,Supermarket
+1033,Tesco,51.412554126703505,0.12282907962799072,Dailyneeds,Supermarket
+1034,Nisa Local,51.441232763314595,0.14815780846333837,Dailyneeds,Supermarket
+1035,Asda,51.4575569,0.1430587,Dailyneeds,Supermarket
+1037,Sainsbury's,51.45613295534365,0.14910046362047957,Dailyneeds,Supermarket
+1039,Lidl,51.45560577980248,0.1520513928259238,Dailyneeds,Supermarket
+1040,Sainsbury's,51.44916193607516,0.17885092658312285,Dailyneeds,Supermarket
+1044,Sainsbury's,51.462764053385655,0.1319553392868178,Dailyneeds,Supermarket
+1045,Sainsbury's Local,51.473635726999134,0.12672871717930523,Dailyneeds,Supermarket
+1046,Sainsbury's Local,51.46684518,0.15815221,Dailyneeds,Supermarket
+1047,Aldi,51.450868142010656,0.1776132758343965,Dailyneeds,Supermarket
+1049,Asda,51.4583836,0.1301266,Dailyneeds,Supermarket
+1050,Sainsbury's,51.492826444895364,0.12052378450663426,Dailyneeds,Supermarket
+1055,Lidl,51.49615247322,0.118416573559915,Dailyneeds,Supermarket
+1057,Dadoo's,51.487747,0.090518855,Dailyneeds,Supermarket
+1060,JJ Food Service - Dagenham,51.528878,0.14485,Dailyneeds,Supermarket
+1061,Asda,51.5301114,0.1427795,Dailyneeds,Supermarket
+1062,Lidl,51.49692198,0.15639091,Dailyneeds,Supermarket
+1063,Lidl,51.5428191202942,0.148624952900438,Dailyneeds,Supermarket
+1064,Aldi,51.53097336166668,0.1448071002960205,Dailyneeds,Supermarket
+1065,Lidl,51.5519336169021,0.112965450590121,Dailyneeds,Supermarket
+1066,Morrisons,51.55977394731491,0.148752363274208,Dailyneeds,Supermarket
+1067,Asda,51.565751,0.143392,Dailyneeds,Supermarket
+1068,Tesco Extra,51.56640710902564,0.11186151190486271,Dailyneeds,Supermarket
+1070,Lidl,51.56993452,0.12217572,Dailyneeds,Supermarket
+1072,Aguona LTD,51.5715503,0.13372770000000855,Dailyneeds,Supermarket
+1074,Sainsbury's,51.57193750493458,0.13450401502971054,Dailyneeds,Supermarket
+1078,Aldi,51.565339844675954,0.10440824211333714,Dailyneeds,Supermarket
+1080,Aldi,51.58160305148993,0.16410561891525602,Dailyneeds,Supermarket
+1084,Sainsbury's Local,51.58207207,0.17615383,Dailyneeds,Supermarket
+1085,Aldi,51.64299687827412,0.0859380558621985,Dailyneeds,Supermarket
+1089,Aldi,51.44583972476097,0.2191445231437683,Dailyneeds,Supermarket
+1091,Morrisons,51.47987064562278,0.18403965621111873,Dailyneeds,Supermarket
+1092,Lidl,51.4424190014369,0.21423693724236,Dailyneeds,Supermarket
+1093,Sainsbury's,51.44377984682921,0.214914099138106,Dailyneeds,Supermarket
+1095,Aldi,51.44393899839195,0.21677145215082047,Dailyneeds,Supermarket
+1098,Asda,51.4913651,0.1544382,Dailyneeds,Supermarket
+1099,Tesco Extra,51.51981727626019,0.1912078355003355,Dailyneeds,Supermarket
+1100,Tesco,51.543594,0.2085064,Dailyneeds,Supermarket
+1101,Tesco Extra,51.565797068256934,0.19171205507623412,Dailyneeds,Supermarket
+1102,Asda,51.579737,0.1846849,Dailyneeds,Supermarket
+1105,Brentwood Road Supermarket,51.57066746882377,0.19124264869630705,Dailyneeds,Supermarket
+1106,Sainsbury's Local,51.55103667137609,0.19847259449483623,Dailyneeds,Supermarket
+1107,Lidl,51.57388875723948,0.18304162932747964,Dailyneeds,Supermarket
+1109,Sainsbury's,51.574793,0.179287,Dailyneeds,Supermarket
+1113,Aldi,51.58040270265552,0.18166831550992935,Dailyneeds,Supermarket
+1114,Tesco Extra,51.5939779,0.2190483,Dailyneeds,Supermarket
+1118,Lidl,51.6057353632655,0.22470883825353,Dailyneeds,Supermarket
+1120,Tesco Extra,51.5934599,0.2192615,Dailyneeds,Supermarket
+1122,Sainsbury's Local,51.606059453784276,0.21895219049280268,Dailyneeds,Supermarket
+1124,Tesco Extra,51.4884042,0.2749711,Dailyneeds,Supermarket
+1125,Lidl,51.5105635917679,0.283851140458507,Dailyneeds,Supermarket
+1126,Aldi,51.55620863273832,0.2488231658935547,Dailyneeds,Supermarket
+1127,Sainsbury's,51.56309419034024,0.21832386015927963,Dailyneeds,Supermarket
+1128,Lidl,51.5632554419646,0.215416523296251,Dailyneeds,Supermarket
+1129,Sainsbury's Local,51.5523809,0.2183861,Dailyneeds,Supermarket
+1131,Waitrose & Partners,51.55619857308449,0.2528916061515929,Dailyneeds,Supermarket
+1132,International Supermarket,51.563083501697484,0.21624854276360983,Dailyneeds,Supermarket

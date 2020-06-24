@@ -1,0 +1,905 @@
+,Venue,Latitude,Longitude,Group,Category
+0,Platform 6,51.47220478380227,-0.4906712612459794,Transport,Trains_Platforms
+1,T5 Piccadily Line,51.472256,-0.489281,Transport,Trains_Platforms
+2,Platform 1,51.4707,-0.4543689,Transport,Trains_Platforms
+3,Platform 4,51.50790352079767,-0.5419670993283928,Transport,Trains_Platforms
+4,Platform 3,51.507931177009574,-0.5420314849869016,Transport,Trains_Platforms
+7,Platform 2,51.50752992178404,-0.5420028466007359,Transport,Trains_Platforms
+8,Platform 1,51.507789313060215,-0.5421771475759062,Transport,Trains_Platforms
+9,Platform 4,51.508400518582306,-0.5063940350981034,Transport,Trains_Platforms
+10,Platform 4,51.50989577706144,-0.47196825051938296,Transport,Trains_Platforms
+11,Uxbridge Station Sidings,51.54682830526658,-0.47673560427424955,Transport,Trains_Platforms
+13,Platform 2,51.50978779748347,-0.47188132428745844,Transport,Trains_Platforms
+14,Platform 3,51.509818924186135,-0.4718239130076037,Transport,Trains_Platforms
+15,Platform 1,51.50969341445009,-0.4699605865736809,Transport,Trains_Platforms
+16,Platform 2,51.57870719064781,-0.49716529329597636,Transport,Trains_Platforms
+17,Platform 1,51.578747544204894,-0.4975617847732841,Transport,Trains_Platforms
+21,Platform 1,51.447808732237306,-0.41020576578034573,Transport,Trains_Platforms
+22,Platform 2,51.44791111531028,-0.4094066155011251,Transport,Trains_Platforms
+24,Platform 2,51.50294595394508,-0.42014122009277344,Transport,Trains_Platforms
+26,Platform 4,51.50297266764028,-0.41923999786376953,Transport,Trains_Platforms
+28,Platform 5,51.503086,-0.41950485,Transport,Trains_Platforms
+29,Platform 3,51.50335196803405,-0.41977441950338784,Transport,Trains_Platforms
+33,Platform 1,51.503086,-0.4208272,Transport,Trains_Platforms
+39,Platform 2,51.553589,-0.450393,Transport,Trains_Platforms
+41,Platform 1,51.553606,-0.450382,Transport,Trains_Platforms
+42,Platform 1,51.29950439589591,-0.33300045403959516,Transport,Trains_Platforms
+43,Platform 2,51.29921984570763,-0.33294053955173825,Transport,Trains_Platforms
+44,Platform 1,51.38913386213878,-0.3392241211285203,Transport,Trains_Platforms
+45,Platform 2,51.36108,-0.34836933,Transport,Trains_Platforms
+46,Platform 2,51.40117986976446,-0.34240231294902895,Transport,Trains_Platforms
+47,Platform 1,51.401903950548395,-0.3424278416157421,Transport,Trains_Platforms
+48,Platform 1,51.375726606212474,-0.34070729736321337,Transport,Trains_Platforms
+49,Platform 2,51.37507616423936,-0.34048340256664744,Transport,Trains_Platforms
+52,Platform 2,51.462105,-0.36158657,Transport,Trains_Platforms
+53,Platform 3,51.45059196167601,-0.32858474607300403,Transport,Trains_Platforms
+54,Platform 5,51.45053932406369,-0.32866272246165307,Transport,Trains_Platforms
+55,Platform 4,51.45056060862928,-0.3288286727341799,Transport,Trains_Platforms
+56,Platform 1,51.462067,-0.36198288,Transport,Trains_Platforms
+57,Platform 2,51.449368,-0.35728934,Transport,Trains_Platforms
+58,Platform 2,51.474792,-0.33689415,Transport,Trains_Platforms
+59,Platform 1,51.433812790223804,-0.349559027196469,Transport,Trains_Platforms
+60,Platform 2,51.43253379666535,-0.3479563548270678,Transport,Trains_Platforms
+61,Platform 1,51.449337,-0.3570674,Transport,Trains_Platforms
+62,Platform 1,51.47476061014808,-0.33740977133169064,Transport,Trains_Platforms
+63,Platform 4,51.45485831670153,-0.3210051685763045,Transport,Trains_Platforms
+64,Platform 3,51.454999498762774,-0.3197099347370099,Transport,Trains_Platforms
+65,Platform 1,51.454900145203226,-0.32037619492856617,Transport,Trains_Platforms
+66,Platform 3,51.506106086998486,-0.3776116179726755,Transport,Trains_Platforms
+67,Platform 4,51.50610820654089,-0.37738762791782887,Transport,Trains_Platforms
+69,Platform 1,51.473568,-0.3859313,Transport,Trains_Platforms
+73,Platform 2,51.47370104763115,-0.38506111974391954,Transport,Trains_Platforms
+77,Platform 2,51.53659279012325,-0.32344222068786616,Transport,Trains_Platforms
+78,Platform 3,51.5135039482266,-0.320092309266329,Transport,Trains_Platforms
+79,Platform 2,51.542217,-0.34523216,Transport,Trains_Platforms
+80,Platform 4,51.513607,-0.31992853,Transport,Trains_Platforms
+81,Platform 4,51.556958023964846,-0.39915371241200515,Transport,Trains_Platforms
+82,Platform 1,51.548382,-0.368932,Transport,Trains_Platforms
+83,Platform 2,51.575196586801965,-0.37130580396514307,Transport,Trains_Platforms
+84,Platform 2,51.54826,-0.36836988,Transport,Trains_Platforms
+85,Platform 2,51.564682,-0.35210463,Transport,Trains_Platforms
+86,Platform 2,51.55694300731684,-0.3989887652370911,Transport,Trains_Platforms
+87,Platform 4,51.5934209151485,-0.3389748095751464,Transport,Trains_Platforms
+88,Platform 3,51.57931341505076,-0.3366048466375313,Transport,Trains_Platforms
+89,Platform 6,51.57930753368046,-0.336008662465306,Transport,Trains_Platforms
+90,Platform 5,51.57930957573276,-0.33626365518820844,Transport,Trains_Platforms
+91,Platform 4,51.5791136190123,-0.3366709420625886,Transport,Trains_Platforms
+93,Platform 1,51.57930638158209,-0.3367642521103368,Transport,Trains_Platforms
+94,Platform 2,51.59173579603929,-0.33473968505859375,Transport,Trains_Platforms
+95,Platform 2,51.580790168746255,-0.33703592621593365,Transport,Trains_Platforms
+96,Platform 1,51.59149659899195,-0.33435942242547084,Transport,Trains_Platforms
+97,Platform 1,51.609645,-0.368841,Transport,Trains_Platforms
+98,Platform 2,51.608804016439564,-0.36998285567556305,Transport,Trains_Platforms
+99,Platform 5,51.59216198376091,-0.3344594744173468,Transport,Trains_Platforms
+100,Platform 6,51.59214074229901,-0.3344589533895381,Transport,Trains_Platforms
+101,Platform 1,51.627597708086,-0.3854437292829885,Transport,Trains_Platforms
+102,Platform 2,51.62752,-0.385426,Transport,Trains_Platforms
+103,Platform 3,51.645047,-0.384923,Transport,Trains_Platforms
+104,Platform 6,51.645438,-0.384817,Transport,Trains_Platforms
+105,Platform 2,51.645616,-0.385022,Transport,Trains_Platforms
+106,Platform 5,51.645480889384565,-0.3849237862641602,Transport,Trains_Platforms
+109,Platform 3,51.33457297739204,-0.26875359642866836,Transport,Trains_Platforms
+110,Platform 1,51.33442938121692,-0.26881906716290094,Transport,Trains_Platforms
+111,Platform 2,51.33447924910813,-0.26907169635768263,Transport,Trains_Platforms
+112,Platform 4,51.33455576004644,-0.26925072353452023,Transport,Trains_Platforms
+114,Platform 1,51.36415159753421,-0.3005276297514506,Transport,Trains_Platforms
+117,Platform 3,51.392366107446875,-0.3041313887178486,Transport,Trains_Platforms
+118,Platform 4,51.39227746761489,-0.3040534113252443,Transport,Trains_Platforms
+119,Platform 1,51.39264215147985,-0.30410505254933995,Transport,Trains_Platforms
+120,Platform 1,51.41240607095574,-0.28428340981923317,Transport,Trains_Platforms
+121,Platform 3,51.41301400431579,-0.30236117902038473,Transport,Trains_Platforms
+122,Platform 2,51.39236641671207,-0.30430884514317263,Transport,Trains_Platforms
+123,Platform 1,51.398865056367214,-0.28097805185980074,Transport,Trains_Platforms
+124,Platform 2,51.41220552375206,-0.2839287906495812,Transport,Trains_Platforms
+125,Platform 2,51.41289972676886,-0.3011093813143799,Transport,Trains_Platforms
+126,Platform 2,51.39891525441561,-0.28052543159703186,Transport,Trains_Platforms
+127,Platform 1,51.41295,-0.30219612,Transport,Trains_Platforms
+129,Platform 2,51.376753,-0.279697,Transport,Trains_Platforms
+130,Platform 2,51.42441506518627,-0.3321648543285524,Transport,Trains_Platforms
+140,Platform 1,51.42755,-0.335412,Transport,Trains_Platforms
+142,Platform 1,51.414603,-0.312169,Transport,Trains_Platforms
+144,Platform 2,51.46307810725584,-0.3010787306767203,Transport,Trains_Platforms
+145,Platform 6,51.46346608763645,-0.2993801071089868,Transport,Trains_Platforms
+146,Platform 4,51.463222082819804,-0.3008298546638285,Transport,Trains_Platforms
+149,Platform 1,51.46305593292974,-0.3010230829487839,Transport,Trains_Platforms
+150,Platform 5,51.46325883529239,-0.30120491040286074,Transport,Trains_Platforms
+151,Platform 7,51.463345771776375,-0.30092415378910703,Transport,Trains_Platforms
+152,Platform 3,51.46321582746726,-0.30052388312558376,Transport,Trains_Platforms
+153,"Platform 2 (S'bound District, Overground)",51.476852,-0.2850179,Transport,Trains_Platforms
+154,Platform 2,51.467989,-0.267553,Transport,Trains_Platforms
+156,Platform 1,51.46801363696344,-0.2671880850790772,Transport,Trains_Platforms
+158,Platform 2,51.46533,-0.28641766,Transport,Trains_Platforms
+160,"Platform 1 (N'bound District, Overground)",51.477139144299194,-0.28503315559421544,Transport,Trains_Platforms
+161,Platform 1,51.487583,-0.30963355,Transport,Trains_Platforms
+162,Platform 1,51.48965443751208,-0.28782010868966523,Transport,Trains_Platforms
+163,Platform 2,51.48978043795422,-0.28907190676700617,Transport,Trains_Platforms
+167,Platform 2,51.51452727900477,-0.3011240953104843,Transport,Trains_Platforms
+169,Platform 2,51.49962,-0.3133846,Transport,Trains_Platforms
+170,Platform 1,51.51814,-0.2806496,Transport,Trains_Platforms
+171,Platform 4,51.50224260997303,-0.2794078885234073,Transport,Trains_Platforms
+172,Platform 2,51.50257179584278,-0.2798308397319686,Transport,Trains_Platforms
+173,Platform 4 (TfL Rail),51.514971280234484,-0.30070177332255066,Transport,Trains_Platforms
+174,Platform 3 (E'bound Piccadilly),51.50221903521744,-0.2794761614625487,Transport,Trains_Platforms
+175,Platform 9 (E'bound District),51.51520273908444,-0.3000328886963873,Transport,Trains_Platforms
+176,Platform 1,51.554354,-0.285148,Transport,Trains_Platforms
+177,Platform 1,51.523359,-0.259227,Transport,Trains_Platforms
+178,Platform 7 (E'bound District),51.51515993753606,-0.30017420907198383,Transport,Trains_Platforms
+179,Platform 6 (E'bound Central),51.51496947007789,-0.30078609586987964,Transport,Trains_Platforms
+180,Platform 2,51.554151,-0.285189,Transport,Trains_Platforms
+181,Platform 8 (E'bound District),51.51519948408397,-0.3005320954488331,Transport,Trains_Platforms
+182,Platform 2,51.551735,-0.29611084,Transport,Trains_Platforms
+183,Platform 1,51.502424701539645,-0.27978257810603246,Transport,Trains_Platforms
+184,Platform 3,51.51485639312754,-0.3011400868961117,Transport,Trains_Platforms
+185,Platform 2,51.508288381356955,-0.2630174160003662,Transport,Trains_Platforms
+187,Platform 1,51.514725174257,-0.3019523620605469,Transport,Trains_Platforms
+188,DB Schenker Wembley Depot,51.543194,-0.277104,Transport,Trains_Platforms
+190,Platform 1,51.551132,-0.29585168,Transport,Trains_Platforms
+191,Platform 2,51.54411118826144,-0.27450894142361304,Transport,Trains_Platforms
+193,Platform 6,51.5521,-0.29616383,Transport,Trains_Platforms
+194,Platform 5,51.552223,-0.2965095,Transport,Trains_Platforms
+195,Acton Town Station Staff Canteen,51.50239409584852,-0.27984020343445865,Transport,Trains_Platforms
+197,Platform 5 (E'bound Central),51.514988698812445,-0.30045269965999666,Transport,Trains_Platforms
+213,Platform 1,51.618527,-0.302174,Transport,Trains_Platforms
+214,Platform 1,51.6135189525939,-0.27491214975620887,Transport,Trains_Platforms
+215,Platform 2,51.613638993493744,-0.2752216308409976,Transport,Trains_Platforms
+216,Platform 1,51.61889853059405,-0.30254553460462413,Transport,Trains_Platforms
+217,Platform 3,51.61880050864468,-0.3026351092135135,Transport,Trains_Platforms
+218,Platform 2,51.61854,-0.302225,Transport,Trains_Platforms
+219,Platform 3,51.61898526458073,-0.30240453963290537,Transport,Trains_Platforms
+225,Platform 1,51.652957547282284,-0.27983020794689706,Transport,Trains_Platforms
+226,Platform 2,51.65380133502002,-0.27975762515989167,Transport,Trains_Platforms
+227,Platform 1,51.36331776476883,-0.24780986816612852,Transport,Trains_Platforms
+231,Platform 1,51.345264,-0.241436,Transport,Trains_Platforms
+234,Platform 2,51.38136,-0.245041,Transport,Trains_Platforms
+235,Platform 4,51.403777111757364,-0.25596359838326316,Transport,Trains_Platforms
+236,Platform 3,51.40884087893578,-0.2309527637507377,Transport,Trains_Platforms
+237,Platform 1,51.40387619986681,-0.256008386684502,Transport,Trains_Platforms
+238,Platform 1,51.38146105064132,-0.2448589478573225,Transport,Trains_Platforms
+239,Platform 1,51.40948907564678,-0.22996919190001794,Transport,Trains_Platforms
+240,Platform 4,51.40869423487646,-0.23092219275512013,Transport,Trains_Platforms
+241,Platform 2,51.40924158517847,-0.22979448388763743,Transport,Trains_Platforms
+246,Platform 4,51.46108,-0.21638754,Transport,Trains_Platforms
+247,Platform 3,51.44222922122791,-0.18765166626352453,Transport,Trains_Platforms
+248,Platform 1,51.468066333585334,-0.2088782150154011,Transport,Trains_Platforms
+249,Platform 4,51.46067,-0.1880044,Transport,Trains_Platforms
+250,Platform 3,51.461098570166854,-0.21617243153666854,Transport,Trains_Platforms
+251,Platform 1,51.4725299632123,-0.2533049628936551,Transport,Trains_Platforms
+252,Platform 2,51.471776,-0.252579,Transport,Trains_Platforms
+253,Platform 2,51.46103911470703,-0.18803715963328718,Transport,Trains_Platforms
+254,Platform 3,51.46107,-0.187855,Transport,Trains_Platforms
+255,Platform 4,51.46679,-0.24147324,Transport,Trains_Platforms
+256,Platform 1,51.475201,-0.201432,Transport,Trains_Platforms
+259,Platform 1,51.467101090993566,-0.24185188294016519,Transport,Trains_Platforms
+260,Platform 2,51.466819,-0.240757,Transport,Trains_Platforms
+261,Platform 3,51.466881292441286,-0.2415007714129503,Transport,Trains_Platforms
+262,Platform 1,51.461174,-0.21624438,Transport,Trains_Platforms
+263,Platform 2,51.46093876259365,-0.21528780553520915,Transport,Trains_Platforms
+264,Platform 3,51.468003,-0.208688,Transport,Trains_Platforms
+265,Platform 1,51.49452356001081,-0.26803259660362283,Transport,Trains_Platforms
+266,Platform 2,51.49447387180744,-0.2677598775844722,Transport,Trains_Platforms
+273,Platform 2,51.49163457900184,-0.27531565966848637,Transport,Trains_Platforms
+274,Platform 1,51.49145912987842,-0.2753487386274713,Transport,Trains_Platforms
+278,Platform 3,51.495155,-0.25467607,Transport,Trains_Platforms
+282,Platform 2,51.49956362675473,-0.2699431919408349,Transport,Trains_Platforms
+284,Platform 1,51.494838,-0.245589,Transport,Trains_Platforms
+286,Platform 3,51.495049,-0.245623,Transport,Trains_Platforms
+288,Platform 2,51.4950016513467,-0.256971465423703,Transport,Trains_Platforms
+289,Platform 1,51.499718,-0.27004012,Transport,Trains_Platforms
+291,Platform 4,51.49520362189725,-0.2547265463403884,Transport,Trains_Platforms
+293,Platform 1,51.49377781858888,-0.22500727642931112,Transport,Trains_Platforms
+294,Platform 2,51.49380207543632,-0.22499111658322846,Transport,Trains_Platforms
+295,Platform 1,51.49520966934581,-0.2547595288288141,Transport,Trains_Platforms
+296,Platform 1 (W'bound District),51.49207688065804,-0.2232263336887598,Transport,Trains_Platforms
+297,Platform 3,51.49387229867946,-0.22489748393957157,Transport,Trains_Platforms
+298,Platform 4 (E'bound District),51.49215826647281,-0.22332299206938377,Transport,Trains_Platforms
+300,Platform 5,51.53200886845503,-0.24322589883070406,Transport,Trains_Platforms
+301,Platform 4,51.532065438898265,-0.24346287803500696,Transport,Trains_Platforms
+302,Platform 2,51.52093025755788,-0.20116278617416947,Transport,Trains_Platforms
+305,Platform 1,51.505828233327634,-0.218169702389828,Transport,Trains_Platforms
+307,Platform 1,51.52198038185947,-0.20128355588141067,Transport,Trains_Platforms
+308,Platform 1,51.532522673367026,-0.2442061278143933,Transport,Trains_Platforms
+309,Platform 1,51.534457528213714,-0.20286800235087304,Transport,Trains_Platforms
+310,Platform 2,51.534125,-0.204954,Transport,Trains_Platforms
+311,Platform 1,51.51161978241814,-0.2241353264234819,Transport,Trains_Platforms
+313,Platform 2,51.54506,-0.20268917,Transport,Trains_Platforms
+314,Platform 1,51.505528,-0.226655,Transport,Trains_Platforms
+315,Platform 3,51.511743,-0.224133,Transport,Trains_Platforms
+316,Platform 3,51.53228860428619,-0.2444755046348023,Transport,Trains_Platforms
+317,Platform 4,51.534027,-0.205327,Transport,Trains_Platforms
+318,Platform 2,51.50537651347687,-0.2175661672307551,Transport,Trains_Platforms
+319,Platform 1 (W'bound Central),51.504654,-0.21755,Transport,Trains_Platforms
+320,Platform 1,51.510115,-0.223383,Transport,Trains_Platforms
+321,Platform 2,51.534603,-0.219917,Transport,Trains_Platforms
+322,Platform 1,51.5404687821865,-0.210356935858727,Transport,Trains_Platforms
+323,Platform 1,51.54494,-0.20276058,Transport,Trains_Platforms
+326,Platform 2,51.512161,-0.224089,Transport,Trains_Platforms
+327,Platform 2,51.53214643102203,-0.24348684116250777,Transport,Trains_Platforms
+328,Platform 2,51.506004,-0.2262393,Transport,Trains_Platforms
+329,Platform 2 (E'bound Central),51.504616,-0.21875662,Transport,Trains_Platforms
+330,Platform 2,51.51724,-0.21094836,Transport,Trains_Platforms
+331,Platform 4,51.511631606483235,-0.22414708500317115,Transport,Trains_Platforms
+332,Platform 1,51.563549484839044,-0.2796243609706222,Transport,Trains_Platforms
+333,Platform 4 (S'bound Jubilee),51.56357703643794,-0.2796322636887103,Transport,Trains_Platforms
+334,Platform 5 (S'bound Metropolitan),51.563553,-0.27931082,Transport,Trains_Platforms
+335,Platform 6 (Platform 6 (S'bound Metropolitan)),51.564083,-0.280748,Transport,Trains_Platforms
+337,Platform 2 (N'bound Metropolitan),51.5636852269346,-0.2804367281674096,Transport,Trains_Platforms
+344,Platform 3 (Platform 3 (N'bound Jubilee)),51.563425667795045,-0.27987241744995117,Transport,Trains_Platforms
+346,Platform 2,51.58013195958429,-0.23879315552655178,Transport,Trains_Platforms
+347,Platform 2,51.61316668237864,-0.24929523468017578,Transport,Trains_Platforms
+348,Platform 1,51.61267015816818,-0.2487123211549345,Transport,Trains_Platforms
+349,Platform 3,51.600986,-0.192645,Transport,Trains_Platforms
+350,Platform 3,51.613245,-0.2494,Transport,Trains_Platforms
+356,Platform 1,51.319149209620086,-0.15379783534496352,Transport,Trains_Platforms
+357,Platform 1,51.32203016092245,-0.1349043846130371,Transport,Trains_Platforms
+358,Platform 2,51.31931988434075,-0.15381413105972214,Transport,Trains_Platforms
+359,Platform 1,51.31545198762758,-0.13807076212123548,Transport,Trains_Platforms
+360,Platform 2,51.315574146266826,-0.13818668083209962,Transport,Trains_Platforms
+361,Platform 1,51.34421515564304,-0.19822424720019519,Transport,Trains_Platforms
+362,Platform 1,51.30934272439676,-0.16942977905273438,Transport,Trains_Platforms
+363,Platform 2,51.30933052149276,-0.16927108097751786,Transport,Trains_Platforms
+364,Platform 1,51.359829946799636,-0.19092051914244945,Transport,Trains_Platforms
+365,Platform 2,51.359694956400666,-0.19079258389174644,Transport,Trains_Platforms
+366,Platform 3,51.359581871770374,-0.1908767857969288,Transport,Trains_Platforms
+367,Platform 2,51.349344828293894,-0.19514148099017656,Transport,Trains_Platforms
+368,Platform 4,51.359673951229425,-0.19097174499582265,Transport,Trains_Platforms
+369,Platform 2,51.357211,-0.169926,Transport,Trains_Platforms
+370,Platform 2,51.368654,-0.166289,Transport,Trains_Platforms
+371,Platform 1,51.3685727748378,-0.16625535171221167,Transport,Trains_Platforms
+372,Platform 2,51.366086,-0.204523,Transport,Trains_Platforms
+373,Platform 2,51.355639818399275,-0.21387777713242867,Transport,Trains_Platforms
+374,Platform 1,51.366144,-0.204496,Transport,Trains_Platforms
+375,Platform 1,51.357262,-0.169924,Transport,Trains_Platforms
+377,Platform 1,51.39291,-0.15768406,Transport,Trains_Platforms
+378,Platform 4,51.402526,-0.194852,Transport,Trains_Platforms
+379,Platform 2,51.402513,-0.194671,Transport,Trains_Platforms
+380,Platform 5,51.402657,-0.194924,Transport,Trains_Platforms
+382,Platform 3,51.40258,-0.194747,Transport,Trains_Platforms
+384,Platform 2,51.419909,-0.160952,Transport,Trains_Platforms
+385,Platform 3 (District),51.421983573262715,-0.20564603526352654,Transport,Trains_Platforms
+386,Platform 9,51.421296381866675,-0.20570340533974027,Transport,Trains_Platforms
+387,Platform 10b (Tramlink),51.42165201900103,-0.2055611705769453,Transport,Trains_Platforms
+389,Platform 2,51.44098376512411,-0.18735545550032198,Transport,Trains_Platforms
+390,Platform 1,51.44254092153641,-0.18732383938100483,Transport,Trains_Platforms
+391,Platform 1,51.421967659901156,-0.20564533230114654,Transport,Trains_Platforms
+392,Platform 8,51.42179367282361,-0.20503422087127843,Transport,Trains_Platforms
+393,Platform 10a (Tramlink),51.42119891415478,-0.20570848156214852,Transport,Trains_Platforms
+394,Platform 7,51.42148640638297,-0.20532718106923797,Transport,Trains_Platforms
+395,Platform 4 (District),51.42197534208464,-0.2054784289238979,Transport,Trains_Platforms
+396,Platform 5,51.42132125032348,-0.20615439170396693,Transport,Trains_Platforms
+401,Platform 6,51.42163715888956,-0.20582199096679688,Transport,Trains_Platforms
+402,Platform 1,51.42545207945472,-0.18900881066799738,Transport,Trains_Platforms
+404,Platform 2,51.422146092993636,-0.20548022749756328,Transport,Trains_Platforms
+405,Platform 13,51.463729790183834,-0.17043655161421825,Transport,Trains_Platforms
+406,Platform 15,51.46394542081905,-0.1699389297744776,Transport,Trains_Platforms
+407,Platform 17,51.46366387942935,-0.1701293823188062,Transport,Trains_Platforms
+409,Platform 10,51.46433679870179,-0.17025531879430597,Transport,Trains_Platforms
+410,Platform 2,51.44300459846395,-0.1516197768834655,Transport,Trains_Platforms
+411,Platform 14,51.464258023884184,-0.1696297653119301,Transport,Trains_Platforms
+412,Platform 4,51.477817,-0.147565,Transport,Trains_Platforms
+413,Platform 3,51.477309308598976,-0.14748667864906995,Transport,Trains_Platforms
+415,Platform 2,51.44300110422997,-0.15182960172364368,Transport,Trains_Platforms
+416,Platform 2,51.47517649922023,-0.18298918797216657,Transport,Trains_Platforms
+418,Platform 11,51.463867322696935,-0.17050229023798427,Transport,Trains_Platforms
+419,Platform 16,51.46412522518613,-0.16953934735336781,Transport,Trains_Platforms
+420,Platform 2,51.47518196333959,-0.1462554931640625,Transport,Trains_Platforms
+421,Platform 2,51.4773580356974,-0.1476261885192249,Transport,Trains_Platforms
+422,Platform 1,51.477053023240366,-0.14771461486816406,Transport,Trains_Platforms
+423,Platform 4,51.442919,-0.151761,Transport,Trains_Platforms
+424,Platform 2,51.446291,-0.163632,Transport,Trains_Platforms
+425,Platform 8,51.46422541469451,-0.1705886811432715,Transport,Trains_Platforms
+426,Factory Junction,51.47226206941853,-0.14069671233868,Transport,Trains_Platforms
+427,Platform 1,51.475076,-0.182956,Transport,Trains_Platforms
+428,Platform 3,51.443097,-0.151895,Transport,Trains_Platforms
+429,Platform 3,51.475169448461386,-0.14601760522921237,Transport,Trains_Platforms
+433,Platform 7,51.464056315548405,-0.17119129585312703,Transport,Trains_Platforms
+434,Platform 6,51.46448872009329,-0.17093181610107422,Transport,Trains_Platforms
+435,Platform 2,51.464914091357144,-0.17165103185158076,Transport,Trains_Platforms
+436,Platform 9,51.464151786537194,-0.170779851388898,Transport,Trains_Platforms
+437,Platform 1,51.46524465892866,-0.1319467145461616,Transport,Trains_Platforms
+438,CLJMIDSDG,51.4630619355623,-0.17694672154309585,Transport,Trains_Platforms
+439,Pe Cai Ferate,51.4631,-0.17685,Transport,Trains_Platforms
+440,Platform 12,51.46453499610063,-0.16966929615642937,Transport,Trains_Platforms
+441,Platform 1,51.44301750639724,-0.15169805779777226,Transport,Trains_Platforms
+442,Platform 3,51.46495773564079,-0.17100275748104943,Transport,Trains_Platforms
+443,Platform 5,51.46487772145749,-0.1713113617823387,Transport,Trains_Platforms
+444,Platform 4,51.46510677877372,-0.17047016305887103,Transport,Trains_Platforms
+445,Platform 1,51.46532233648929,-0.17037006749329187,Transport,Trains_Platforms
+446,Platform 1,51.491644266239646,-0.19391683265431242,Transport,Trains_Platforms
+447,Platform 3,51.49160534596722,-0.19403613899463082,Transport,Trains_Platforms
+448,Platform 2,51.49142395341725,-0.19426639595922537,Transport,Trains_Platforms
+449,Platform 4 (W'bound District),51.49160347530311,-0.19397647249648814,Transport,Trains_Platforms
+450,Platform 5 (E'bound Piccadilly),51.49147222718802,-0.19417721214069605,Transport,Trains_Platforms
+451,Platform 1,51.49036700236098,-0.21387939284190635,Transport,Trains_Platforms
+452,Platform 6 (W'bound Piccadilly),51.491577,-0.194111,Transport,Trains_Platforms
+453,Westbound Platform,51.51145,-0.17550464,Transport,Trains_Platforms
+455,Platform 2,51.50025552028006,-0.1921212378712189,Transport,Trains_Platforms
+456,Platform 1,51.480687,-0.194642,Transport,Trains_Platforms
+457,"Platform 1 (W'bound Circle, District)",51.50848614408596,-0.19596604806565424,Transport,Trains_Platforms
+458,"Platform 2 (E'Bound Circle, District)",51.50848614408596,-0.19596604806565424,Transport,Trains_Platforms
+459,Platform 4 (W'bound Central),51.50848778896875,-0.19595137238527996,Transport,Trains_Platforms
+460,Platform 2,51.487057,-0.19533756,Transport,Trains_Platforms
+461,"Platform 1 (W'Bound Circle, District)",51.50023,-0.191991,Transport,Trains_Platforms
+462,Platform 1,51.48702138279456,-0.19536831634430835,Transport,Trains_Platforms
+463,Platform 4,51.48716716863169,-0.19577033451136064,Transport,Trains_Platforms
+465,Platform 3,51.48696744990289,-0.19534054250070831,Transport,Trains_Platforms
+466,Platform 3 (E'bound Central),51.508892,-0.1958512,Transport,Trains_Platforms
+471,Platform 4,51.493937,-0.173665,Transport,Trains_Platforms
+472,Platform 1,51.49735,-0.2096723,Transport,Trains_Platforms
+473,Eastbound Platform,51.511482,-0.17479889,Transport,Trains_Platforms
+475,Platform 4 (W'bound Central),51.5002197331576,-0.19215220855886256,Transport,Trains_Platforms
+480,Platform 3 (E'bound Piccadilly),51.49197504324104,-0.22310061881025242,Transport,Trains_Platforms
+481,Platform 4,51.490393611113895,-0.21412687962453694,Transport,Trains_Platforms
+482,Platform 3,51.49036712872068,-0.21405093649793866,Transport,Trains_Platforms
+486,Platform 2,51.49210671328607,-0.22315563921882042,Transport,Trains_Platforms
+489,Platform 2 (W'bound Piccadilly),51.49030857515502,-0.21391598720922606,Transport,Trains_Platforms
+490,Platform 3,51.497873726874346,-0.20989260043684266,Transport,Trains_Platforms
+491,Platform 2,51.49782686935594,-0.2100894593058557,Transport,Trains_Platforms
+492,Platform 5,51.52399149026834,-0.163421630859375,Transport,Trains_Platforms
+493,Platform 2,51.523375581242846,-0.1632017192146898,Transport,Trains_Platforms
+494,Platform 3,51.52361917762988,-0.1631933534019947,Transport,Trains_Platforms
+495,Platform 1,51.52236167867622,-0.16282034651407495,Transport,Trains_Platforms
+497,Platform 7 (S'bound Jubilee),51.522960828901226,-0.15720387305906297,Transport,Trains_Platforms
+498,Platform 1 (W'bound Central),51.51429869809002,-0.14900308102369308,Transport,Trains_Platforms
+499,Platform 4 (S'bound Victoria),51.506739141893,-0.14276325702667236,Transport,Trains_Platforms
+500,"Platform 6 (W'bound Circle, H&C)",51.522681,-0.156911,Transport,Trains_Platforms
+502,"Platform 1 (W'bound Circle, District)",51.496326,-0.14432363,Transport,Trains_Platforms
+504,Platform 1 Westbound,51.52557456721569,-0.13578037533866183,Transport,Trains_Platforms
+506,Platform 4 (S'bound Bakerloo),51.51651449453611,-0.17578125,Transport,Trains_Platforms
+507,Platform 3 (N'bound Victoria),51.49596,-0.14386766,Transport,Trains_Platforms
+509,Platform 4 (S'bound Victoria),51.524669141661185,-0.13789103143248851,Transport,Trains_Platforms
+511,"Platform 5 (E'bound Circle, H&C)",51.522685,-0.15681,Transport,Trains_Platforms
+513,Platform 8 (S'bound Bakerloo),51.522822,-0.157166,Transport,Trains_Platforms
+514,London Victoria Railway Station Platform 12,51.495065,-0.144697,Transport,Trains_Platforms
+515,Platform 6,51.529197958599084,-0.13430356979370117,Transport,Trains_Platforms
+516,Platform 4,51.49498457510481,-0.1444530487060547,Transport,Trains_Platforms
+517,Platform 13,51.52905779225023,-0.1351994276046753,Transport,Trains_Platforms
+518,Platform 5,51.49500821180015,-0.14380900679296685,Transport,Trains_Platforms
+519,Platform 15,51.52905779225023,-0.13546228408813477,Transport,Trains_Platforms
+520,Platform 9,51.49519777479497,-0.14462607701081423,Transport,Trains_Platforms
+521,Platform 11,51.52879837467997,-0.1343288068584565,Transport,Trains_Platforms
+522,Platform 7,51.52904601841354,-0.13435373115240087,Transport,Trains_Platforms
+523,Platform 14,51.49506090822672,-0.1448764781237532,Transport,Trains_Platforms
+524,Platform 1,51.49402344354498,-0.1441403863432258,Transport,Trains_Platforms
+525,Platform 10,51.528704817108995,-0.13427501351797297,Transport,Trains_Platforms
+526,Platform 13,51.495087923487986,-0.14481513998873827,Transport,Trains_Platforms
+527,Platform 3,51.49501803468366,-0.1437086609599186,Transport,Trains_Platforms
+528,Platform 15,51.49507751604838,-0.14488264319625557,Transport,Trains_Platforms
+529,Platform 19,51.49514158184041,-0.1447866898952407,Transport,Trains_Platforms
+531,Platform 8,51.494241213945834,-0.14429027232259187,Transport,Trains_Platforms
+532,Platform 18,51.52822210702829,-0.13501628164220736,Transport,Trains_Platforms
+533,Platform 1,51.499660050014434,-0.16307830810546875,Transport,Trains_Platforms
+534,Platform 7 (Heathrow Express),51.516681405157,-0.17692923545837402,Transport,Trains_Platforms
+535,Platform 12,51.51703525365046,-0.17651081085205078,Transport,Trains_Platforms
+536,Platform 10,51.51715542798518,-0.17701506614685059,Transport,Trains_Platforms
+537,Platform 9,51.51735571783842,-0.17744958400726316,Transport,Trains_Platforms
+538,Platform 1 & 2,51.52019777559323,-0.16671476944900804,Transport,Trains_Platforms
+539,Platform 2,51.55855,-0.21272232,Transport,Trains_Platforms
+541,Platform 2,51.572322,-0.193125,Transport,Trains_Platforms
+542,Platform 2,51.54853023795673,-0.1928515701481692,Transport,Trains_Platforms
+543,Platform 2,51.550157,-0.183577,Transport,Trains_Platforms
+544,Platform 2,51.555225,-0.16570218,Transport,Trains_Platforms
+545,Southbound Platform 2,51.54649,-0.19079223,Transport,Trains_Platforms
+546,Platform 4 (W'bound Piccadilly),51.54763405492772,-0.18122482896071285,Transport,Trains_Platforms
+547,Platform 1,51.55464820982539,-0.1656517668355322,Transport,Trains_Platforms
+548,Platform 1,51.54742146625318,-0.1919346816761836,Transport,Trains_Platforms
+549,Platform 4,51.54827489277945,-0.1921435294570983,Transport,Trains_Platforms
+550,Platform 2,51.54744834643991,-0.1917518352357184,Transport,Trains_Platforms
+552,Platform 2,51.537571182405344,-0.19176794160488117,Transport,Trains_Platforms
+553,Platform 1,51.548507633191406,-0.19171858669891798,Transport,Trains_Platforms
+554,Platform 1,51.53758114513301,-0.19188090408823685,Transport,Trains_Platforms
+556,Platform 1,51.5501779597253,-0.183432083576918,Transport,Trains_Platforms
+557,Platform 3,51.572345,-0.194191,Transport,Trains_Platforms
+558,Platform 3,51.5485759585758,-0.19285956251459108,Transport,Trains_Platforms
+559,Platform 5,51.572365141423845,-0.19413172026460418,Transport,Trains_Platforms
+560,Platform 4,51.5873929109865,-0.16500770319475958,Transport,Trains_Platforms
+561,Platform 1,51.58842415463351,-0.16415548705152472,Transport,Trains_Platforms
+564,Platform 4,51.6494403127581,-0.174356075003743,Transport,Trains_Platforms
+565,Platform 4,51.650038519358894,-0.14699757731949942,Transport,Trains_Platforms
+566,Platform 1,51.6515403854593,-0.14901061120013065,Transport,Trains_Platforms
+567,Platform 3,51.65166694127271,-0.14887438486456236,Transport,Trains_Platforms
+568,Platform 1,51.64818450106345,-0.17249955124868052,Transport,Trains_Platforms
+569,Platform 4,51.69754,-0.19287395,Transport,Trains_Platforms
+570,Platform 1,51.697613,-0.19290212,Transport,Trains_Platforms
+571,Platform 1,51.26399829134149,-0.14995166956012085,Transport,Trains_Platforms
+572,Platform 2,51.26414,-0.15019867,Transport,Trains_Platforms
+574,Platform 1,51.32487499887391,-0.10101426049518525,Transport,Trains_Platforms
+575,Platform 2,51.32493832170333,-0.10122790932655334,Transport,Trains_Platforms
+576,Platform 4,51.33743481600301,-0.1140038097883588,Transport,Trains_Platforms
+577,Platform 2,51.309581,-0.08088,Transport,Trains_Platforms
+579,Platform 1,51.308551504584834,-0.07764879892348057,Transport,Trains_Platforms
+581,Platform 1,51.33753274441467,-0.11409444092631404,Transport,Trains_Platforms
+582,Platform 2,51.33758405532681,-0.11411851622814388,Transport,Trains_Platforms
+583,Platform 2,51.308514,-0.077744834,Transport,Trains_Platforms
+584,Platform 4,51.346751296495384,-0.09875687208785809,Transport,Trains_Platforms
+586,Platform 3,51.34695646572473,-0.09867177296904137,Transport,Trains_Platforms
+587,Platform 3,51.33749025543675,-0.11393488974585958,Transport,Trains_Platforms
+588,Platform 5,51.337237314770235,-0.11390982571625138,Transport,Trains_Platforms
+589,Platform 6,51.337269166094956,-0.11389756505861767,Transport,Trains_Platforms
+590,Platform 1,51.330719978192406,-0.12330427969136815,Transport,Trains_Platforms
+591,Platform 1,51.360338,-0.150183,Transport,Trains_Platforms
+592,Platform 2,51.36030424078426,-0.15066201329742632,Transport,Trains_Platforms
+596,Platform 2,51.36742,-0.1172873,Transport,Trains_Platforms
+602,Platform 3,51.34723276270655,-0.09847180278210707,Transport,Trains_Platforms
+603,Platform 1,51.367405,-0.11734966,Transport,Trains_Platforms
+605,Platform 1 Sanderstead Railway Station,51.348345,-0.093555,Transport,Trains_Platforms
+608,Platform 1,51.39136438837277,-0.08946450548722781,Transport,Trains_Platforms
+609,Platform 3,51.37910226396152,-0.10181185476715544,Transport,Trains_Platforms
+610,Platform 2,51.39227266190784,-0.08860042917245767,Transport,Trains_Platforms
+611,Platform 4,51.379304635564395,-0.10141433047017696,Transport,Trains_Platforms
+612,Platform 5,51.397281787293025,-0.07460463746408438,Transport,Trains_Platforms
+613,Platform 6,51.397379817641394,-0.07451504748382771,Transport,Trains_Platforms
+614,Platform 1,51.397435922162096,-0.07479495060834433,Transport,Trains_Platforms
+615,Platform 4,51.397232795789286,-0.07472043517248399,Transport,Trains_Platforms
+616,Platform 1,51.37917560553157,-0.10185324245722827,Transport,Trains_Platforms
+617,Platform 3,51.39799261721149,-0.07439135796473322,Transport,Trains_Platforms
+618,Platform 3,51.391370161756925,-0.08935904489821629,Transport,Trains_Platforms
+620,3 A/C,51.39117264914732,-0.07984343389837356,Transport,Trains_Platforms
+621,4 a/c,51.37962679227093,-0.07725842327685031,Transport,Trains_Platforms
+622,Platform 3,51.408975237247695,-0.10057618165964839,Transport,Trains_Platforms
+623,7 a/c,51.39120864868164,-0.07974950224161148,Transport,Trains_Platforms
+624,6 a/c,51.38821029663086,-0.08893349766731262,Transport,Trains_Platforms
+625,5 A/C,51.389156341552734,-0.08299530297517776,Transport,Trains_Platforms
+626,Platform 4,51.391372024908776,-0.08945603594678253,Transport,Trains_Platforms
+627,Platform 6,51.37614567168586,-0.09239677422302553,Transport,Trains_Platforms
+628,Platform 3,51.3762505664519,-0.09265316066463332,Transport,Trains_Platforms
+629,Platform 2,51.37604544286123,-0.09278077278428605,Transport,Trains_Platforms
+630,Platform 4,51.39886042602838,-0.10039028018694078,Transport,Trains_Platforms
+632,9 A/C,51.38588525160097,-0.08755946972934286,Transport,Trains_Platforms
+633,Platform 1,51.39885202649328,-0.10024725716014393,Transport,Trains_Platforms
+634,Platform 2,51.39887074437331,-0.10029792814074767,Transport,Trains_Platforms
+635,6 North Sidings,51.39208221435547,-0.08783669769763947,Transport,Trains_Platforms
+636,Platform 1,51.37654695427612,-0.0929196529495411,Transport,Trains_Platforms
+637,Platform 4,51.37627734674772,-0.09268826561772453,Transport,Trains_Platforms
+638,Platform 5,51.375645734358756,-0.0926041473206512,Transport,Trains_Platforms
+639,"Love Lane, South Norwood",51.375446,-0.09295,Transport,Trains_Platforms
+640,Platform 1,51.41865242693335,-0.13574834463200933,Transport,Trains_Platforms
+641,Platform 2,51.42635059398202,-0.13113287863627035,Transport,Trains_Platforms
+643,Platform 2,51.41538165047897,-0.13683596813600396,Transport,Trains_Platforms
+644,Platform 3,51.411583118223916,-0.12180650305856293,Transport,Trains_Platforms
+647,Platform 1,51.432456823238525,-0.1051769862036039,Transport,Trains_Platforms
+648,Platform 4,51.41856619195501,-0.13580560684204102,Transport,Trains_Platforms
+649,Platform 1,51.43838167627056,-0.12790763662908475,Transport,Trains_Platforms
+650,Platform 1,51.42593,-0.131189,Transport,Trains_Platforms
+651,Platform 2,51.43842238872208,-0.12774767745594007,Transport,Trains_Platforms
+652,Platform 2,51.41148583874002,-0.12187072332767503,Transport,Trains_Platforms
+653,Platform 1,51.411485841992004,-0.12207586405597759,Transport,Trains_Platforms
+656,Platform 4,51.411592010564576,-0.1230077010217481,Transport,Trains_Platforms
+658,Platform 1,51.45344263059079,-0.1024987384214568,Transport,Trains_Platforms
+659,Platform 1,51.43988587502829,-0.10505130800234865,Transport,Trains_Platforms
+660,Platform 2,51.453605772571116,-0.10235309600830077,Transport,Trains_Platforms
+661,Platform 1,51.468081764796565,-0.08933240657312075,Transport,Trains_Platforms
+662,Lordship Lane Station (Disused),51.448848724365234,-0.07186289876699448,Transport,Trains_Platforms
+663,Brixton Junction,51.461630442799695,-0.11555056890726159,Transport,Trains_Platforms
+665,Platform 4,51.45360589713413,-0.10246312960433228,Transport,Trains_Platforms
+666,Platform 2,51.4681836230667,-0.0890354354602585,Transport,Trains_Platforms
+667,Platform 1,51.466300628591796,-0.10213174013587203,Transport,Trains_Platforms
+668,Platform 4,51.43976390361786,-0.10512113571166992,Transport,Trains_Platforms
+670,Platform 4 (S'bound Victoria),51.472404,-0.122773424,Transport,Trains_Platforms
+671,Platform 1,51.460955443054324,-0.07699561654815125,Transport,Trains_Platforms
+672,Platform 4,51.46822125942725,-0.08918627616158982,Transport,Trains_Platforms
+674,Platform 3,51.45367819697257,-0.10246312960433228,Transport,Trains_Platforms
+675,Platform 3,51.46800289837478,-0.08934008688720792,Transport,Trains_Platforms
+676,Platform 3,51.43975483935691,-0.10498138055361485,Transport,Trains_Platforms
+677,Platform 2,51.46125433549189,-0.08049150637982518,Transport,Trains_Platforms
+680,Platform 2,51.43991677,-0.10500829,Transport,Trains_Platforms
+681,Platform 3 (S'bound Northern),51.472366,-0.122713745,Transport,Trains_Platforms
+682,Platform 2 (N'bound Northern),51.472217,-0.122847,Transport,Trains_Platforms
+687,Platform 22,51.502994537353516,-0.11343497782945633,Transport,Trains_Platforms
+695,Platform 4,51.49547974135295,-0.10083038234335101,Transport,Trains_Platforms
+697,Platform 3 (N'bound Bakerloo),51.50331963806714,-0.11179985298073564,Transport,Trains_Platforms
+702,Platform 1,51.494041,-0.098586,Transport,Trains_Platforms
+704,Platform 1,51.48617668164991,-0.12308120727539062,Transport,Trains_Platforms
+706,Platform 3 (S'bound Northern),51.511516628596915,-0.12823717789783817,Transport,Trains_Platforms
+707,Platform 5,51.50239706420834,-0.11218087171213639,Transport,Trains_Platforms
+708,Platform 17,51.50310930152896,-0.11365006113830792,Transport,Trains_Platforms
+709,Platform 10,51.5028626347945,-0.11290386515602445,Transport,Trains_Platforms
+710,Platform 18,51.50325983887452,-0.11337161064147948,Transport,Trains_Platforms
+711,Platform 20,51.502080361765366,-0.1150044993926714,Transport,Trains_Platforms
+712,Platform C,51.50402878609898,-0.10903641271229186,Transport,Trains_Platforms
+713,Platform A,51.5041517190267,-0.10893216048018922,Transport,Trains_Platforms
+714,Platform 6,51.502612031433955,-0.11215925216674805,Transport,Trains_Platforms
+715,Platform 8,51.502976777841006,-0.11241333349418522,Transport,Trains_Platforms
+716,Platform 11,51.502800193833984,-0.11300109036030624,Transport,Trains_Platforms
+717,Platform 14,51.50307047311123,-0.1129383520812481,Transport,Trains_Platforms
+718,Platform 3,51.507965132082916,-0.12447714752114915,Transport,Trains_Platforms
+719,Platform 5,51.507907555075036,-0.12446804180147306,Transport,Trains_Platforms
+720,Platform D,51.50404120260676,-0.10891914367675781,Transport,Trains_Platforms
+721,Platform 9,51.50302476469332,-0.11257860941604976,Transport,Trains_Platforms
+722,Platform 7,51.502447546022125,-0.11290036256128513,Transport,Trains_Platforms
+726,Platform 4,51.520602776569866,-0.1051013276549249,Transport,Trains_Platforms
+727,"Platform 2 (E'bound Circle, District)",51.510401,-0.085907,Transport,Trains_Platforms
+728,Platform 2,51.52331372609919,-0.07542811605489173,Transport,Trains_Platforms
+729,Platform 1,51.51087923308819,-0.0901651382446289,Transport,Trains_Platforms
+730,Platform 4,51.517413,-0.120321,Transport,Trains_Platforms
+731,Platform 1,51.531226464763115,-0.07566425675735747,Transport,Trains_Platforms
+732,Platform 2,51.515143,-0.097827,Transport,Trains_Platforms
+734,Platform 1,51.520224,-0.098489,Transport,Trains_Platforms
+736,"Platform 2 (W'bound Circle, H&C, Metropolitan)",51.518314,-0.089122765,Transport,Trains_Platforms
+737,London Bridge Jubilee Line Westbound Platform,51.50516313735562,-0.08677482604980469,Transport,Trains_Platforms
+740,Platform 1,51.54182077086073,-0.13919251888820602,Transport,Trains_Platforms
+741,Platform 5 (Overground),51.51928904260516,-0.060971188222078546,Transport,Trains_Platforms
+742,Platform 1,51.515446,-0.071307,Transport,Trains_Platforms
+744,Platform 1,51.53875732421875,-0.07578100264072418,Transport,Trains_Platforms
+745,Platform 2,51.538908,-0.075424,Transport,Trains_Platforms
+750,Platform 4,51.50451671293951,-0.08441009393894973,Transport,Trains_Platforms
+752,Platform 1,51.50456485631831,-0.08389788065274811,Transport,Trains_Platforms
+756,Platform 2,51.50483732830256,-0.08445901598407836,Transport,Trains_Platforms
+758,Platform 4,51.511333740680925,-0.07744312269397793,Transport,Trains_Platforms
+760,Platform 13,51.51821080669452,-0.08164165698599568,Transport,Trains_Platforms
+761,Platform 10,51.51781022578314,-0.08898583020488347,Transport,Trains_Platforms
+762,Platform 4,51.53254046455982,-0.12731480703223497,Transport,Trains_Platforms
+763,"Platform 2 (W'bound Circle, H&C, Metropolitan)",51.51729056480408,-0.08293664500334526,Transport,Trains_Platforms
+764,Platform 9,51.53209434915499,-0.12427257676925083,Transport,Trains_Platforms
+765,Platform 9 (DLR),51.5130399917719,-0.0884209069711756,Transport,Trains_Platforms
+766,Platform 3,51.532677950396405,-0.12743057028274052,Transport,Trains_Platforms
+767,Platform 5,51.518421589865,-0.08184671309357328,Transport,Trains_Platforms
+768,Platform 10,51.53137381895409,-0.12572050094604492,Transport,Trains_Platforms
+769,Platform 16,51.51852689911091,-0.07977701997440029,Transport,Trains_Platforms
+770,Platform 17,51.51830956862257,-0.0800813226915268,Transport,Trains_Platforms
+771,Platform 2,51.5506516210735,-0.13954502530396,Transport,Trains_Platforms
+772,Platform 2 (N'bound Victoria),51.56473219291197,-0.10655102677529431,Transport,Trains_Platforms
+773,Platform 2 (W'bound Piccadilly),51.56473219291197,-0.10655102677529431,Transport,Trains_Platforms
+774,Platform 4 (S'bound Victoria),51.56464675194802,-0.10623952305902645,Transport,Trains_Platforms
+775,platform 3,51.55065809931515,-0.14030579820384428,Transport,Trains_Platforms
+776,Platform 2,51.571383,-0.117136,Transport,Trains_Platforms
+777,Platform 8,51.56476057903838,-0.10687615351993447,Transport,Trains_Platforms
+779,Platform 3,51.55544710543232,-0.1511389751067327,Transport,Trains_Platforms
+780,Platform 1,51.5553345065564,-0.151187404990196,Transport,Trains_Platforms
+781,Platform 3,51.539207458496094,-0.14307020604610443,Transport,Trains_Platforms
+782,Platform 5,51.5647552461196,-0.106584186155957,Transport,Trains_Platforms
+783,Platform 2,51.5555797610432,-0.151255046948791,Transport,Trains_Platforms
+785,Platform 2,51.541959429746754,-0.13922564470647167,Transport,Trains_Platforms
+786,Platform 3 (S’bound Piccadilly),51.56469,-0.106018,Transport,Trains_Platforms
+787,Platform 6,51.56459797350985,-0.10659631801337348,Transport,Trains_Platforms
+788,Platform 3,51.543307,-0.115235,Transport,Trains_Platforms
+790,Platform 3,51.56484554667707,-0.1063450008461579,Transport,Trains_Platforms
+791,Platform 2,51.546863,-0.146765,Transport,Trains_Platforms
+792,Platform 1 (N’bound Piccadilly),51.564405,-0.105974,Transport,Trains_Platforms
+793,Platform 2,51.564808581598236,-0.10609820817753096,Transport,Trains_Platforms
+794,Platform 1,51.56464323512861,-0.10602394749450493,Transport,Trains_Platforms
+795,Platform 7,51.56477742644943,-0.10655344938262357,Transport,Trains_Platforms
+796,Signal K328,51.55638885498047,-0.1057455986738205,Transport,Trains_Platforms
+797,Platform 1,51.597346,-0.109941,Transport,Trains_Platforms
+798,Platform 1,51.577225,-0.097805075,Transport,Trains_Platforms
+800,Platform 1,51.597954,-0.11997253,Transport,Trains_Platforms
+801,Platform 1,51.57735,-0.105126165,Transport,Trains_Platforms
+802,Platform 3,51.582476,-0.074884,Transport,Trains_Platforms
+803,Platform 1,51.58040715212972,-0.07197976112365723,Transport,Trains_Platforms
+804,Platform 1,51.58660509270548,-0.11139957374194584,Transport,Trains_Platforms
+805,Platform 1,51.582918,-0.075108,Transport,Trains_Platforms
+806,Platform 1,51.61857366027264,-0.11025561118969099,Transport,Trains_Platforms
+807,Hornsey Reversing Signal K440,51.58629649961329,-0.11175155639648438,Transport,Trains_Platforms
+808,Platform 2,51.57725,-0.09803943,Transport,Trains_Platforms
+809,Platform 1,51.60443286815165,-0.07100343704223633,Transport,Trains_Platforms
+810,Platform 2,51.618504821472854,-0.11069731938670514,Transport,Trains_Platforms
+811,Platform 4,51.616408,-0.133191,Transport,Trains_Platforms
+812,Platform 3,51.616456,-0.133135,Transport,Trains_Platforms
+813,Platform 2,51.633896,-0.100754835,Transport,Trains_Platforms
+814,Platform 1,51.634056,-0.100864135,Transport,Trains_Platforms
+820,Platform 1,51.652895253455725,-0.09072527502761989,Transport,Trains_Platforms
+821,Platform 2,51.65204824842104,-0.07931828498840332,Transport,Trains_Platforms
+822,Platform 1,51.2824419670597,-0.07847886235607414,Transport,Trains_Platforms
+823,Platform 2,51.28251266146494,-0.07859277986886452,Transport,Trains_Platforms
+830,Platform 5,51.36060772711934,-0.09303682508740106,Transport,Trains_Platforms
+838,Platform 3,51.36310958862305,-0.09335599839687347,Transport,Trains_Platforms
+839,Platform 4,51.36324,-0.093173236,Transport,Trains_Platforms
+840,Platform 2,51.348568,-0.0932356,Transport,Trains_Platforms
+845,Platform 1,51.39011,-0.026431829,Transport,Trains_Platforms
+854,Platform 1,51.408302,-0.040906,Transport,Trains_Platforms
+855,Platform 2,51.39847051206711,-0.04921692183160143,Transport,Trains_Platforms
+856,Platform 2,51.4124985264756,-0.04508316598958764,Transport,Trains_Platforms
+857,Platform 3,51.398043,-0.049319,Transport,Trains_Platforms
+858,Platform 2,51.41772581443656,-0.07259130612756831,Transport,Trains_Platforms
+859,Platform 1,51.41763069706617,-0.07233335080723724,Transport,Trains_Platforms
+860,Platform 1,51.41758909992424,-0.061219999112272445,Transport,Trains_Platforms
+861,Platform 5,51.41780618168007,-0.07173009749826467,Transport,Trains_Platforms
+863,Platform 6,51.41790775285767,-0.07181851277404101,Transport,Trains_Platforms
+864,Platform 4,51.41778519936899,-0.07198897273585114,Transport,Trains_Platforms
+867,Platform 1,51.412493,-0.065617,Transport,Trains_Platforms
+868,Platform 1,51.439437348822636,-0.05299361038770465,Transport,Trains_Platforms
+869,Platform 2,51.43941350538019,-0.052953899718879996,Transport,Trains_Platforms
+874,Platform 3,51.41766714856031,-0.07105812742515533,Transport,Trains_Platforms
+876,Platform 1,51.455006,-0.036436133,Transport,Trains_Platforms
+877,Platform A,51.477015018558916,-0.032977406938629494,Transport,Trains_Platforms
+878,Platform 2,51.46963992768136,-0.07007306019586075,Transport,Trains_Platforms
+879,Platform 6,51.452081112278854,-0.00030628521178102886,Transport,Trains_Platforms
+880,Platform D,51.477237612461195,-0.03293090848928273,Transport,Trains_Platforms
+881,Platform 4,51.46565491847443,-0.013068480864324467,Transport,Trains_Platforms
+882,Platform 5,51.45178723841277,-0.0006437301635742188,Transport,Trains_Platforms
+883,Platform 2,51.47559097327417,-0.0404418917369129,Transport,Trains_Platforms
+884,Platform 3,51.46552527934769,-0.013268257630840276,Transport,Trains_Platforms
+885,Platform 2,51.464627879129324,-0.03747395314563942,Transport,Trains_Platforms
+886,Platform 1,51.46563062981882,-0.014138316161798193,Transport,Trains_Platforms
+887,Platform 2,51.46548925875884,-0.01389683153161746,Transport,Trains_Platforms
+888,Platform 1,51.478240131319644,-0.01566330215863092,Transport,Trains_Platforms
+889,Platform 3,51.45154829607313,-0.0005656946202701333,Transport,Trains_Platforms
+890,Platform 5,51.47542413780051,-0.040613777566686514,Transport,Trains_Platforms
+892,Platform 1,51.47886,-0.026211217,Transport,Trains_Platforms
+893,Platform C,51.47635032426007,-0.03256937380515705,Transport,Trains_Platforms
+894,Platform 1,51.469675818744314,-0.06958830659357836,Transport,Trains_Platforms
+895,Platform 1,51.46917641143502,-0.02275207868202677,Transport,Trains_Platforms
+896,Platform 1,51.445557177799905,-0.02469373564615994,Transport,Trains_Platforms
+897,North Kent East Junction,51.48318020715452,-0.03851652145385742,Transport,Trains_Platforms
+898,Platform 3,51.478019201124155,-0.015340610717316388,Transport,Trains_Platforms
+899,Platform 2,51.47822446839174,-0.014642685544887055,Transport,Trains_Platforms
+900,Platform 1,51.444871,-0.026107,Transport,Trains_Platforms
+901,Platform 2,51.445224,-0.024799,Transport,Trains_Platforms
+903,Platform 1,51.45147968503341,-0.000858306884765625,Transport,Trains_Platforms
+905,Platform 5,51.464474,-0.01291316,Transport,Trains_Platforms
+906,Platform 1,51.47549988286095,-0.04038208193864101,Transport,Trains_Platforms
+907,Platform 2,51.45168026355929,-0.000858306884765625,Transport,Trains_Platforms
+908,Platform 2,51.443298209503,-0.027894569836208187,Transport,Trains_Platforms
+910,Platform 1,51.45019131257314,-0.04535376089785405,Transport,Trains_Platforms
+911,Platform 3,51.47546121325945,-0.04042165546788124,Transport,Trains_Platforms
+912,Platform B,51.4771229418543,-0.03314320662808248,Transport,Trains_Platforms
+914,Platform 4,51.47523780039187,-0.04034735732071082,Transport,Trains_Platforms
+915,Platform 1,51.466934,-0.053275,Transport,Trains_Platforms
+916,Platform 2,51.47405753469567,-0.05708825192015659,Transport,Trains_Platforms
+917,Platform 2,51.4501140829767,-0.045338743283304096,Transport,Trains_Platforms
+918,Platform 2,51.46920462916486,-0.02265229960621686,Transport,Trains_Platforms
+919,Platform 4,51.47018673633285,-0.06943398576233306,Transport,Trains_Platforms
+920,Platform 3,51.470122798203185,-0.06965198359543265,Transport,Trains_Platforms
+921,Platform 1,51.4737,-0.05268,Transport,Trains_Platforms
+922,Platform 1,51.4559388197933,-0.019486705378187485,Transport,Trains_Platforms
+923,Platform 1,51.464644972529165,-0.037561848911940705,Transport,Trains_Platforms
+924,Platform 2,51.45565,-0.019207299,Transport,Trains_Platforms
+925,Platform 1,51.433364,-0.019657,Transport,Trains_Platforms
+926,Platform 12,51.503661381920736,-0.08467329199388034,Transport,Trains_Platforms
+930,Platform 3,51.49805037059137,-0.04970031523281401,Transport,Trains_Platforms
+931,Platform 2,51.51442,-0.075786,Transport,Trains_Platforms
+934,Platform 1,51.511775900302965,-0.05531020361448152,Transport,Trains_Platforms
+936,Platform 6 (E'bound Central),51.513449906831404,-0.08881330490112305,Transport,Trains_Platforms
+940,Platform 4,51.498031,-0.050051,Transport,Trains_Platforms
+941,Platform 2,51.5006952111872,-0.0518392123287671,Transport,Trains_Platforms
+942,Platform 1,51.50067,-0.051845,Transport,Trains_Platforms
+946,Platform 9,51.5039543850759,-0.08470416069030762,Transport,Trains_Platforms
+962,Platform 3,51.511440119731745,-0.09037971496582031,Transport,Trains_Platforms
+963,Platform 5,51.50448668077525,-0.08444453620040464,Transport,Trains_Platforms
+967,Platform 1,51.493316597169695,-0.04765676411041914,Transport,Trains_Platforms
+970,Platform 7,51.50415631488961,-0.08483017840736279,Transport,Trains_Platforms
+971,Platform 6,51.50432009407102,-0.08442200835874199,Transport,Trains_Platforms
+972,Platform 10,51.503997793862,-0.08490800857543945,Transport,Trains_Platforms
+974,Platform 2,51.52502881087711,-0.03366124438209639,Transport,Trains_Platforms
+976,Platform 1 (W'bound Central),51.525285,-0.033525,Transport,Trains_Platforms
+977,Platform 4 (E'bound Central),51.525005,-0.034181066,Transport,Trains_Platforms
+979,Platform 2,51.547104,-0.042659,Transport,Trains_Platforms
+980,Platform 1,51.523249,-0.075358,Transport,Trains_Platforms
+981,Platform 2,51.53133047666,-0.07555650557381655,Transport,Trains_Platforms
+983,Platform 12,51.51771815683171,-0.08164165698599568,Transport,Trains_Platforms
+985,Platform 1,51.514337,-0.075748,Transport,Trains_Platforms
+988,"Platform 3 (E'Bound District, H&C)",51.52521,-0.033441,Transport,Trains_Platforms
+989,Platform 4,51.51440167660497,-0.07571150964446789,Transport,Trains_Platforms
+990,Platform 1,51.546997,-0.042534,Transport,Trains_Platforms
+991,Platform 3,51.518110230447704,-0.08196994341443392,Transport,Trains_Platforms
+992,Platform 1,51.509052,-0.026811697,Transport,Trains_Platforms
+994,Platform 1,51.54237384714265,-0.023210649455205606,Transport,Trains_Platforms
+995,Platform 3,51.51905351498543,-0.08085857319442744,Transport,Trains_Platforms
+996,Platform 3,51.514159,-0.075669,Transport,Trains_Platforms
+998,Platform 2,51.54345,-0.024207272,Transport,Trains_Platforms
+999,Platform 5,51.50512764630308,-0.020795321602603604,Transport,Trains_Platforms
+1001,Platform 2,51.515359,-0.070887,Transport,Trains_Platforms
+1004,Platform 3,51.519586,-0.060546,Transport,Trains_Platforms
+1006,"Platform 1 (E'bound District, H&C)",51.51949416059669,-0.061618702960854296,Transport,Trains_Platforms
+1007,Platform 4,51.512351989746094,-0.04008326679468155,Transport,Trains_Platforms
+1008,Platform 2,51.51118,-0.056966096,Transport,Trains_Platforms
+1010,Platform 18,51.51776310248183,-0.0811646537842293,Transport,Trains_Platforms
+1011,Platform 10,51.51824902672383,-0.08176449402464844,Transport,Trains_Platforms
+1012,Platform 14,51.517825252238445,-0.0812723569172053,Transport,Trains_Platforms
+1013,Platform 4,51.51817042385139,-0.08187510754884567,Transport,Trains_Platforms
+1014,Platform 2,51.51811186816137,-0.08193508318582311,Transport,Trains_Platforms
+1015,Platform 15,51.5177286605877,-0.08124875055524003,Transport,Trains_Platforms
+1017,Platform 11,51.5184265488377,-0.08135973674460033,Transport,Trains_Platforms
+1018,Platform 1,51.51817353117415,-0.08192381854197135,Transport,Trains_Platforms
+1019,Platform 9,51.51910426625349,-0.08125600879410529,Transport,Trains_Platforms
+1020,Platform 7,51.51864734552055,-0.08164165698599568,Transport,Trains_Platforms
+1023,Platform 6 (Overground),51.51986659682688,-0.06022388343501546,Transport,Trains_Platforms
+1024,Platform 2,51.559284,-0.0688684,Transport,Trains_Platforms
+1030,Platform 3,51.548184359634774,-0.06047542467223532,Transport,Trains_Platforms
+1031,Platform 1,51.54842047073684,-0.060448410446289326,Transport,Trains_Platforms
+1032,Platform 1,51.54611,-0.075164,Transport,Trains_Platforms
+1033,Platform 1,51.547050649765616,-0.05694937140176809,Transport,Trains_Platforms
+1034,Platform 1,51.56167,-0.056774,Transport,Trains_Platforms
+1038,Platform 1,51.548222907988894,-0.07605554313087191,Transport,Trains_Platforms
+1040,Platform 1,51.566466,-0.036459,Transport,Trains_Platforms
+1042,Platform 4,51.545742,-0.075106,Transport,Trains_Platforms
+1043,Platform 2,51.54856236929082,-0.060451937650710025,Transport,Trains_Platforms
+1046,Platform 2,51.546143,-0.075153,Transport,Trains_Platforms
+1047,Platform 2,51.54856901576553,-0.09282415273629334,Transport,Trains_Platforms
+1048,Platform 2,51.547045941109985,-0.05671865858538778,Transport,Trains_Platforms
+1049,Platform 4,51.54865082572965,-0.09287581099209984,Transport,Trains_Platforms
+1051,Platform 1,51.588451699166484,-0.05968285472216795,Transport,Trains_Platforms
+1052,Platform 2,51.541035,-0.057955,Transport,Trains_Platforms
+1057,Platform 4,51.54618190308668,-0.10381733675182647,Transport,Trains_Platforms
+1058,Platform 3,51.548712,-0.092231,Transport,Trains_Platforms
+1059,Platform 2,51.566448,-0.036467,Transport,Trains_Platforms
+1062,Platform 4,51.54851812059685,-0.06077449095833905,Transport,Trains_Platforms
+1063,Platform 3,51.545886,-0.075293,Transport,Trains_Platforms
+1064,Platform 4,51.58856519419145,-0.05982153081570906,Transport,Trains_Platforms
+1065,Platform 8,51.546038232986945,-0.10457683434919385,Transport,Trains_Platforms
+1067,Platform 7,51.5459384095165,-0.10502481831389893,Transport,Trains_Platforms
+1068,Platform 2,51.545991871311294,-0.10426747108698271,Transport,Trains_Platforms
+1069,Platform 1,51.545979371366094,-0.10469360533070181,Transport,Trains_Platforms
+1073,Platform 2,51.586669,-0.040951,Transport,Trains_Platforms
+1074,Platform 1,51.581055,-0.03259,Transport,Trains_Platforms
+1075,Platform 2,51.583013,-0.019917,Transport,Trains_Platforms
+1076,Platform 3,51.58924682381885,-0.05968451499938964,Transport,Trains_Platforms
+1077,Southbound Platform 1,51.583079,-0.020238,Transport,Trains_Platforms
+1079,Platform 1,51.583006,-0.019912,Transport,Trains_Platforms
+1081,Platform 2,51.582911,-0.019544,Transport,Trains_Platforms
+1086,Platform 1,51.6244279593229,-0.0613691937178373,Transport,Trains_Platforms
+1093,Platform 2,51.376307750497915,0.010600090026855469,Transport,Trains_Platforms
+1094,Platform 1,51.377448988123135,0.010462441454234995,Transport,Trains_Platforms
+1095,Platform 1,51.40003626138692,0.018283950030003646,Transport,Trains_Platforms
+1096,Platform 3,51.40016381503875,0.017808716684389807,Transport,Trains_Platforms
+1097,Platform 2,51.40012947325242,0.017871281967041058,Transport,Trains_Platforms
+1098,Platform 4,51.40020626417197,0.018310515616526673,Transport,Trains_Platforms
+1101,Platform 1,51.4244470132101,-0.016007423400878906,Transport,Trains_Platforms
+1108,Walworth Road Station(Disused),51.428020852222616,-0.02342424481111926,Transport,Trains_Platforms
+1109,Platform 4,51.43057414451922,0.022420877796565694,Transport,Trains_Platforms
+1115,Platform 1,51.42968853532053,0.02332833430370863,Transport,Trains_Platforms
+1116,Platform 2,51.43073878359107,-0.018809196762407086,Transport,Trains_Platforms
+1117,Platform 2,51.42479,-0.033223,Transport,Trains_Platforms
+1118,Platform 3,51.411088,-0.02621,Transport,Trains_Platforms
+1119,Platform 4,51.45144510104646,-0.0004943128278332422,Transport,Trains_Platforms
+1121,Platform 2,51.411256,-0.026654,Transport,Trains_Platforms
+1122,Platform 5,51.43022712,0.023197,Transport,Trains_Platforms
+1125,Platform 1,51.424768128418,-0.03330230712890625,Transport,Trains_Platforms
+1127,Platform 4,51.411244,-0.027195,Transport,Trains_Platforms
+1128,Platform 1,51.462178,0.027466,Transport,Trains_Platforms
+1134,Platform 2,51.449642,0.013967603,Transport,Trains_Platforms
+1135,Platform 2,51.46206902613784,0.027573108673095703,Transport,Trains_Platforms
+1136,Platform 1,51.44691099834334,0.012055603292155036,Transport,Trains_Platforms
+1140,Platform 1,51.45633585550144,0.052521311166089484,Transport,Trains_Platforms
+1141,Platform 2,51.455704,0.052708,Transport,Trains_Platforms
+1146,Platform 2,51.48272,0.0029923394,Transport,Trains_Platforms
+1149,Platform 2,51.46577837166631,0.008280445441108892,Transport,Trains_Platforms
+1150,Platform 1,51.465704176388165,0.008070752701667102,Transport,Trains_Platforms
+1152,Platform 2,51.500028,-0.016353,Transport,Trains_Platforms
+1153,Platform 1,51.48680802072646,0.031789541244506836,Transport,Trains_Platforms
+1154,Platform 1,51.51392052937802,0.008429304146064938,Transport,Trains_Platforms
+1156,Platform 3 (E'bound Jubilee),51.500140878334044,0.003569365861903705,Transport,Trains_Platforms
+1157,Platform 2,51.502712,0.022752509,Transport,Trains_Platforms
+1158,Platform 1,51.50272014200392,0.023171966363423602,Transport,Trains_Platforms
+1164,Platform 5,51.51400420457143,0.00825365995737152,Transport,Trains_Platforms
+1165,Platform 1 (W'bound Jubilee),51.5002677231334,0.003503019867447528,Transport,Trains_Platforms
+1166,platform 3 Canning Town,51.507452283725605,0.02317589515246537,Transport,Trains_Platforms
+1167,Platform 2,51.51396,0.007875301,Transport,Trains_Platforms
+1168,Platform 2,51.50915143334411,0.017546766051780537,Transport,Trains_Platforms
+1169,Platform 1,51.509177,0.017785,Transport,Trains_Platforms
+1170,Platform 6,51.51422,0.007747896,Transport,Trains_Platforms
+1175,Platfrom 6,51.505061,-0.020921,Transport,Trains_Platforms
+1177,Platform 4,51.514034,0.00797689,Transport,Trains_Platforms
+1184,Platform 3,51.513798864901304,0.008541118947664976,Transport,Trains_Platforms
+1189,Platform 2,51.49310103441104,-0.047728738975768625,Transport,Trains_Platforms
+1194,Platform 2,51.53130924031235,0.017180425010372268,Transport,Trains_Platforms
+1195,Platform 10a,51.542612324935064,-0.0030391175244253985,Transport,Trains_Platforms
+1196,Platform 17,51.54104480959871,-0.0029626179151991242,Transport,Trains_Platforms
+1197,Platform 14,51.540509831921206,-0.0028330252866339044,Transport,Trains_Platforms
+1198,Platform 15,51.54012401808117,-0.0024172559520980554,Transport,Trains_Platforms
+1199,Platform 10,51.54219156357195,-0.0032659553628511546,Transport,Trains_Platforms
+1200,Platform 13,51.54046157061831,-0.002849493605055255,Transport,Trains_Platforms
+1201,Platform 11,51.54269513861408,-0.0033395743575373904,Transport,Trains_Platforms
+1202,Platform 9,51.5419660257573,-0.0036160565073167393,Transport,Trains_Platforms
+1203,Platform 3 (W'bound Central),51.5416403533294,-0.0033252726767332955,Transport,Trains_Platforms
+1204,Platform 8,51.542047420300854,-0.0035632118898888854,Transport,Trains_Platforms
+1205,Platform 1,51.542357725290536,-0.003920791234752872,Transport,Trains_Platforms
+1206,Platform 5,51.54167177137588,-0.0035318883969322683,Transport,Trains_Platforms
+1207,Platform 3a,51.54156898731994,-0.003266974672745035,Transport,Trains_Platforms
+1209,Platform 4,51.544614854363815,-0.00910864308096677,Transport,Trains_Platforms
+1213,"Platform 1 (W'bound District, H&C)",51.52740198913539,0.004487648487917868,Transport,Trains_Platforms
+1214,Platform 7,51.528700871931186,0.006135901861290099,Transport,Trains_Platforms
+1218,Platform 4,51.508614,0.025581233,Transport,Trains_Platforms
+1219,Platform 3,51.54492300452531,-0.007554730012676736,Transport,Trains_Platforms
+1222,Platform 5 (W'bound Jubilee),51.52740198913539,0.004487648487917868,Transport,Trains_Platforms
+1225,Platform 2,51.532319,0.003746,Transport,Trains_Platforms
+1226,Platform 4b (DLR),51.54061986330876,-0.00022644695338473484,Transport,Trains_Platforms
+1227,Platform 3 (S'bound DLR),51.527542906521234,0.004656437904867803,Transport,Trains_Platforms
+1228,Platform 8,51.52855850666899,0.005773472664228193,Transport,Trains_Platforms
+1229,Platform 1,51.54482543348586,-0.009716563655727954,Transport,Trains_Platforms
+1230,East Anglia Railways - Southend Airport,51.54274,-0.00448,Transport,Trains_Platforms
+1231,Platform 4a (DLR),51.54121037888218,-0.0030356886409270423,Transport,Trains_Platforms
+1232,Platform 1,51.531154,0.01695,Transport,Trains_Platforms
+1233,Platform 2,51.54465733765702,-0.00908756899175282,Transport,Trains_Platforms
+1234,Platform 4,51.54068138602423,-0.00489324474758028,Transport,Trains_Platforms
+1236,Platform 1,51.52868443274249,0.005840010678820097,Transport,Trains_Platforms
+1237,Platform 1,51.549339,0.023806,Transport,Trains_Platforms
+1238,Platform 1,51.54570871512401,-0.009212338387041604,Transport,Trains_Platforms
+1239,Platform 12,51.542832078932946,-0.0034868717193603516,Transport,Trains_Platforms
+1241,Platform 5,51.527520797346575,0.004494206466485768,Transport,Trains_Platforms
+1242,Platform 3,51.52748581733902,0.004768123971345919,Transport,Trains_Platforms
+1243,Platform 1,51.556538,-0.005515963,Transport,Trains_Platforms
+1244,Platform 2,51.55662,-0.00550624,Transport,Trains_Platforms
+1247,Platform 6 (E'bound Central),51.541960132001755,-0.003563212545639034,Transport,Trains_Platforms
+1249,Platform 2 (W'bound Central),51.56848404992482,0.008439294343434546,Transport,Trains_Platforms
+1252,Platform 3 (E'bound Central),51.568478076879224,0.008343615084816585,Transport,Trains_Platforms
+1254,Platform 1 (W'bound Central),51.56805538993954,0.008054905627818144,Transport,Trains_Platforms
+1261,Platform 16 (DLR),51.541015229494505,-0.0029783369999238987,Transport,Trains_Platforms
+1268,Platform 1,51.563595,0.008306801,Transport,Trains_Platforms
+1280,Platform 2,51.54233649735213,-0.003967238756944503,Transport,Trains_Platforms
+1288,Platform 1,51.608766,-0.000241,Transport,Trains_Platforms
+1292,Platform 3,51.701534,-0.024071,Transport,Trains_Platforms
+1293,Platform 2,51.702244,-0.023929998,Transport,Trains_Platforms
+1294,Platform 1,51.702183,-0.023809634,Transport,Trains_Platforms
+1295,Platform 1,51.68444,-0.026451275,Transport,Trains_Platforms
+1296,Platform 2,51.39493786251367,0.10661331420710875,Transport,Trains_Platforms
+1297,Platform 1,51.405892420580415,0.056832064781684996,Transport,Trains_Platforms
+1298,Platform 5,51.37359790612563,0.08910607375875267,Transport,Trains_Platforms
+1299,Platform 7,51.37353862380033,0.08915513203678455,Transport,Trains_Platforms
+1300,Platform 1,51.394734098071055,0.10630130767822266,Transport,Trains_Platforms
+1301,Platform 3,51.39463130269848,0.10564621274797173,Transport,Trains_Platforms
+1302,Platform 4,51.39484120630583,0.1064300537109375,Transport,Trains_Platforms
+1303,Platform 6,51.373642169966466,0.0891352725817045,Transport,Trains_Platforms
+1304,Platform 8,51.37364641341551,0.08910907339460646,Transport,Trains_Platforms
+1305,Platform 1,51.373280620643364,0.0890493392944336,Transport,Trains_Platforms
+1306,Platform 3,51.4059524388559,0.05686217498678757,Transport,Trains_Platforms
+1307,Platform 3,51.373280620643364,0.0890493392944336,Transport,Trains_Platforms
+1308,Platform 4,51.40597194224416,0.05691714317630317,Transport,Trains_Platforms
+1309,Platform 2,51.37369424246071,0.0885756000128438,Transport,Trains_Platforms
+1310,Platform 4,51.37362832054002,0.08902778192130363,Transport,Trains_Platforms
+1311,Platform 3,51.417253946632655,0.04411470434953171,Transport,Trains_Platforms
+1314,Platform 1,51.44026004120868,0.05006378786625041,Transport,Trains_Platforms
+1315,Platform 2,51.440197,0.050395,Transport,Trains_Platforms
+1316,Platform 1,51.43792621683466,0.07265994618715015,Transport,Trains_Platforms
+1319,Platform 2,51.438031,0.071209,Transport,Trains_Platforms
+1322,Platform 1,51.41731168288659,0.04414831077082574,Transport,Trains_Platforms
+1323,Platform 4,51.417009245113235,0.044598528615684495,Transport,Trains_Platforms
+1324,Platform 1,51.459372757123575,0.08031905874555165,Transport,Trains_Platforms
+1325,Platform 1,51.4339730801524,0.10402084074780897,Transport,Trains_Platforms
+1326,Platform 2,51.43391299687232,0.1042784386526659,Transport,Trains_Platforms
+1332,Platform 1,51.48948667592084,0.07097780417334741,Transport,Trains_Platforms
+1335,Platform 1,51.503695,0.048068,Transport,Trains_Platforms
+1336,Platform 2,51.502003,0.062456,Transport,Trains_Platforms
+1338,Platform 2,51.48978088330694,0.08453579042816248,Transport,Trains_Platforms
+1339,Platform 3,51.489855496828824,0.07201603924297287,Transport,Trains_Platforms
+1340,Platform 4,51.48987,0.06888952,Transport,Trains_Platforms
+1341,Platform 2,51.489851,0.069702,Transport,Trains_Platforms
+1342,Platform 1,51.48977435852457,0.08433364272546624,Transport,Trains_Platforms
+1343,Platform 4,51.53974843408886,0.08039526090275215,Transport,Trains_Platforms
+1344,Platform 8,51.539641961931885,0.0802940077473688,Transport,Trains_Platforms
+1345,Platform 5,51.540062,0.07983059,Transport,Trains_Platforms
+1346,South Kensington,51.539891,0.058298,Transport,Trains_Platforms
+1347,Platform 7,51.539826936489035,0.07998799622430715,Transport,Trains_Platforms
+1348,Platform 3,51.539822646414315,0.07973670959472656,Transport,Trains_Platforms
+1349,Platform 1,51.53997856627332,0.08054675307289214,Transport,Trains_Platforms
+1350,Platform 2,51.53995610661889,0.08035898208618164,Transport,Trains_Platforms
+1351,Platform 6,51.53970019732085,0.08032944225911438,Transport,Trains_Platforms
+1352,Platform 3,51.540259087130906,0.07909992036295696,Transport,Trains_Platforms
+1353,Platform 3,51.55898352480549,0.06943702697753906,Transport,Trains_Platforms
+1373,Platform 3,51.39321657484832,0.1677769764523874,Transport,Trains_Platforms
+1374,Platform 2,51.39334166819837,0.16925811767578125,Transport,Trains_Platforms
+1375,Platform 1,51.39312904623406,0.16830652436607085,Transport,Trains_Platforms
+1382,Platform 1,51.440586,0.14735922,Transport,Trains_Platforms
+1383,Platform 2,51.463504,0.13423,Transport,Trains_Platforms
+1385,Platform 1,51.46354124308935,0.1332253312810971,Transport,Trains_Platforms
+1386,Platform 1,51.448090006186256,0.17829255215630505,Transport,Trains_Platforms
+1387,Platform 1,51.491023,0.119491,Transport,Trains_Platforms
+1392,Platform 2,51.52675871069771,0.14120728476299124,Transport,Trains_Platforms
+1393,Platform 1,51.52619851767387,0.1466215536518774,Transport,Trains_Platforms
+1394,Platform 1,51.544134105386526,0.1656186358862713,Transport,Trains_Platforms
+1395,Platform 2,51.54408707971493,0.16540897763554369,Transport,Trains_Platforms
+1396,Platform 3,51.54377290280933,0.1629924774169922,Transport,Trains_Platforms
+1397,Platform 3,51.565725142179744,0.11033616603950541,Transport,Trains_Platforms
+1398,Platform 3,51.570257451949026,0.12703532217978294,Transport,Trains_Platforms
+1399,Platform 4,51.568176,0.12905315,Transport,Trains_Platforms
+1402,Platform 1,51.33200597600252,0.18891334533691406,Transport,Trains_Platforms
+1403,Platform 2,51.33191,0.188598,Transport,Trains_Platforms
+1406,Platform 1,51.446625507278696,0.22903269925465855,Transport,Trains_Platforms
+1407,Dartford Station (DFD) Platform 4,51.44747211852336,0.21897716329728176,Transport,Trains_Platforms
+1408,Platform 1,51.46779052639169,0.19043684005737305,Transport,Trains_Platforms
+1410,Platform 2,51.44743115339955,0.21913647651672363,Transport,Trains_Platforms
+1411,Platform 3,51.44738755648635,0.2193224433633732,Transport,Trains_Platforms
+1413,Platform 1,51.51683496238804,0.1904153823852539,Transport,Trains_Platforms
+1416,Platform 1,51.575007837490936,0.18420589335459198,Transport,Trains_Platforms
+1417,Platform 5,51.574803646190226,0.18267890166991835,Transport,Trains_Platforms
+1419,Platform 3,51.574636522109294,0.18278054332832566,Transport,Trains_Platforms
+1420,Platform 2,51.57455389237582,0.182257202395534,Transport,Trains_Platforms
+1421,Platform 4,51.57478494474415,0.18279246623586304,Transport,Trains_Platforms
+1422,Platform 3,51.58175506386455,0.20575265458347203,Transport,Trains_Platforms
+1428,Platform 1,51.481167,0.23687494,Transport,Trains_Platforms
+1429,Platform 6,51.55919588896017,0.25118779915335465,Transport,Trains_Platforms
+1430,Platform 1,51.55889765212936,0.25144798044279765,Transport,Trains_Platforms
+1431,Platform 4,51.558973146907185,0.25179142349653744,Transport,Trains_Platforms
+1432,Platform 2,51.55892831900678,0.2519422087568527,Transport,Trains_Platforms
+1433,Platform 1A,51.558941437691715,0.2516711355951318,Transport,Trains_Platforms
+1434,Platform 5,51.55908357784749,0.2524709701538086,Transport,Trains_Platforms
+1435,Platform 3,51.5589631029615,0.2522764625004215,Transport,Trains_Platforms
